@@ -1,0 +1,192 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/23/19,01:10 PM,01:10 PM,Braves at Mets,First Data Field - Port St. Lucie,Local TV: SNY- ESPN+ ----- Local Radio: WCBS 880,02/23/19,02/23/19,04:10 PM,04:10 PM,False,True,02/23/19,12:10 PM,12:10 PM,FREE,BUSY
+1,02/24/19,01:10 PM,01:10 PM,Astros at Mets,First Data Field - Port St. Lucie,Local TV: WPIX ----- Local Radio: WCBS 880,02/24/19,02/24/19,04:10 PM,04:10 PM,False,True,02/24/19,12:10 PM,12:10 PM,FREE,BUSY
+2,02/26/19,01:10 PM,01:10 PM,Tigers at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only),02/26/19,02/26/19,04:10 PM,04:10 PM,False,True,02/26/19,12:10 PM,12:10 PM,FREE,BUSY
+3,02/27/19,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only),02/27/19,02/27/19,04:10 PM,04:10 PM,False,True,02/27/19,12:10 PM,12:10 PM,FREE,BUSY
+4,03/02/19,01:10 PM,01:10 PM,Astros at Mets,First Data Field - Port St. Lucie,Local TV: WPIX- MLBN (out-of-market only) ----- Local Radio: WCBS 880,03/02/19,03/02/19,04:10 PM,04:10 PM,False,True,03/02/19,12:10 PM,12:10 PM,FREE,BUSY
+5,03/04/19,01:10 PM,01:10 PM,Red Sox at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only),03/04/19,03/04/19,04:10 PM,04:10 PM,False,True,03/04/19,12:10 PM,12:10 PM,FREE,BUSY
+6,03/08/19,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,Local TV: SNY,03/08/19,03/08/19,04:10 PM,04:10 PM,False,True,03/08/19,12:10 PM,12:10 PM,FREE,BUSY
+7,03/10/19,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes,03/10/19,03/10/19,04:10 PM,04:10 PM,False,True,03/10/19,12:10 PM,12:10 PM,FREE,BUSY
+8,03/13/19,01:10 PM,01:10 PM,Astros at Mets,First Data Field - Port St. Lucie,Local TV: SNY,03/13/19,03/13/19,04:10 PM,04:10 PM,False,True,03/13/19,12:10 PM,12:10 PM,FREE,BUSY
+9,03/15/19,01:10 PM,01:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,Local TV: SNY,03/15/19,03/15/19,04:10 PM,04:10 PM,False,True,03/15/19,12:10 PM,12:10 PM,FREE,BUSY
+10,03/18/19,01:10 PM,01:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,Local TV: SNY,03/18/19,03/18/19,04:10 PM,04:10 PM,False,True,03/18/19,12:10 PM,12:10 PM,FREE,BUSY
+11,03/21/19,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only),03/21/19,03/21/19,04:10 PM,04:10 PM,False,True,03/21/19,12:10 PM,12:10 PM,FREE,BUSY
+12,03/22/19,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only),03/22/19,03/22/19,04:10 PM,04:10 PM,False,True,03/22/19,12:10 PM,12:10 PM,FREE,BUSY
+13,03/24/19,12:10 PM,12:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes,03/24/19,03/24/19,03:10 PM,03:10 PM,False,True,03/24/19,11:10 AM,11:10 AM,FREE,BUSY
+14,04/04/19,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/04/19,04/04/19,04:10 PM,04:10 PM,False,True,04/04/19,12:10 PM,12:10 PM,FREE,BUSY
+15,04/06/19,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/06/19,04/06/19,04:10 PM,04:10 PM,False,True,04/06/19,12:10 PM,12:10 PM,FREE,BUSY
+16,04/07/19,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/07/19,04/07/19,04:10 PM,04:10 PM,False,True,04/07/19,12:10 PM,12:10 PM,FREE,BUSY
+17,04/09/19,07:10 PM,07:10 PM,Twins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/09/19,04/09/19,10:10 PM,10:10 PM,False,True,04/09/19,06:10 PM,06:10 PM,FREE,BUSY
+18,04/10/19,07:10 PM,07:10 PM,Twins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/10/19,04/10/19,10:10 PM,10:10 PM,False,True,04/10/19,06:10 PM,06:10 PM,FREE,BUSY
+19,04/22/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY- ESPN- ESPN Deportes- WatchESPN ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/22/19,04/22/19,10:10 PM,10:10 PM,False,True,04/22/19,06:10 PM,06:10 PM,FREE,BUSY
+20,04/23/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/23/19,04/23/19,10:10 PM,10:10 PM,False,True,04/23/19,06:10 PM,06:10 PM,FREE,BUSY
+21,04/24/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY- ESPN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/24/19,04/24/19,10:10 PM,10:10 PM,False,True,04/24/19,06:10 PM,06:10 PM,FREE,BUSY
+22,04/26/19,07:10 PM,07:10 PM,Brewers at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/26/19,04/26/19,10:10 PM,10:10 PM,False,True,04/26/19,06:10 PM,06:10 PM,FREE,BUSY
+23,04/27/19,07:10 PM,07:10 PM,Brewers at Mets,Citi Field - Flushing,Local TV: WPIX- FS1 ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/27/19,04/27/19,10:10 PM,10:10 PM,False,True,04/27/19,06:10 PM,06:10 PM,FREE,BUSY
+24,04/28/19,01:10 PM,01:10 PM,Brewers at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/28/19,04/28/19,04:10 PM,04:10 PM,False,True,04/28/19,12:10 PM,12:10 PM,FREE,BUSY
+25,04/29/19,07:10 PM,07:10 PM,Reds at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/29/19,04/29/19,10:10 PM,10:10 PM,False,True,04/29/19,06:10 PM,06:10 PM,FREE,BUSY
+26,04/30/19,07:10 PM,07:10 PM,Reds at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,04/30/19,04/30/19,10:10 PM,10:10 PM,False,True,04/30/19,06:10 PM,06:10 PM,FREE,BUSY
+27,05/01/19,07:10 PM,07:10 PM,Reds at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/01/19,05/01/19,10:10 PM,10:10 PM,False,True,05/01/19,06:10 PM,06:10 PM,FREE,BUSY
+28,05/02/19,12:10 PM,12:10 PM,Reds at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/02/19,05/02/19,03:10 PM,03:10 PM,False,True,05/02/19,11:10 AM,11:10 AM,FREE,BUSY
+29,05/10/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/10/19,05/10/19,10:10 PM,10:10 PM,False,True,05/10/19,06:10 PM,06:10 PM,FREE,BUSY
+30,05/11/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/11/19,05/11/19,10:10 PM,10:10 PM,False,True,05/11/19,06:10 PM,06:10 PM,FREE,BUSY
+31,05/20/19,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/20/19,05/20/19,10:10 PM,10:10 PM,False,True,05/20/19,06:10 PM,06:10 PM,FREE,BUSY
+32,05/21/19,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/21/19,05/21/19,10:10 PM,10:10 PM,False,True,05/21/19,06:10 PM,06:10 PM,FREE,BUSY
+33,05/22/19,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/22/19,05/22/19,10:10 PM,10:10 PM,False,True,05/22/19,06:10 PM,06:10 PM,FREE,BUSY
+34,05/23/19,12:10 PM,12:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/23/19,05/23/19,03:10 PM,03:10 PM,False,True,05/23/19,11:10 AM,11:10 AM,FREE,BUSY
+35,05/24/19,07:10 PM,07:10 PM,Tigers at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/24/19,05/24/19,10:10 PM,10:10 PM,False,True,05/24/19,06:10 PM,06:10 PM,FREE,BUSY
+36,05/25/19,04:10 PM,04:10 PM,Tigers at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/25/19,05/25/19,07:10 PM,07:10 PM,False,True,05/25/19,03:10 PM,03:10 PM,FREE,BUSY
+37,05/26/19,01:10 PM,01:10 PM,Tigers at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,05/26/19,05/26/19,04:10 PM,04:10 PM,False,True,05/26/19,12:10 PM,12:10 PM,FREE,BUSY
+38,06/04/19,07:10 PM,07:10 PM,Giants at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/04/19,06/04/19,10:10 PM,10:10 PM,False,True,06/04/19,06:10 PM,06:10 PM,FREE,BUSY
+39,06/05/19,07:10 PM,07:10 PM,Giants at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/05/19,06/05/19,10:10 PM,10:10 PM,False,True,06/05/19,06:10 PM,06:10 PM,FREE,BUSY
+40,06/06/19,12:10 PM,12:10 PM,Giants at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/06/19,06/06/19,03:10 PM,03:10 PM,False,True,06/06/19,11:10 AM,11:10 AM,FREE,BUSY
+41,06/07/19,07:10 PM,07:10 PM,Rockies at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/07/19,06/07/19,10:10 PM,10:10 PM,False,True,06/07/19,06:10 PM,06:10 PM,FREE,BUSY
+42,06/08/19,07:15 PM,07:15 PM,Rockies at Mets,Citi Field - Flushing,Local TV: FOX ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/08/19,06/08/19,10:15 PM,10:15 PM,False,True,06/08/19,06:15 PM,06:15 PM,FREE,BUSY
+43,06/09/19,01:10 PM,01:10 PM,Rockies at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/09/19,06/09/19,04:10 PM,04:10 PM,False,True,06/09/19,12:10 PM,12:10 PM,FREE,BUSY
+44,06/13/19,07:10 PM,07:10 PM,Cardinals at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/13/19,06/13/19,10:10 PM,10:10 PM,False,True,06/13/19,06:10 PM,06:10 PM,FREE,BUSY
+45,06/14/19,07:10 PM,07:10 PM,Cardinals at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/14/19,06/14/19,10:10 PM,10:10 PM,False,True,06/14/19,06:10 PM,06:10 PM,FREE,BUSY
+46,06/15/19,07:10 PM,07:10 PM,Cardinals at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/15/19,06/15/19,10:10 PM,10:10 PM,False,True,06/15/19,06:10 PM,06:10 PM,FREE,BUSY
+47,06/16/19,01:10 PM,01:10 PM,Cardinals at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/16/19,06/16/19,04:10 PM,04:10 PM,False,True,06/16/19,12:10 PM,12:10 PM,FREE,BUSY
+48,06/28/19,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/28/19,06/28/19,10:10 PM,10:10 PM,False,True,06/28/19,06:10 PM,06:10 PM,FREE,BUSY
+49,06/29/19,04:10 PM,04:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/29/19,06/29/19,07:10 PM,07:10 PM,False,True,06/29/19,03:10 PM,03:10 PM,FREE,BUSY
+50,06/30/19,07:05 PM,07:05 PM,Braves at Mets,Citi Field - Flushing,Local TV: ESPN ----- Local Radio: WCBS 880- ESPN Deportes 1050,06/30/19,06/30/19,10:05 PM,10:05 PM,False,True,06/30/19,06:05 PM,06:05 PM,FREE,BUSY
+51,07/02/19,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,Local TV: WPIX- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/02/19,07/02/19,10:10 PM,10:10 PM,False,True,07/02/19,06:10 PM,06:10 PM,FREE,BUSY
+52,07/03/19,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,Local TV: SNY- ESPN ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/03/19,07/03/19,10:10 PM,10:10 PM,False,True,07/03/19,06:10 PM,06:10 PM,FREE,BUSY
+53,07/05/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/05/19,07/05/19,10:10 PM,10:10 PM,False,True,07/05/19,06:10 PM,06:10 PM,FREE,BUSY
+54,07/06/19,07:15 PM,07:15 PM,Phillies at Mets,Citi Field - Flushing,Local TV: FOX ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/06/19,07/06/19,10:15 PM,10:15 PM,False,True,07/06/19,06:15 PM,06:15 PM,FREE,BUSY
+55,07/07/19,01:10 PM,01:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/07/19,07/07/19,04:10 PM,04:10 PM,False,True,07/07/19,12:10 PM,12:10 PM,FREE,BUSY
+56,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+57,07/23/19,07:10 PM,07:10 PM,Padres at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/23/19,07/23/19,10:10 PM,10:10 PM,False,True,07/23/19,06:10 PM,06:10 PM,FREE,BUSY
+58,07/24/19,07:10 PM,07:10 PM,Padres at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/24/19,07/24/19,10:10 PM,10:10 PM,False,True,07/24/19,06:10 PM,06:10 PM,FREE,BUSY
+59,07/25/19,12:10 PM,12:10 PM,Padres at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/25/19,07/25/19,03:10 PM,03:10 PM,False,True,07/25/19,11:10 AM,11:10 AM,FREE,BUSY
+60,07/26/19,07:10 PM,07:10 PM,Pirates at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/26/19,07/26/19,10:10 PM,10:10 PM,False,True,07/26/19,06:10 PM,06:10 PM,FREE,BUSY
+61,07/27/19,07:10 PM,07:10 PM,Pirates at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/27/19,07/27/19,10:10 PM,10:10 PM,False,True,07/27/19,06:10 PM,06:10 PM,FREE,BUSY
+62,07/28/19,01:10 PM,01:10 PM,Pirates at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,07/28/19,07/28/19,04:10 PM,04:10 PM,False,True,07/28/19,12:10 PM,12:10 PM,FREE,BUSY
+63,08/05/19,04:10 PM,04:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/05/19,08/05/19,07:10 PM,07:10 PM,False,True,08/05/19,03:10 PM,03:10 PM,FREE,BUSY
+64,08/05/19,,,Marlins at Mets - Time TBD,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/05/19,08/05/19,,,False,True,08/05/19,,,FREE,BUSY
+65,08/06/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/06/19,08/06/19,10:10 PM,10:10 PM,False,True,08/06/19,06:10 PM,06:10 PM,FREE,BUSY
+66,08/07/19,12:10 PM,12:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/07/19,08/07/19,03:10 PM,03:10 PM,False,True,08/07/19,11:10 AM,11:10 AM,FREE,BUSY
+67,08/09/19,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/09/19,08/09/19,10:10 PM,10:10 PM,False,True,08/09/19,06:10 PM,06:10 PM,FREE,BUSY
+68,08/10/19,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/10/19,08/10/19,10:10 PM,10:10 PM,False,True,08/10/19,06:10 PM,06:10 PM,FREE,BUSY
+69,08/11/19,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/11/19,08/11/19,04:10 PM,04:10 PM,False,True,08/11/19,12:10 PM,12:10 PM,FREE,BUSY
+70,08/20/19,07:10 PM,07:10 PM,Indians at Mets,Citi Field - Flushing,Local TV: SNY- ESPN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/20/19,08/20/19,10:10 PM,10:10 PM,False,True,08/20/19,06:10 PM,06:10 PM,FREE,BUSY
+71,08/21/19,07:10 PM,07:10 PM,Indians at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/21/19,08/21/19,10:10 PM,10:10 PM,False,True,08/21/19,06:10 PM,06:10 PM,FREE,BUSY
+72,08/22/19,07:10 PM,07:10 PM,Indians at Mets,Citi Field - Flushing,Local TV: SNY- ESPN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/22/19,08/22/19,10:10 PM,10:10 PM,False,True,08/22/19,06:10 PM,06:10 PM,FREE,BUSY
+73,08/23/19,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/23/19,08/23/19,10:10 PM,10:10 PM,False,True,08/23/19,06:10 PM,06:10 PM,FREE,BUSY
+74,08/24/19,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/24/19,08/24/19,10:10 PM,10:10 PM,False,True,08/24/19,06:10 PM,06:10 PM,FREE,BUSY
+75,08/25/19,01:10 PM,01:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/25/19,08/25/19,04:10 PM,04:10 PM,False,True,08/25/19,12:10 PM,12:10 PM,FREE,BUSY
+76,08/27/19,07:10 PM,07:10 PM,Cubs at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/27/19,08/27/19,10:10 PM,10:10 PM,False,True,08/27/19,06:10 PM,06:10 PM,FREE,BUSY
+77,08/28/19,07:10 PM,07:10 PM,Cubs at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/28/19,08/28/19,10:10 PM,10:10 PM,False,True,08/28/19,06:10 PM,06:10 PM,FREE,BUSY
+78,08/29/19,07:10 PM,07:10 PM,Cubs at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,08/29/19,08/29/19,10:10 PM,10:10 PM,False,True,08/29/19,06:10 PM,06:10 PM,FREE,BUSY
+79,09/06/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/06/19,09/06/19,10:10 PM,10:10 PM,False,True,09/06/19,06:10 PM,06:10 PM,FREE,BUSY
+80,09/07/19,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY- FS1 ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/07/19,09/07/19,10:10 PM,10:10 PM,False,True,09/07/19,06:10 PM,06:10 PM,FREE,BUSY
+81,09/08/19,01:10 PM,01:10 PM,Phillies at Mets,Citi Field - Flushing,Local TV: SNY- TBS ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/08/19,09/08/19,04:10 PM,04:10 PM,False,True,09/08/19,12:10 PM,12:10 PM,FREE,BUSY
+82,09/09/19,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/09/19,09/09/19,10:10 PM,10:10 PM,False,True,09/09/19,06:10 PM,06:10 PM,FREE,BUSY
+83,09/10/19,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/10/19,09/10/19,10:10 PM,10:10 PM,False,True,09/10/19,06:10 PM,06:10 PM,FREE,BUSY
+84,09/11/19,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/11/19,09/11/19,10:10 PM,10:10 PM,False,True,09/11/19,06:10 PM,06:10 PM,FREE,BUSY
+85,09/12/19,01:10 PM,01:10 PM,D-backs at Mets,Citi Field - Flushing,Local TV: SNY- MLBN (out-of-market only) ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/12/19,09/12/19,04:10 PM,04:10 PM,False,True,09/12/19,12:10 PM,12:10 PM,FREE,BUSY
+86,09/13/19,07:10 PM,07:10 PM,Dodgers at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/13/19,09/13/19,10:10 PM,10:10 PM,False,True,09/13/19,06:10 PM,06:10 PM,FREE,BUSY
+87,09/14/19,07:10 PM,07:10 PM,Dodgers at Mets,Citi Field - Flushing,Local TV: WPIX ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/14/19,09/14/19,10:10 PM,10:10 PM,False,True,09/14/19,06:10 PM,06:10 PM,FREE,BUSY
+88,09/15/19,07:05 PM,07:05 PM,Dodgers at Mets,Citi Field - Flushing,Local TV: ESPN ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/15/19,09/15/19,10:05 PM,10:05 PM,False,True,09/15/19,06:05 PM,06:05 PM,FREE,BUSY
+89,09/23/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/23/19,09/23/19,10:10 PM,10:10 PM,False,True,09/23/19,06:10 PM,06:10 PM,FREE,BUSY
+90,09/24/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/24/19,09/24/19,10:10 PM,10:10 PM,False,True,09/24/19,06:10 PM,06:10 PM,FREE,BUSY
+91,09/25/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/25/19,09/25/19,10:10 PM,10:10 PM,False,True,09/25/19,06:10 PM,06:10 PM,FREE,BUSY
+92,09/26/19,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/26/19,09/26/19,10:10 PM,10:10 PM,False,True,09/26/19,06:10 PM,06:10 PM,FREE,BUSY
+93,09/27/19,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/27/19,09/27/19,10:10 PM,10:10 PM,False,True,09/27/19,06:10 PM,06:10 PM,FREE,BUSY
+94,09/28/19,07:15 PM,07:15 PM,Braves at Mets,Citi Field - Flushing,Local TV: FOX ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/28/19,09/28/19,10:15 PM,10:15 PM,False,True,09/28/19,06:15 PM,06:15 PM,FREE,BUSY
+95,09/29/19,03:10 PM,03:10 PM,Braves at Mets,Citi Field - Flushing,Local TV: SNY ----- Local Radio: WCBS 880- ESPN Deportes 1050,09/29/19,09/29/19,06:10 PM,06:10 PM,False,True,09/29/19,02:10 PM,02:10 PM,FREE,BUSY
+96,02/22/20,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,,02/22/20,02/22/20,04:10 PM,04:10 PM,False,True,02/22/20,12:10 PM,12:10 PM,FREE,BUSY
+97,02/23/20,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,,02/23/20,02/23/20,04:10 PM,04:10 PM,False,True,02/23/20,12:10 PM,12:10 PM,FREE,BUSY
+98,02/26/20,01:10 PM,01:10 PM,Astros at Mets,First Data Field - Port St. Lucie,,02/26/20,02/26/20,04:10 PM,04:10 PM,False,True,02/26/20,12:10 PM,12:10 PM,FREE,BUSY
+99,02/28/20,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,,02/28/20,02/28/20,04:10 PM,04:10 PM,False,True,02/28/20,12:10 PM,12:10 PM,FREE,BUSY
+100,03/01/20,01:10 PM,01:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,,03/01/20,03/01/20,04:10 PM,04:10 PM,False,True,03/01/20,12:10 PM,12:10 PM,FREE,BUSY
+101,03/03/20,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,,03/03/20,03/03/20,04:10 PM,04:10 PM,False,True,03/03/20,12:10 PM,12:10 PM,FREE,BUSY
+102,03/04/20,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,,03/04/20,03/04/20,04:10 PM,04:10 PM,False,True,03/04/20,12:10 PM,12:10 PM,FREE,BUSY
+103,03/07/20,01:10 PM,01:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,,03/07/20,03/07/20,04:10 PM,04:10 PM,False,True,03/07/20,12:10 PM,12:10 PM,FREE,BUSY
+104,03/08/20,01:10 PM,01:10 PM,Astros at Mets,First Data Field - Port St. Lucie,,03/08/20,03/08/20,04:10 PM,04:10 PM,False,True,03/08/20,12:10 PM,12:10 PM,FREE,BUSY
+105,03/11/20,01:10 PM,01:10 PM,Cardinals at Mets,First Data Field - Port St. Lucie,,03/11/20,03/11/20,04:10 PM,04:10 PM,False,True,03/11/20,12:10 PM,12:10 PM,FREE,BUSY
+106,03/15/20,01:10 PM,01:10 PM,Nationals at Mets,First Data Field - Port St. Lucie,,03/15/20,03/15/20,04:10 PM,04:10 PM,False,True,03/15/20,12:10 PM,12:10 PM,FREE,BUSY
+107,03/16/20,06:10 PM,06:10 PM,Astros at Mets,First Data Field - Port St. Lucie,,03/16/20,03/16/20,09:10 PM,09:10 PM,False,True,03/16/20,05:10 PM,05:10 PM,FREE,BUSY
+108,03/18/20,01:10 PM,01:10 PM,Tigers at Mets,First Data Field - Port St. Lucie,,03/18/20,03/18/20,04:10 PM,04:10 PM,False,True,03/18/20,12:10 PM,12:10 PM,FREE,BUSY
+109,03/19/20,01:10 PM,01:10 PM,Twins at Mets,First Data Field - Port St. Lucie,,03/19/20,03/19/20,04:10 PM,04:10 PM,False,True,03/19/20,12:10 PM,12:10 PM,FREE,BUSY
+110,03/21/20,06:10 PM,06:10 PM,Astros at Mets,First Data Field - Port St. Lucie,,03/21/20,03/21/20,09:10 PM,09:10 PM,False,True,03/21/20,05:10 PM,05:10 PM,FREE,BUSY
+111,03/22/20,01:10 PM,01:10 PM,Marlins at Mets,First Data Field - Port St. Lucie,,03/22/20,03/22/20,04:10 PM,04:10 PM,False,True,03/22/20,12:10 PM,12:10 PM,FREE,BUSY
+112,03/26/20,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,,03/26/20,03/26/20,04:10 PM,04:10 PM,False,True,03/26/20,12:10 PM,12:10 PM,FREE,BUSY
+113,03/28/20,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,,03/28/20,03/28/20,04:10 PM,04:10 PM,False,True,03/28/20,12:10 PM,12:10 PM,FREE,BUSY
+114,03/29/20,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,,03/29/20,03/29/20,04:10 PM,04:10 PM,False,True,03/29/20,12:10 PM,12:10 PM,FREE,BUSY
+115,03/30/20,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,,03/30/20,03/30/20,10:10 PM,10:10 PM,False,True,03/30/20,06:10 PM,06:10 PM,FREE,BUSY
+116,03/31/20,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,,03/31/20,03/31/20,10:10 PM,10:10 PM,False,True,03/31/20,06:10 PM,06:10 PM,FREE,BUSY
+117,04/01/20,01:10 PM,01:10 PM,Phillies at Mets,Citi Field - Flushing,,04/01/20,04/01/20,04:10 PM,04:10 PM,False,True,04/01/20,12:10 PM,12:10 PM,FREE,BUSY
+118,04/13/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,04/13/20,04/13/20,10:10 PM,10:10 PM,False,True,04/13/20,06:10 PM,06:10 PM,FREE,BUSY
+119,04/14/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,04/14/20,04/14/20,10:10 PM,10:10 PM,False,True,04/14/20,06:10 PM,06:10 PM,FREE,BUSY
+120,04/15/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,04/15/20,04/15/20,10:10 PM,10:10 PM,False,True,04/15/20,06:10 PM,06:10 PM,FREE,BUSY
+121,04/16/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,04/16/20,04/16/20,10:10 PM,10:10 PM,False,True,04/16/20,06:10 PM,06:10 PM,FREE,BUSY
+122,04/17/20,07:10 PM,07:10 PM,Brewers at Mets,Citi Field - Flushing,,04/17/20,04/17/20,10:10 PM,10:10 PM,False,True,04/17/20,06:10 PM,06:10 PM,FREE,BUSY
+123,04/18/20,07:10 PM,07:10 PM,Brewers at Mets,Citi Field - Flushing,,04/18/20,04/18/20,10:10 PM,10:10 PM,False,True,04/18/20,06:10 PM,06:10 PM,FREE,BUSY
+124,04/19/20,01:10 PM,01:10 PM,Brewers at Mets,Citi Field - Flushing,,04/19/20,04/19/20,04:10 PM,04:10 PM,False,True,04/19/20,12:10 PM,12:10 PM,FREE,BUSY
+125,04/21/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,04/21/20,04/21/20,10:10 PM,10:10 PM,False,True,04/21/20,06:10 PM,06:10 PM,FREE,BUSY
+126,04/22/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,04/22/20,04/22/20,10:10 PM,10:10 PM,False,True,04/22/20,06:10 PM,06:10 PM,FREE,BUSY
+127,04/23/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,04/23/20,04/23/20,10:10 PM,10:10 PM,False,True,04/23/20,06:10 PM,06:10 PM,FREE,BUSY
+128,05/01/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,05/01/20,05/01/20,10:10 PM,10:10 PM,False,True,05/01/20,06:10 PM,06:10 PM,FREE,BUSY
+129,05/02/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,05/02/20,05/02/20,10:10 PM,10:10 PM,False,True,05/02/20,06:10 PM,06:10 PM,FREE,BUSY
+130,05/03/20,01:10 PM,01:10 PM,Braves at Mets,Citi Field - Flushing,,05/03/20,05/03/20,04:10 PM,04:10 PM,False,True,05/03/20,12:10 PM,12:10 PM,FREE,BUSY
+131,05/04/20,07:10 PM,07:10 PM,Reds at Mets,Citi Field - Flushing,,05/04/20,05/04/20,10:10 PM,10:10 PM,False,True,05/04/20,06:10 PM,06:10 PM,FREE,BUSY
+132,05/05/20,07:10 PM,07:10 PM,Reds at Mets,Citi Field - Flushing,,05/05/20,05/05/20,10:10 PM,10:10 PM,False,True,05/05/20,06:10 PM,06:10 PM,FREE,BUSY
+133,05/06/20,12:10 PM,12:10 PM,Reds at Mets,Citi Field - Flushing,,05/06/20,05/06/20,03:10 PM,03:10 PM,False,True,05/06/20,11:10 AM,11:10 AM,FREE,BUSY
+134,05/15/20,07:10 PM,07:10 PM,Pirates at Mets,Citi Field - Flushing,,05/15/20,05/15/20,10:10 PM,10:10 PM,False,True,05/15/20,06:10 PM,06:10 PM,FREE,BUSY
+135,05/16/20,07:10 PM,07:10 PM,Pirates at Mets,Citi Field - Flushing,,05/16/20,05/16/20,10:10 PM,10:10 PM,False,True,05/16/20,06:10 PM,06:10 PM,FREE,BUSY
+136,05/17/20,01:10 PM,01:10 PM,Pirates at Mets,Citi Field - Flushing,,05/17/20,05/17/20,04:10 PM,04:10 PM,False,True,05/17/20,12:10 PM,12:10 PM,FREE,BUSY
+137,05/18/20,07:10 PM,07:10 PM,Pirates at Mets,Citi Field - Flushing,,05/18/20,05/18/20,10:10 PM,10:10 PM,False,True,05/18/20,06:10 PM,06:10 PM,FREE,BUSY
+138,05/19/20,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,,05/19/20,05/19/20,10:10 PM,10:10 PM,False,True,05/19/20,06:10 PM,06:10 PM,FREE,BUSY
+139,05/20/20,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,,05/20/20,05/20/20,10:10 PM,10:10 PM,False,True,05/20/20,06:10 PM,06:10 PM,FREE,BUSY
+140,05/21/20,07:10 PM,07:10 PM,D-backs at Mets,Citi Field - Flushing,,05/21/20,05/21/20,10:10 PM,10:10 PM,False,True,05/21/20,06:10 PM,06:10 PM,FREE,BUSY
+141,05/29/20,07:10 PM,07:10 PM,Dodgers at Mets,Citi Field - Flushing,,05/29/20,05/29/20,10:10 PM,10:10 PM,False,True,05/29/20,06:10 PM,06:10 PM,FREE,BUSY
+142,05/30/20,07:15 PM,07:15 PM,Dodgers at Mets,Citi Field - Flushing,Local TV: FOX,05/30/20,05/30/20,10:15 PM,10:15 PM,False,True,05/30/20,06:15 PM,06:15 PM,FREE,BUSY
+143,05/31/20,01:10 PM,01:10 PM,Dodgers at Mets,Citi Field - Flushing,,05/31/20,05/31/20,04:10 PM,04:10 PM,False,True,05/31/20,12:10 PM,12:10 PM,FREE,BUSY
+144,06/02/20,07:10 PM,07:10 PM,Astros at Mets,Citi Field - Flushing,,06/02/20,06/02/20,10:10 PM,10:10 PM,False,True,06/02/20,06:10 PM,06:10 PM,FREE,BUSY
+145,06/03/20,07:10 PM,07:10 PM,Astros at Mets,Citi Field - Flushing,,06/03/20,06/03/20,10:10 PM,10:10 PM,False,True,06/03/20,06:10 PM,06:10 PM,FREE,BUSY
+146,06/08/20,07:10 PM,07:10 PM,Cardinals at Mets,Citi Field - Flushing,,06/08/20,06/08/20,10:10 PM,10:10 PM,False,True,06/08/20,06:10 PM,06:10 PM,FREE,BUSY
+147,06/09/20,07:10 PM,07:10 PM,Cardinals at Mets,Citi Field - Flushing,,06/09/20,06/09/20,10:10 PM,10:10 PM,False,True,06/09/20,06:10 PM,06:10 PM,FREE,BUSY
+148,06/10/20,12:10 PM,12:10 PM,Cardinals at Mets,Citi Field - Flushing,,06/10/20,06/10/20,03:10 PM,03:10 PM,False,True,06/10/20,11:10 AM,11:10 AM,FREE,BUSY
+149,06/12/20,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,,06/12/20,06/12/20,10:10 PM,10:10 PM,False,True,06/12/20,06:10 PM,06:10 PM,FREE,BUSY
+150,06/13/20,,,Nationals at Mets - Time TBD,Citi Field - Flushing,,06/13/20,06/13/20,,,False,True,06/13/20,,,FREE,BUSY
+151,06/14/20,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,,06/14/20,06/14/20,04:10 PM,04:10 PM,False,True,06/14/20,12:10 PM,12:10 PM,FREE,BUSY
+152,06/19/20,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,,06/19/20,06/19/20,10:10 PM,10:10 PM,False,True,06/19/20,06:10 PM,06:10 PM,FREE,BUSY
+153,06/20/20,,,Phillies at Mets - Time TBD,Citi Field - Flushing,,06/20/20,06/20/20,,,False,True,06/20/20,,,FREE,BUSY
+154,06/21/20,01:10 PM,01:10 PM,Phillies at Mets,Citi Field - Flushing,,06/21/20,06/21/20,04:10 PM,04:10 PM,False,True,06/21/20,12:10 PM,12:10 PM,FREE,BUSY
+155,06/30/20,07:10 PM,07:10 PM,Giants at Mets,Citi Field - Flushing,,06/30/20,06/30/20,10:10 PM,10:10 PM,False,True,06/30/20,06:10 PM,06:10 PM,FREE,BUSY
+156,07/01/20,07:10 PM,07:10 PM,Giants at Mets,Citi Field - Flushing,,07/01/20,07/01/20,10:10 PM,10:10 PM,False,True,07/01/20,06:10 PM,06:10 PM,FREE,BUSY
+157,07/02/20,01:10 PM,01:10 PM,Giants at Mets,Citi Field - Flushing,,07/02/20,07/02/20,04:10 PM,04:10 PM,False,True,07/02/20,12:10 PM,12:10 PM,FREE,BUSY
+158,07/03/20,07:10 PM,07:10 PM,Padres at Mets,Citi Field - Flushing,,07/03/20,07/03/20,10:10 PM,10:10 PM,False,True,07/03/20,06:10 PM,06:10 PM,FREE,BUSY
+159,07/04/20,01:10 PM,01:10 PM,Padres at Mets,Citi Field - Flushing,,07/04/20,07/04/20,04:10 PM,04:10 PM,False,True,07/04/20,12:10 PM,12:10 PM,FREE,BUSY
+160,07/05/20,01:10 PM,01:10 PM,Padres at Mets,Citi Field - Flushing,,07/05/20,07/05/20,04:10 PM,04:10 PM,False,True,07/05/20,12:10 PM,12:10 PM,FREE,BUSY
+161,07/06/20,01:10 PM,01:10 PM,Padres at Mets,Citi Field - Flushing,,07/06/20,07/06/20,04:10 PM,04:10 PM,False,True,07/06/20,12:10 PM,12:10 PM,FREE,BUSY
+162,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+163,07/17/20,07:10 PM,07:10 PM,Mariners at Mets,Citi Field - Flushing,,07/17/20,07/17/20,10:10 PM,10:10 PM,False,True,07/17/20,06:10 PM,06:10 PM,FREE,BUSY
+164,07/18/20,07:10 PM,07:10 PM,Mariners at Mets,Citi Field - Flushing,,07/18/20,07/18/20,10:10 PM,10:10 PM,False,True,07/18/20,06:10 PM,06:10 PM,FREE,BUSY
+165,07/19/20,01:10 PM,01:10 PM,Mariners at Mets,Citi Field - Flushing,,07/19/20,07/19/20,04:10 PM,04:10 PM,False,True,07/19/20,12:10 PM,12:10 PM,FREE,BUSY
+166,07/28/20,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,,07/28/20,07/28/20,10:10 PM,10:10 PM,False,True,07/28/20,06:10 PM,06:10 PM,FREE,BUSY
+167,07/29/20,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,,07/29/20,07/29/20,10:10 PM,10:10 PM,False,True,07/29/20,06:10 PM,06:10 PM,FREE,BUSY
+168,07/30/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,07/30/20,07/30/20,10:10 PM,10:10 PM,False,True,07/30/20,06:10 PM,06:10 PM,FREE,BUSY
+169,07/31/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,07/31/20,07/31/20,10:10 PM,10:10 PM,False,True,07/31/20,06:10 PM,06:10 PM,FREE,BUSY
+170,08/01/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,08/01/20,08/01/20,10:10 PM,10:10 PM,False,True,08/01/20,06:10 PM,06:10 PM,FREE,BUSY
+171,08/02/20,01:10 PM,01:10 PM,Marlins at Mets,Citi Field - Flushing,,08/02/20,08/02/20,04:10 PM,04:10 PM,False,True,08/02/20,12:10 PM,12:10 PM,FREE,BUSY
+172,08/11/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,08/11/20,08/11/20,10:10 PM,10:10 PM,False,True,08/11/20,06:10 PM,06:10 PM,FREE,BUSY
+173,08/12/20,07:10 PM,07:10 PM,Braves at Mets,Citi Field - Flushing,,08/12/20,08/12/20,10:10 PM,10:10 PM,False,True,08/12/20,06:10 PM,06:10 PM,FREE,BUSY
+174,08/13/20,12:10 PM,12:10 PM,Braves at Mets,Citi Field - Flushing,,08/13/20,08/13/20,03:10 PM,03:10 PM,False,True,08/13/20,11:10 AM,11:10 AM,FREE,BUSY
+175,08/14/20,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,,08/14/20,08/14/20,10:10 PM,10:10 PM,False,True,08/14/20,06:10 PM,06:10 PM,FREE,BUSY
+176,08/15/20,07:10 PM,07:10 PM,Phillies at Mets,Citi Field - Flushing,,08/15/20,08/15/20,10:10 PM,10:10 PM,False,True,08/15/20,06:10 PM,06:10 PM,FREE,BUSY
+177,08/16/20,01:10 PM,01:10 PM,Phillies at Mets,Citi Field - Flushing,,08/16/20,08/16/20,04:10 PM,04:10 PM,False,True,08/16/20,12:10 PM,12:10 PM,FREE,BUSY
+178,08/28/20,07:10 PM,07:10 PM,Cubs at Mets,Citi Field - Flushing,,08/28/20,08/28/20,10:10 PM,10:10 PM,False,True,08/28/20,06:10 PM,06:10 PM,FREE,BUSY
+179,08/29/20,07:10 PM,07:10 PM,Cubs at Mets,Citi Field - Flushing,,08/29/20,08/29/20,10:10 PM,10:10 PM,False,True,08/29/20,06:10 PM,06:10 PM,FREE,BUSY
+180,08/30/20,01:10 PM,01:10 PM,Cubs at Mets,Citi Field - Flushing,,08/30/20,08/30/20,04:10 PM,04:10 PM,False,True,08/30/20,12:10 PM,12:10 PM,FREE,BUSY
+181,08/31/20,07:10 PM,07:10 PM,Rockies at Mets,Citi Field - Flushing,,08/31/20,08/31/20,10:10 PM,10:10 PM,False,True,08/31/20,06:10 PM,06:10 PM,FREE,BUSY
+182,09/01/20,07:10 PM,07:10 PM,Rockies at Mets,Citi Field - Flushing,,09/01/20,09/01/20,10:10 PM,10:10 PM,False,True,09/01/20,06:10 PM,06:10 PM,FREE,BUSY
+183,09/02/20,07:10 PM,07:10 PM,Rockies at Mets,Citi Field - Flushing,,09/02/20,09/02/20,10:10 PM,10:10 PM,False,True,09/02/20,06:10 PM,06:10 PM,FREE,BUSY
+184,09/03/20,01:10 PM,01:10 PM,Rockies at Mets,Citi Field - Flushing,,09/03/20,09/03/20,04:10 PM,04:10 PM,False,True,09/03/20,12:10 PM,12:10 PM,FREE,BUSY
+185,09/04/20,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,,09/04/20,09/04/20,10:10 PM,10:10 PM,False,True,09/04/20,06:10 PM,06:10 PM,FREE,BUSY
+186,09/05/20,07:10 PM,07:10 PM,Nationals at Mets,Citi Field - Flushing,,09/05/20,09/05/20,10:10 PM,10:10 PM,False,True,09/05/20,06:10 PM,06:10 PM,FREE,BUSY
+187,09/06/20,01:10 PM,01:10 PM,Nationals at Mets,Citi Field - Flushing,,09/06/20,09/06/20,04:10 PM,04:10 PM,False,True,09/06/20,12:10 PM,12:10 PM,FREE,BUSY
+188,09/15/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,09/15/20,09/15/20,10:10 PM,10:10 PM,False,True,09/15/20,06:10 PM,06:10 PM,FREE,BUSY
+189,09/16/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,09/16/20,09/16/20,10:10 PM,10:10 PM,False,True,09/16/20,06:10 PM,06:10 PM,FREE,BUSY
+190,09/17/20,07:10 PM,07:10 PM,Marlins at Mets,Citi Field - Flushing,,09/17/20,09/17/20,10:10 PM,10:10 PM,False,True,09/17/20,06:10 PM,06:10 PM,FREE,BUSY

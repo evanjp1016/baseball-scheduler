@@ -1,0 +1,195 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/24/19,01:10 PM,03:10 PM,Mariners at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local Radio: KOA 850 AM/94.1 FM ,02/24/19,02/24/19,04:10 PM,06:10 PM,False,True,02/24/19,12:10 PM,02:10 PM,FREE,BUSY
+1,02/26/19,01:10 PM,03:10 PM,Indians at Rockies,Salt River Fields at Talking Stick - Scottsdale,,02/26/19,02/26/19,04:10 PM,06:10 PM,False,True,02/26/19,12:10 PM,02:10 PM,FREE,BUSY
+2,02/27/19,01:10 PM,03:10 PM,Angels at Rockies,Salt River Fields at Talking Stick - Scottsdale,,02/27/19,02/27/19,04:10 PM,06:10 PM,False,True,02/27/19,12:10 PM,02:10 PM,FREE,BUSY
+3,03/03/19,01:10 PM,03:10 PM,Giants at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local Radio: KOA 850 AM/94.1 FM ,03/03/19,03/03/19,04:10 PM,06:10 PM,False,True,03/03/19,12:10 PM,02:10 PM,FREE,BUSY
+4,03/05/19,01:10 PM,03:10 PM,Brewers at Rockies,Salt River Fields at Talking Stick - Scottsdale,,03/05/19,03/05/19,04:10 PM,06:10 PM,False,True,03/05/19,12:10 PM,02:10 PM,FREE,BUSY
+5,03/06/19,01:10 PM,03:10 PM,Angels at Rockies,Salt River Fields at Talking Stick - Scottsdale,,03/06/19,03/06/19,04:10 PM,06:10 PM,False,True,03/06/19,12:10 PM,02:10 PM,FREE,BUSY
+6,03/08/19,01:10 PM,03:10 PM,Rangers at Rockies,Salt River Fields at Talking Stick - Scottsdale,,03/08/19,03/08/19,04:10 PM,06:10 PM,False,True,03/08/19,12:10 PM,02:10 PM,FREE,BUSY
+7,03/09/19,05:10 PM,07:10 PM,D-backs at Rockies,Estadio de Beisbol Monterrey - Monterrey,,03/09/19,03/09/19,08:10 PM,10:10 PM,False,True,03/09/19,04:10 PM,06:10 PM,FREE,BUSY
+8,03/10/19,02:10 PM,04:10 PM,Dodgers at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local Radio: KOA 850 AM/94.1 FM ,03/10/19,03/10/19,05:10 PM,07:10 PM,False,True,03/10/19,01:10 PM,03:10 PM,FREE,BUSY
+9,03/11/19,02:10 PM,04:10 PM,Athletics at Rockies,Salt River Fields at Talking Stick - Scottsdale,,03/11/19,03/11/19,05:10 PM,07:10 PM,False,True,03/11/19,01:10 PM,03:10 PM,FREE,BUSY
+10,03/13/19,02:10 PM,04:10 PM,D-backs at Rockies,Salt River Fields at Talking Stick - Scottsdale,,03/13/19,03/13/19,05:10 PM,07:10 PM,False,True,03/13/19,01:10 PM,03:10 PM,FREE,BUSY
+11,03/15/19,02:10 PM,04:10 PM,Royals at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local TV: ATT SportsNet-RM,03/15/19,03/15/19,05:10 PM,07:10 PM,False,True,03/15/19,01:10 PM,03:10 PM,FREE,BUSY
+12,03/18/19,02:10 PM,04:10 PM,Reds at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local TV: ATT SportsNet-RM- MLBN (out-of-market only),03/18/19,03/18/19,05:10 PM,07:10 PM,False,True,03/18/19,01:10 PM,03:10 PM,FREE,BUSY
+13,03/20/19,07:40 PM,09:40 PM,Royals at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,03/20/19,03/21/19,10:40 PM,12:40 AM,False,True,03/20/19,06:40 PM,08:40 PM,FREE,BUSY
+14,03/22/19,07:40 PM,09:40 PM,Padres at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,03/22/19,03/23/19,10:40 PM,12:40 AM,False,True,03/22/19,06:40 PM,08:40 PM,FREE,BUSY
+15,03/23/19,07:40 PM,09:40 PM,Cubs at Rockies,Salt River Fields at Talking Stick - Scottsdale,Local TV: ATT SportsNet-RM- MLBN (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM ,03/23/19,03/24/19,10:40 PM,12:40 AM,False,True,03/23/19,06:40 PM,08:40 PM,FREE,BUSY
+16,04/05/19,02:10 PM,04:10 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,04/05/19,04/05/19,05:10 PM,07:10 PM,False,True,04/05/19,01:10 PM,03:10 PM,FREE,BUSY
+17,04/06/19,06:10 PM,08:10 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,04/06/19,04/06/19,09:10 PM,11:10 PM,False,True,04/06/19,05:10 PM,07:10 PM,FREE,BUSY
+18,04/07/19,06:37 PM,08:37 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ESPN ----- Local Radio: KOA 850 AM/94.1 FM ,04/07/19,04/07/19,09:37 PM,11:37 PM,False,True,04/07/19,05:37 PM,07:37 PM,FREE,BUSY
+19,04/08/19,06:40 PM,08:40 PM,Braves at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,04/08/19,04/08/19,09:40 PM,11:40 PM,False,True,04/08/19,05:40 PM,07:40 PM,FREE,BUSY
+20,04/09/19,06:40 PM,08:40 PM,Braves at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM ,04/09/19,04/09/19,09:40 PM,11:40 PM,False,True,04/09/19,05:40 PM,07:40 PM,FREE,BUSY
+21,04/18/19,06:40 PM,08:40 PM,Phillies at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/18/19,04/18/19,09:40 PM,11:40 PM,False,True,04/18/19,05:40 PM,07:40 PM,FREE,BUSY
+22,04/19/19,06:40 PM,08:40 PM,Phillies at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM- FB-WATCH (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/19/19,04/19/19,09:40 PM,11:40 PM,False,True,04/19/19,05:40 PM,07:40 PM,FREE,BUSY
+23,04/20/19,06:10 PM,08:10 PM,Phillies at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/20/19,04/20/19,09:10 PM,11:10 PM,False,True,04/20/19,05:10 PM,07:10 PM,FREE,BUSY
+24,04/21/19,01:10 PM,03:10 PM,Phillies at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/21/19,04/21/19,04:10 PM,06:10 PM,False,True,04/21/19,12:10 PM,02:10 PM,FREE,BUSY
+25,04/22/19,06:40 PM,08:40 PM,Nationals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/22/19,04/22/19,09:40 PM,11:40 PM,False,True,04/22/19,05:40 PM,07:40 PM,FREE,BUSY
+26,04/23/19,06:40 PM,08:40 PM,Nationals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/23/19,04/23/19,09:40 PM,11:40 PM,False,True,04/23/19,05:40 PM,07:40 PM,FREE,BUSY
+27,04/24/19,01:10 PM,03:10 PM,Nationals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,04/24/19,04/24/19,04:10 PM,06:10 PM,False,True,04/24/19,12:10 PM,02:10 PM,FREE,BUSY
+28,05/03/19,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/03/19,05/03/19,09:40 PM,11:40 PM,False,True,05/03/19,05:40 PM,07:40 PM,FREE,BUSY
+29,05/04/19,06:10 PM,08:10 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/04/19,05/04/19,09:10 PM,11:10 PM,False,True,05/04/19,05:10 PM,07:10 PM,FREE,BUSY
+30,05/05/19,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/05/19,05/05/19,04:10 PM,06:10 PM,False,True,05/05/19,12:10 PM,02:10 PM,FREE,BUSY
+31,05/07/19,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/07/19,05/07/19,09:40 PM,11:40 PM,False,True,05/07/19,05:40 PM,07:40 PM,FREE,BUSY
+32,05/09/19,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM- MLBN (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/09/19,05/09/19,04:10 PM,06:10 PM,False,True,05/09/19,12:10 PM,02:10 PM,FREE,BUSY
+33,05/10/19,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/10/19,05/10/19,09:40 PM,11:40 PM,False,True,05/10/19,05:40 PM,07:40 PM,FREE,BUSY
+34,05/11/19,06:10 PM,08:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/11/19,05/11/19,09:10 PM,11:10 PM,False,True,05/11/19,05:10 PM,07:10 PM,FREE,BUSY
+35,05/12/19,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/12/19,05/12/19,04:10 PM,06:10 PM,False,True,05/12/19,12:10 PM,02:10 PM,FREE,BUSY
+36,05/24/19,06:40 PM,08:40 PM,Orioles at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/24/19,05/24/19,09:40 PM,11:40 PM,False,True,05/24/19,05:40 PM,07:40 PM,FREE,BUSY
+37,05/25/19,07:10 PM,09:10 PM,Orioles at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/25/19,05/26/19,10:10 PM,12:10 AM,False,True,05/25/19,06:10 PM,08:10 PM,FREE,BUSY
+38,05/26/19,01:10 PM,03:10 PM,Orioles at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/26/19,05/26/19,04:10 PM,06:10 PM,False,True,05/26/19,12:10 PM,02:10 PM,FREE,BUSY
+39,05/27/19,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/27/19,05/27/19,04:10 PM,06:10 PM,False,True,05/27/19,12:10 PM,02:10 PM,FREE,BUSY
+40,05/28/19,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/28/19,05/28/19,09:40 PM,11:40 PM,False,True,05/28/19,05:40 PM,07:40 PM,FREE,BUSY
+41,05/29/19,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/29/19,05/29/19,09:40 PM,11:40 PM,False,True,05/29/19,05:40 PM,07:40 PM,FREE,BUSY
+42,05/30/19,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/30/19,05/30/19,04:10 PM,06:10 PM,False,True,05/30/19,12:10 PM,02:10 PM,FREE,BUSY
+43,05/31/19,06:40 PM,08:40 PM,Blue Jays at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,05/31/19,05/31/19,09:40 PM,11:40 PM,False,True,05/31/19,05:40 PM,07:40 PM,FREE,BUSY
+44,06/01/19,07:10 PM,09:10 PM,Blue Jays at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/01/19,06/02/19,10:10 PM,12:10 AM,False,True,06/01/19,06:10 PM,08:10 PM,FREE,BUSY
+45,06/02/19,01:10 PM,03:10 PM,Blue Jays at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/02/19,06/02/19,04:10 PM,06:10 PM,False,True,06/02/19,12:10 PM,02:10 PM,FREE,BUSY
+46,06/10/19,06:40 PM,08:40 PM,Cubs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/10/19,06/10/19,09:40 PM,11:40 PM,False,True,06/10/19,05:40 PM,07:40 PM,FREE,BUSY
+47,06/11/19,06:40 PM,08:40 PM,Cubs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/11/19,06/11/19,09:40 PM,11:40 PM,False,True,06/11/19,05:40 PM,07:40 PM,FREE,BUSY
+48,06/12/19,01:10 PM,03:10 PM,Cubs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM- MLBN (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/12/19,06/12/19,04:10 PM,06:10 PM,False,True,06/12/19,12:10 PM,02:10 PM,FREE,BUSY
+49,06/13/19,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/13/19,06/13/19,09:40 PM,11:40 PM,False,True,06/13/19,05:40 PM,07:40 PM,FREE,BUSY
+50,06/14/19,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/14/19,06/14/19,09:40 PM,11:40 PM,False,True,06/14/19,05:40 PM,07:40 PM,FREE,BUSY
+51,06/15/19,06:10 PM,08:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/15/19,06/15/19,09:10 PM,11:10 PM,False,True,06/15/19,05:10 PM,07:10 PM,FREE,BUSY
+52,06/16/19,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/16/19,06/16/19,04:10 PM,06:10 PM,False,True,06/16/19,12:10 PM,02:10 PM,FREE,BUSY
+53,06/27/19,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM- MLBN (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/27/19,06/27/19,09:40 PM,11:40 PM,False,True,06/27/19,05:40 PM,07:40 PM,FREE,BUSY
+54,06/28/19,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/28/19,06/28/19,09:40 PM,11:40 PM,False,True,06/28/19,05:40 PM,07:40 PM,FREE,BUSY
+55,06/29/19,06:15 PM,08:15 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: FOX ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/29/19,06/29/19,09:15 PM,11:15 PM,False,True,06/29/19,05:15 PM,07:15 PM,FREE,BUSY
+56,06/30/19,01:10 PM,03:10 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,06/30/19,06/30/19,04:10 PM,06:10 PM,False,True,06/30/19,12:10 PM,02:10 PM,FREE,BUSY
+57,07/02/19,06:10 PM,08:10 PM,Astros at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/02/19,07/02/19,09:10 PM,11:10 PM,False,True,07/02/19,05:10 PM,07:10 PM,FREE,BUSY
+58,07/03/19,06:10 PM,08:10 PM,Astros at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/03/19,07/03/19,09:10 PM,11:10 PM,False,True,07/03/19,05:10 PM,07:10 PM,FREE,BUSY
+59,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+60,07/12/19,06:40 PM,08:40 PM,Reds at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/12/19,07/12/19,09:40 PM,11:40 PM,False,True,07/12/19,05:40 PM,07:40 PM,FREE,BUSY
+61,07/13/19,06:10 PM,08:10 PM,Reds at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/13/19,07/13/19,09:10 PM,11:10 PM,False,True,07/13/19,05:10 PM,07:10 PM,FREE,BUSY
+62,07/14/19,01:10 PM,03:10 PM,Reds at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/14/19,07/14/19,04:10 PM,06:10 PM,False,True,07/14/19,12:10 PM,02:10 PM,FREE,BUSY
+63,07/15/19,12:10 PM,02:10 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/15/19,07/15/19,03:10 PM,05:10 PM,False,True,07/15/19,11:10 AM,01:10 PM,FREE,BUSY
+64,07/15/19,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM- MLBN (out-of-market only) ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/15/19,07/15/19,09:40 PM,11:40 PM,False,True,07/15/19,05:40 PM,07:40 PM,FREE,BUSY
+65,07/16/19,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/16/19,07/16/19,09:40 PM,11:40 PM,False,True,07/16/19,05:40 PM,07:40 PM,FREE,BUSY
+66,07/17/19,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/17/19,07/17/19,04:10 PM,06:10 PM,False,True,07/17/19,12:10 PM,02:10 PM,FREE,BUSY
+67,07/29/19,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/29/19,07/29/19,09:40 PM,11:40 PM,False,True,07/29/19,05:40 PM,07:40 PM,FREE,BUSY
+68,07/30/19,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/30/19,07/30/19,09:40 PM,11:40 PM,False,True,07/30/19,05:40 PM,07:40 PM,FREE,BUSY
+69,07/31/19,01:10 PM,03:10 PM,Dodgers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,07/31/19,07/31/19,04:10 PM,06:10 PM,False,True,07/31/19,12:10 PM,02:10 PM,FREE,BUSY
+70,08/02/19,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/02/19,08/02/19,09:40 PM,11:40 PM,False,True,08/02/19,05:40 PM,07:40 PM,FREE,BUSY
+71,08/03/19,06:10 PM,08:10 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/03/19,08/03/19,09:10 PM,11:10 PM,False,True,08/03/19,05:10 PM,07:10 PM,FREE,BUSY
+72,08/04/19,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/04/19,08/04/19,04:10 PM,06:10 PM,False,True,08/04/19,12:10 PM,02:10 PM,FREE,BUSY
+73,08/12/19,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/12/19,08/12/19,09:40 PM,11:40 PM,False,True,08/12/19,05:40 PM,07:40 PM,FREE,BUSY
+74,08/13/19,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/13/19,08/13/19,09:40 PM,11:40 PM,False,True,08/13/19,05:40 PM,07:40 PM,FREE,BUSY
+75,08/14/19,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/14/19,08/14/19,04:10 PM,06:10 PM,False,True,08/14/19,12:10 PM,02:10 PM,FREE,BUSY
+76,08/16/19,06:40 PM,08:40 PM,Marlins at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/16/19,08/16/19,09:40 PM,11:40 PM,False,True,08/16/19,05:40 PM,07:40 PM,FREE,BUSY
+77,08/17/19,06:10 PM,08:10 PM,Marlins at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/17/19,08/17/19,09:10 PM,11:10 PM,False,True,08/17/19,05:10 PM,07:10 PM,FREE,BUSY
+78,08/18/19,01:10 PM,03:10 PM,Marlins at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/18/19,08/18/19,04:10 PM,06:10 PM,False,True,08/18/19,12:10 PM,02:10 PM,FREE,BUSY
+79,08/26/19,01:10 PM,03:10 PM,Braves at Rockies,Coors Field - Denver,Local TV: YouTube ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/26/19,08/26/19,04:10 PM,06:10 PM,False,True,08/26/19,12:10 PM,02:10 PM,FREE,BUSY
+80,08/27/19,06:40 PM,08:40 PM,Red Sox at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/27/19,08/27/19,09:40 PM,11:40 PM,False,True,08/27/19,05:40 PM,07:40 PM,FREE,BUSY
+81,08/28/19,06:40 PM,08:40 PM,Red Sox at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/28/19,08/28/19,09:40 PM,11:40 PM,False,True,08/28/19,05:40 PM,07:40 PM,FREE,BUSY
+82,08/29/19,06:40 PM,08:40 PM,Pirates at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KHOW 630- KNRV 1150,08/29/19,08/29/19,09:40 PM,11:40 PM,False,True,08/29/19,05:40 PM,07:40 PM,FREE,BUSY
+83,08/30/19,06:40 PM,08:40 PM,Pirates at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/30/19,08/30/19,09:40 PM,11:40 PM,False,True,08/30/19,05:40 PM,07:40 PM,FREE,BUSY
+84,08/31/19,06:10 PM,08:10 PM,Pirates at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,08/31/19,08/31/19,09:10 PM,11:10 PM,False,True,08/31/19,05:10 PM,07:10 PM,FREE,BUSY
+85,09/01/19,01:10 PM,03:10 PM,Pirates at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/01/19,09/01/19,04:10 PM,06:10 PM,False,True,09/01/19,12:10 PM,02:10 PM,FREE,BUSY
+86,09/10/19,06:40 PM,08:40 PM,Cardinals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/10/19,09/10/19,09:40 PM,11:40 PM,False,True,09/10/19,05:40 PM,07:40 PM,FREE,BUSY
+87,09/11/19,06:40 PM,08:40 PM,Cardinals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/11/19,09/11/19,09:40 PM,11:40 PM,False,True,09/11/19,05:40 PM,07:40 PM,FREE,BUSY
+88,09/12/19,01:10 PM,03:10 PM,Cardinals at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/12/19,09/12/19,04:10 PM,06:10 PM,False,True,09/12/19,12:10 PM,02:10 PM,FREE,BUSY
+89,09/13/19,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/13/19,09/13/19,09:40 PM,11:40 PM,False,True,09/13/19,05:40 PM,07:40 PM,FREE,BUSY
+90,09/14/19,06:10 PM,08:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/14/19,09/14/19,09:10 PM,11:10 PM,False,True,09/14/19,05:10 PM,07:10 PM,FREE,BUSY
+91,09/15/19,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KHOW 630- KNRV 1150,09/15/19,09/15/19,04:10 PM,06:10 PM,False,True,09/15/19,12:10 PM,02:10 PM,FREE,BUSY
+92,09/16/19,06:40 PM,08:40 PM,Mets at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/16/19,09/16/19,09:40 PM,11:40 PM,False,True,09/16/19,05:40 PM,07:40 PM,FREE,BUSY
+93,09/17/19,06:40 PM,08:40 PM,Mets at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/17/19,09/17/19,09:40 PM,11:40 PM,False,True,09/17/19,05:40 PM,07:40 PM,FREE,BUSY
+94,09/18/19,01:10 PM,03:10 PM,Mets at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/18/19,09/18/19,04:10 PM,06:10 PM,False,True,09/18/19,12:10 PM,02:10 PM,FREE,BUSY
+95,09/27/19,06:10 PM,08:10 PM,Brewers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/27/19,09/27/19,09:10 PM,11:10 PM,False,True,09/27/19,05:10 PM,07:10 PM,FREE,BUSY
+96,09/28/19,06:10 PM,08:10 PM,Brewers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KOA 850 AM/94.1 FM - KNRV 1150,09/28/19,09/28/19,09:10 PM,11:10 PM,False,True,09/28/19,05:10 PM,07:10 PM,FREE,BUSY
+97,09/29/19,01:10 PM,03:10 PM,Brewers at Rockies,Coors Field - Denver,Local TV: ATT SportsNet-RM ----- Local Radio: KHOW 630- KNRV 1150,09/29/19,09/29/19,04:10 PM,06:10 PM,False,True,09/29/19,12:10 PM,02:10 PM,FREE,BUSY
+98,02/22/20,,,D-backs at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,02/22/20,02/22/20,,,False,True,02/22/20,,,FREE,BUSY
+99,02/24/20,,,Indians at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,02/24/20,02/24/20,,,False,True,02/24/20,,,FREE,BUSY
+100,02/26/20,,,Rangers at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,02/26/20,02/26/20,,,False,True,02/26/20,,,FREE,BUSY
+101,02/29/20,,,Dodgers at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,02/29/20,02/29/20,,,False,True,02/29/20,,,FREE,BUSY
+102,03/01/20,,,Angels at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/01/20,03/01/20,,,False,True,03/01/20,,,FREE,BUSY
+103,03/03/20,,,Cubs at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/03/20,03/03/20,,,False,True,03/03/20,,,FREE,BUSY
+104,03/05/20,,,Royals at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/05/20,03/05/20,,,False,True,03/05/20,,,FREE,BUSY
+105,03/08/20,,,Indians at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/08/20,03/08/20,,,False,True,03/08/20,,,FREE,BUSY
+106,03/10/20,,,Reds at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/10/20,03/10/20,,,False,True,03/10/20,,,FREE,BUSY
+107,03/11/20,,,White Sox at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/11/20,03/11/20,,,False,True,03/11/20,,,FREE,BUSY
+108,03/13/20,,,Padres at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/13/20,03/13/20,,,False,True,03/13/20,,,FREE,BUSY
+109,03/16/20,,,Giants at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/16/20,03/16/20,,,False,True,03/16/20,,,FREE,BUSY
+110,03/18/20,,,Athletics at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/18/20,03/18/20,,,False,True,03/18/20,,,FREE,BUSY
+111,03/20/20,,,Mariners at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/20/20,03/20/20,,,False,True,03/20/20,,,FREE,BUSY
+112,03/21/20,,,Brewers at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/21/20,03/21/20,,,False,True,03/21/20,,,FREE,BUSY
+113,03/24/20,,,Mariners at Rockies - Time TBD,Salt River Fields at Talking Stick - Scottsdale,,03/24/20,03/24/20,,,False,True,03/24/20,,,FREE,BUSY
+114,04/03/20,02:10 PM,04:10 PM,Padres at Rockies,Coors Field - Denver,,04/03/20,04/03/20,05:10 PM,07:10 PM,False,True,04/03/20,01:10 PM,03:10 PM,FREE,BUSY
+115,04/04/20,06:10 PM,08:10 PM,Padres at Rockies,Coors Field - Denver,,04/04/20,04/04/20,09:10 PM,11:10 PM,False,True,04/04/20,05:10 PM,07:10 PM,FREE,BUSY
+116,04/05/20,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,,04/05/20,04/05/20,04:10 PM,06:10 PM,False,True,04/05/20,12:10 PM,02:10 PM,FREE,BUSY
+117,04/17/20,06:40 PM,08:40 PM,Cardinals at Rockies,Coors Field - Denver,,04/17/20,04/17/20,09:40 PM,11:40 PM,False,True,04/17/20,05:40 PM,07:40 PM,FREE,BUSY
+118,04/18/20,06:10 PM,08:10 PM,Cardinals at Rockies,Coors Field - Denver,,04/18/20,04/18/20,09:10 PM,11:10 PM,False,True,04/18/20,05:10 PM,07:10 PM,FREE,BUSY
+119,04/19/20,01:10 PM,03:10 PM,Cardinals at Rockies,Coors Field - Denver,,04/19/20,04/19/20,04:10 PM,06:10 PM,False,True,04/19/20,12:10 PM,02:10 PM,FREE,BUSY
+120,04/24/20,06:40 PM,08:40 PM,Brewers at Rockies,Coors Field - Denver,,04/24/20,04/24/20,09:40 PM,11:40 PM,False,True,04/24/20,05:40 PM,07:40 PM,FREE,BUSY
+121,04/25/20,06:10 PM,08:10 PM,Brewers at Rockies,Coors Field - Denver,,04/25/20,04/25/20,09:10 PM,11:10 PM,False,True,04/25/20,05:10 PM,07:10 PM,FREE,BUSY
+122,04/26/20,01:10 PM,03:10 PM,Brewers at Rockies,Coors Field - Denver,,04/26/20,04/26/20,04:10 PM,06:10 PM,False,True,04/26/20,12:10 PM,02:10 PM,FREE,BUSY
+123,04/28/20,06:40 PM,08:40 PM,White Sox at Rockies,Coors Field - Denver,,04/28/20,04/28/20,09:40 PM,11:40 PM,False,True,04/28/20,05:40 PM,07:40 PM,FREE,BUSY
+124,04/29/20,01:10 PM,03:10 PM,White Sox at Rockies,Coors Field - Denver,,04/29/20,04/29/20,04:10 PM,06:10 PM,False,True,04/29/20,12:10 PM,02:10 PM,FREE,BUSY
+125,05/07/20,06:40 PM,08:40 PM,Reds at Rockies,Coors Field - Denver,,05/07/20,05/07/20,09:40 PM,11:40 PM,False,True,05/07/20,05:40 PM,07:40 PM,FREE,BUSY
+126,05/08/20,06:40 PM,08:40 PM,Reds at Rockies,Coors Field - Denver,,05/08/20,05/08/20,09:40 PM,11:40 PM,False,True,05/08/20,05:40 PM,07:40 PM,FREE,BUSY
+127,05/09/20,06:10 PM,08:10 PM,Reds at Rockies,Coors Field - Denver,,05/09/20,05/09/20,09:10 PM,11:10 PM,False,True,05/09/20,05:10 PM,07:10 PM,FREE,BUSY
+128,05/10/20,01:10 PM,03:10 PM,Reds at Rockies,Coors Field - Denver,,05/10/20,05/10/20,04:10 PM,06:10 PM,False,True,05/10/20,12:10 PM,02:10 PM,FREE,BUSY
+129,05/11/20,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,,05/11/20,05/11/20,09:40 PM,11:40 PM,False,True,05/11/20,05:40 PM,07:40 PM,FREE,BUSY
+130,05/12/20,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,,05/12/20,05/12/20,09:40 PM,11:40 PM,False,True,05/12/20,05:40 PM,07:40 PM,FREE,BUSY
+131,05/13/20,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,,05/13/20,05/13/20,09:40 PM,11:40 PM,False,True,05/13/20,05:40 PM,07:40 PM,FREE,BUSY
+132,05/14/20,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,,05/14/20,05/14/20,04:10 PM,06:10 PM,False,True,05/14/20,12:10 PM,02:10 PM,FREE,BUSY
+133,05/22/20,06:40 PM,08:40 PM,Phillies at Rockies,Coors Field - Denver,,05/22/20,05/22/20,09:40 PM,11:40 PM,False,True,05/22/20,05:40 PM,07:40 PM,FREE,BUSY
+134,05/23/20,,,Phillies at Rockies - Time TBD,Coors Field - Denver,,05/23/20,05/23/20,,,False,True,05/23/20,,,FREE,BUSY
+135,05/24/20,01:10 PM,03:10 PM,Phillies at Rockies,Coors Field - Denver,,05/24/20,05/24/20,04:10 PM,06:10 PM,False,True,05/24/20,12:10 PM,02:10 PM,FREE,BUSY
+136,05/25/20,01:10 PM,03:10 PM,Dodgers at Rockies,Coors Field - Denver,,05/25/20,05/25/20,04:10 PM,06:10 PM,False,True,05/25/20,12:10 PM,02:10 PM,FREE,BUSY
+137,05/26/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,05/26/20,05/26/20,09:40 PM,11:40 PM,False,True,05/26/20,05:40 PM,07:40 PM,FREE,BUSY
+138,05/27/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,05/27/20,05/27/20,09:40 PM,11:40 PM,False,True,05/27/20,05:40 PM,07:40 PM,FREE,BUSY
+139,05/28/20,01:10 PM,03:10 PM,Dodgers at Rockies,Coors Field - Denver,,05/28/20,05/28/20,04:10 PM,06:10 PM,False,True,05/28/20,12:10 PM,02:10 PM,FREE,BUSY
+140,06/09/20,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,,06/09/20,06/09/20,09:40 PM,11:40 PM,False,True,06/09/20,05:40 PM,07:40 PM,FREE,BUSY
+141,06/10/20,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,,06/10/20,06/10/20,09:40 PM,11:40 PM,False,True,06/10/20,05:40 PM,07:40 PM,FREE,BUSY
+142,06/11/20,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,,06/11/20,06/11/20,04:10 PM,06:10 PM,False,True,06/11/20,12:10 PM,02:10 PM,FREE,BUSY
+143,06/12/20,06:40 PM,08:40 PM,Pirates at Rockies,Coors Field - Denver,,06/12/20,06/12/20,09:40 PM,11:40 PM,False,True,06/12/20,05:40 PM,07:40 PM,FREE,BUSY
+144,06/13/20,,,Pirates at Rockies - Time TBD,Coors Field - Denver,,06/13/20,06/13/20,,,False,True,06/13/20,,,FREE,BUSY
+145,06/14/20,01:10 PM,03:10 PM,Pirates at Rockies,Coors Field - Denver,,06/14/20,06/14/20,04:10 PM,06:10 PM,False,True,06/14/20,12:10 PM,02:10 PM,FREE,BUSY
+146,06/19/20,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,,06/19/20,06/19/20,09:40 PM,11:40 PM,False,True,06/19/20,05:40 PM,07:40 PM,FREE,BUSY
+147,06/20/20,,,Padres at Rockies - Time TBD,Coors Field - Denver,,06/20/20,06/20/20,,,False,True,06/20/20,,,FREE,BUSY
+148,06/21/20,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,,06/21/20,06/21/20,04:10 PM,06:10 PM,False,True,06/21/20,12:10 PM,02:10 PM,FREE,BUSY
+149,06/22/20,06:40 PM,08:40 PM,Royals at Rockies,Coors Field - Denver,,06/22/20,06/22/20,09:40 PM,11:40 PM,False,True,06/22/20,05:40 PM,07:40 PM,FREE,BUSY
+150,06/23/20,06:40 PM,08:40 PM,Royals at Rockies,Coors Field - Denver,,06/23/20,06/23/20,09:40 PM,11:40 PM,False,True,06/23/20,05:40 PM,07:40 PM,FREE,BUSY
+151,06/24/20,01:10 PM,03:10 PM,Royals at Rockies,Coors Field - Denver,,06/24/20,06/24/20,04:10 PM,06:10 PM,False,True,06/24/20,12:10 PM,02:10 PM,FREE,BUSY
+152,07/03/20,06:10 PM,08:10 PM,Giants at Rockies,Coors Field - Denver,,07/03/20,07/03/20,09:10 PM,11:10 PM,False,True,07/03/20,05:10 PM,07:10 PM,FREE,BUSY
+153,07/04/20,,,Giants at Rockies - Time TBD,Coors Field - Denver,,07/04/20,07/04/20,,,False,True,07/04/20,,,FREE,BUSY
+154,07/05/20,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,,07/05/20,07/05/20,04:10 PM,06:10 PM,False,True,07/05/20,12:10 PM,02:10 PM,FREE,BUSY
+155,07/06/20,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,,07/06/20,07/06/20,09:40 PM,11:40 PM,False,True,07/06/20,05:40 PM,07:40 PM,FREE,BUSY
+156,07/07/20,06:40 PM,08:40 PM,D-backs at Rockies,Coors Field - Denver,,07/07/20,07/07/20,09:40 PM,11:40 PM,False,True,07/07/20,05:40 PM,07:40 PM,FREE,BUSY
+157,07/08/20,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,,07/08/20,07/08/20,04:10 PM,06:10 PM,False,True,07/08/20,12:10 PM,02:10 PM,FREE,BUSY
+158,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+159,07/17/20,06:40 PM,08:40 PM,Braves at Rockies,Coors Field - Denver,,07/17/20,07/17/20,09:40 PM,11:40 PM,False,True,07/17/20,05:40 PM,07:40 PM,FREE,BUSY
+160,07/18/20,06:10 PM,08:10 PM,Braves at Rockies,Coors Field - Denver,,07/18/20,07/18/20,09:10 PM,11:10 PM,False,True,07/18/20,05:10 PM,07:10 PM,FREE,BUSY
+161,07/19/20,01:10 PM,03:10 PM,Braves at Rockies,Coors Field - Denver,,07/19/20,07/19/20,04:10 PM,06:10 PM,False,True,07/19/20,12:10 PM,02:10 PM,FREE,BUSY
+162,07/20/20,06:40 PM,08:40 PM,Marlins at Rockies,Coors Field - Denver,,07/20/20,07/20/20,09:40 PM,11:40 PM,False,True,07/20/20,05:40 PM,07:40 PM,FREE,BUSY
+163,07/21/20,06:40 PM,08:40 PM,Marlins at Rockies,Coors Field - Denver,,07/21/20,07/21/20,09:40 PM,11:40 PM,False,True,07/21/20,05:40 PM,07:40 PM,FREE,BUSY
+164,07/22/20,06:40 PM,08:40 PM,Marlins at Rockies,Coors Field - Denver,,07/22/20,07/22/20,09:40 PM,11:40 PM,False,True,07/22/20,05:40 PM,07:40 PM,FREE,BUSY
+165,07/23/20,01:10 PM,03:10 PM,Marlins at Rockies,Coors Field - Denver,,07/23/20,07/23/20,04:10 PM,06:10 PM,False,True,07/23/20,12:10 PM,02:10 PM,FREE,BUSY
+166,07/31/20,06:40 PM,08:40 PM,Giants at Rockies,Coors Field - Denver,,07/31/20,07/31/20,09:40 PM,11:40 PM,False,True,07/31/20,05:40 PM,07:40 PM,FREE,BUSY
+167,08/01/20,06:10 PM,08:10 PM,Giants at Rockies,Coors Field - Denver,,08/01/20,08/01/20,09:10 PM,11:10 PM,False,True,08/01/20,05:10 PM,07:10 PM,FREE,BUSY
+168,08/02/20,01:10 PM,03:10 PM,Giants at Rockies,Coors Field - Denver,,08/02/20,08/02/20,04:10 PM,06:10 PM,False,True,08/02/20,12:10 PM,02:10 PM,FREE,BUSY
+169,08/03/20,06:40 PM,08:40 PM,Mets at Rockies,Coors Field - Denver,,08/03/20,08/03/20,09:40 PM,11:40 PM,False,True,08/03/20,05:40 PM,07:40 PM,FREE,BUSY
+170,08/04/20,06:40 PM,08:40 PM,Mets at Rockies,Coors Field - Denver,,08/04/20,08/04/20,09:40 PM,11:40 PM,False,True,08/04/20,05:40 PM,07:40 PM,FREE,BUSY
+171,08/05/20,01:10 PM,03:10 PM,Mets at Rockies,Coors Field - Denver,,08/05/20,08/05/20,04:10 PM,06:10 PM,False,True,08/05/20,12:10 PM,02:10 PM,FREE,BUSY
+172,08/17/20,06:40 PM,08:40 PM,Nationals at Rockies,Coors Field - Denver,,08/17/20,08/17/20,09:40 PM,11:40 PM,False,True,08/17/20,05:40 PM,07:40 PM,FREE,BUSY
+173,08/18/20,06:40 PM,08:40 PM,Nationals at Rockies,Coors Field - Denver,,08/18/20,08/18/20,09:40 PM,11:40 PM,False,True,08/18/20,05:40 PM,07:40 PM,FREE,BUSY
+174,08/19/20,06:40 PM,08:40 PM,Nationals at Rockies,Coors Field - Denver,,08/19/20,08/19/20,09:40 PM,11:40 PM,False,True,08/19/20,05:40 PM,07:40 PM,FREE,BUSY
+175,08/20/20,01:10 PM,03:10 PM,Nationals at Rockies,Coors Field - Denver,,08/20/20,08/20/20,04:10 PM,06:10 PM,False,True,08/20/20,12:10 PM,02:10 PM,FREE,BUSY
+176,08/21/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,08/21/20,08/21/20,09:40 PM,11:40 PM,False,True,08/21/20,05:40 PM,07:40 PM,FREE,BUSY
+177,08/22/20,06:10 PM,08:10 PM,Dodgers at Rockies,Coors Field - Denver,,08/22/20,08/22/20,09:10 PM,11:10 PM,False,True,08/22/20,05:10 PM,07:10 PM,FREE,BUSY
+178,08/23/20,01:10 PM,03:10 PM,Dodgers at Rockies,Coors Field - Denver,,08/23/20,08/23/20,04:10 PM,06:10 PM,False,True,08/23/20,12:10 PM,02:10 PM,FREE,BUSY
+179,09/04/20,06:40 PM,08:40 PM,Indians at Rockies,Coors Field - Denver,,09/04/20,09/04/20,09:40 PM,11:40 PM,False,True,09/04/20,05:40 PM,07:40 PM,FREE,BUSY
+180,09/05/20,06:10 PM,08:10 PM,Indians at Rockies,Coors Field - Denver,,09/05/20,09/05/20,09:10 PM,11:10 PM,False,True,09/05/20,05:10 PM,07:10 PM,FREE,BUSY
+181,09/06/20,,,Indians at Rockies - Time TBD,Coors Field - Denver,,09/06/20,09/06/20,,,False,True,09/06/20,,,FREE,BUSY
+182,09/07/20,01:10 PM,03:10 PM,Cubs at Rockies,Coors Field - Denver,,09/07/20,09/07/20,04:10 PM,06:10 PM,False,True,09/07/20,12:10 PM,02:10 PM,FREE,BUSY
+183,09/08/20,06:40 PM,08:40 PM,Cubs at Rockies,Coors Field - Denver,,09/08/20,09/08/20,09:40 PM,11:40 PM,False,True,09/08/20,05:40 PM,07:40 PM,FREE,BUSY
+184,09/09/20,06:40 PM,08:40 PM,Cubs at Rockies,Coors Field - Denver,,09/09/20,09/09/20,09:40 PM,11:40 PM,False,True,09/09/20,05:40 PM,07:40 PM,FREE,BUSY
+185,09/11/20,06:40 PM,08:40 PM,Padres at Rockies,Coors Field - Denver,,09/11/20,09/11/20,09:40 PM,11:40 PM,False,True,09/11/20,05:40 PM,07:40 PM,FREE,BUSY
+186,09/12/20,06:10 PM,08:10 PM,Padres at Rockies,Coors Field - Denver,,09/12/20,09/12/20,09:10 PM,11:10 PM,False,True,09/12/20,05:10 PM,07:10 PM,FREE,BUSY
+187,09/13/20,01:10 PM,03:10 PM,Padres at Rockies,Coors Field - Denver,,09/13/20,09/13/20,04:10 PM,06:10 PM,False,True,09/13/20,12:10 PM,02:10 PM,FREE,BUSY
+188,09/22/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,09/22/20,09/22/20,09:40 PM,11:40 PM,False,True,09/22/20,05:40 PM,07:40 PM,FREE,BUSY
+189,09/23/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,09/23/20,09/23/20,09:40 PM,11:40 PM,False,True,09/23/20,05:40 PM,07:40 PM,FREE,BUSY
+190,09/24/20,06:40 PM,08:40 PM,Dodgers at Rockies,Coors Field - Denver,,09/24/20,09/24/20,09:40 PM,11:40 PM,False,True,09/24/20,05:40 PM,07:40 PM,FREE,BUSY
+191,09/25/20,06:10 PM,08:10 PM,D-backs at Rockies,Coors Field - Denver,,09/25/20,09/25/20,09:10 PM,11:10 PM,False,True,09/25/20,05:10 PM,07:10 PM,FREE,BUSY
+192,09/26/20,06:10 PM,08:10 PM,D-backs at Rockies,Coors Field - Denver,,09/26/20,09/26/20,09:10 PM,11:10 PM,False,True,09/26/20,05:10 PM,07:10 PM,FREE,BUSY
+193,09/27/20,01:10 PM,03:10 PM,D-backs at Rockies,Coors Field - Denver,,09/27/20,09/27/20,04:10 PM,06:10 PM,False,True,09/27/20,12:10 PM,02:10 PM,FREE,BUSY

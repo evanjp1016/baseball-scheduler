@@ -1,0 +1,192 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/23/19,02:05 PM,03:05 PM,Rangers at Royals,Surprise Stadium - Surprise,Local Radio: MLB.com,02/23/19,02/23/19,05:05 PM,06:05 PM,False,True,02/23/19,01:05 PM,02:05 PM,FREE,BUSY
+1,02/25/19,02:05 PM,03:05 PM,Rockies at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,02/25/19,02/25/19,05:05 PM,06:05 PM,False,True,02/25/19,01:05 PM,02:05 PM,FREE,BUSY
+2,02/26/19,02:05 PM,03:05 PM,Dodgers at Royals,Surprise Stadium - Surprise,Local Radio: MLB.com,02/26/19,02/26/19,05:05 PM,06:05 PM,False,True,02/26/19,01:05 PM,02:05 PM,FREE,BUSY
+3,02/28/19,02:05 PM,03:05 PM,Padres at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,02/28/19,02/28/19,05:05 PM,06:05 PM,False,True,02/28/19,01:05 PM,02:05 PM,FREE,BUSY
+4,03/02/19,02:05 PM,03:05 PM,Mariners at Royals,Surprise Stadium - Surprise,Local Radio: MLB.com,03/02/19,03/02/19,05:05 PM,06:05 PM,False,True,03/02/19,01:05 PM,02:05 PM,FREE,BUSY
+5,03/05/19,07:05 PM,08:05 PM,D-backs at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,03/05/19,03/05/19,10:05 PM,11:05 PM,False,True,03/05/19,06:05 PM,07:05 PM,FREE,BUSY
+6,03/07/19,02:05 PM,03:05 PM,Angels at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,03/07/19,03/07/19,05:05 PM,06:05 PM,False,True,03/07/19,01:05 PM,02:05 PM,FREE,BUSY
+7,03/08/19,02:05 PM,03:05 PM,Reds at Royals,Surprise Stadium - Surprise,Local Radio: MLB.com,03/08/19,03/08/19,05:05 PM,06:05 PM,False,True,03/08/19,01:05 PM,02:05 PM,FREE,BUSY
+8,03/10/19,03:05 PM,04:05 PM,Padres at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,03/10/19,03/10/19,06:05 PM,07:05 PM,False,True,03/10/19,02:05 PM,03:05 PM,FREE,BUSY
+9,03/13/19,03:05 PM,04:05 PM,Indians at Royals,Surprise Stadium - Surprise,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610,03/13/19,03/13/19,06:05 PM,07:05 PM,False,True,03/13/19,02:05 PM,03:05 PM,FREE,BUSY
+10,03/14/19,03:05 PM,04:05 PM,Rangers at Royals,Surprise Stadium - Surprise,Local Radio: MLB.com,03/14/19,03/14/19,06:05 PM,07:05 PM,False,True,03/14/19,02:05 PM,03:05 PM,FREE,BUSY
+11,03/16/19,03:05 PM,04:05 PM,Brewers at Royals,Surprise Stadium - Surprise,Local Radio: KCSP 610,03/16/19,03/16/19,06:05 PM,07:05 PM,False,True,03/16/19,02:05 PM,03:05 PM,FREE,BUSY
+12,03/19/19,08:05 PM,09:05 PM,Cubs at Royals,Surprise Stadium - Surprise,Local TV: FSKC ----- Local Radio: KCSP 610,03/19/19,03/20/19,11:05 PM,12:05 AM,False,True,03/19/19,07:05 PM,08:05 PM,FREE,BUSY
+13,03/22/19,08:05 PM,09:05 PM,Giants at Royals,Surprise Stadium - Surprise,Local TV: FSKC ----- Local Radio: KCSP 610,03/22/19,03/23/19,11:05 PM,12:05 AM,False,True,03/22/19,07:05 PM,08:05 PM,FREE,BUSY
+14,03/28/19,03:15 PM,04:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,03/28/19,03/28/19,06:15 PM,07:15 PM,False,True,03/28/19,02:15 PM,03:15 PM,FREE,BUSY
+15,03/30/19,01:15 PM,02:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,03/30/19,03/30/19,04:15 PM,05:15 PM,False,True,03/30/19,12:15 PM,01:15 PM,FREE,BUSY
+16,03/31/19,01:15 PM,02:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,03/31/19,03/31/19,04:15 PM,05:15 PM,False,True,03/31/19,12:15 PM,01:15 PM,FREE,BUSY
+17,04/02/19,07:15 PM,08:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/02/19,04/02/19,10:15 PM,11:15 PM,False,True,04/02/19,06:15 PM,07:15 PM,FREE,BUSY
+18,04/03/19,12:15 PM,01:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/03/19,04/03/19,03:15 PM,04:15 PM,False,True,04/03/19,11:15 AM,12:15 PM,FREE,BUSY
+19,04/08/19,07:15 PM,08:15 PM,Mariners at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/08/19,04/08/19,10:15 PM,11:15 PM,False,True,04/08/19,06:15 PM,07:15 PM,FREE,BUSY
+20,04/09/19,07:15 PM,08:15 PM,Mariners at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/09/19,04/09/19,10:15 PM,11:15 PM,False,True,04/09/19,06:15 PM,07:15 PM,FREE,BUSY
+21,04/10/19,07:15 PM,08:15 PM,Mariners at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/10/19,04/10/19,10:15 PM,11:15 PM,False,True,04/10/19,06:15 PM,07:15 PM,FREE,BUSY
+22,04/11/19,12:15 PM,01:15 PM,Mariners at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/11/19,04/11/19,03:15 PM,04:15 PM,False,True,04/11/19,11:15 AM,12:15 PM,FREE,BUSY
+23,04/12/19,07:15 PM,08:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/12/19,04/12/19,10:15 PM,11:15 PM,False,True,04/12/19,06:15 PM,07:15 PM,FREE,BUSY
+24,04/13/19,06:15 PM,07:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/13/19,04/13/19,09:15 PM,10:15 PM,False,True,04/13/19,05:15 PM,06:15 PM,FREE,BUSY
+25,04/14/19,01:15 PM,02:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/14/19,04/14/19,04:15 PM,05:15 PM,False,True,04/14/19,12:15 PM,01:15 PM,FREE,BUSY
+26,04/26/19,07:15 PM,08:15 PM,Angels at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/26/19,04/26/19,10:15 PM,11:15 PM,False,True,04/26/19,06:15 PM,07:15 PM,FREE,BUSY
+27,04/27/19,06:15 PM,07:15 PM,Angels at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/27/19,04/27/19,09:15 PM,10:15 PM,False,True,04/27/19,05:15 PM,06:15 PM,FREE,BUSY
+28,04/28/19,01:15 PM,02:15 PM,Angels at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,04/28/19,04/28/19,04:15 PM,05:15 PM,False,True,04/28/19,12:15 PM,01:15 PM,FREE,BUSY
+29,04/29/19,07:15 PM,08:15 PM,Rays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,04/29/19,04/29/19,10:15 PM,11:15 PM,False,True,04/29/19,06:15 PM,07:15 PM,FREE,BUSY
+30,05/01/19,12:15 PM,01:15 PM,Rays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610,05/01/19,05/01/19,03:15 PM,04:15 PM,False,True,05/01/19,11:15 AM,12:15 PM,FREE,BUSY
+31,05/01/19,,,Rays at Royals - Time TBD,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,05/01/19,05/01/19,,,False,True,05/01/19,,,FREE,BUSY
+32,05/02/19,01:15 PM,02:15 PM,Rays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,05/02/19,05/02/19,04:15 PM,05:15 PM,False,True,05/02/19,12:15 PM,01:15 PM,FREE,BUSY
+33,05/10/19,07:15 PM,08:15 PM,Phillies at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,05/10/19,05/10/19,10:15 PM,11:15 PM,False,True,05/10/19,06:15 PM,07:15 PM,FREE,BUSY
+34,05/11/19,06:15 PM,07:15 PM,Phillies at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610,05/11/19,05/11/19,09:15 PM,10:15 PM,False,True,05/11/19,05:15 PM,06:15 PM,FREE,BUSY
+35,05/12/19,01:15 PM,02:15 PM,Phillies at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,05/12/19,05/12/19,04:15 PM,05:15 PM,False,True,05/12/19,12:15 PM,01:15 PM,FREE,BUSY
+36,05/14/19,07:15 PM,08:15 PM,Rangers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,05/14/19,05/14/19,10:15 PM,11:15 PM,False,True,05/14/19,06:15 PM,07:15 PM,FREE,BUSY
+37,05/15/19,07:15 PM,08:15 PM,Rangers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,05/15/19,05/15/19,10:15 PM,11:15 PM,False,True,05/15/19,06:15 PM,07:15 PM,FREE,BUSY
+38,05/16/19,12:15 PM,01:15 PM,Rangers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,05/16/19,05/16/19,03:15 PM,04:15 PM,False,True,05/16/19,11:15 AM,12:15 PM,FREE,BUSY
+39,05/25/19,01:15 PM,02:15 PM,Yankees at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610- KYYS-1250 AM,05/25/19,05/25/19,04:15 PM,05:15 PM,False,True,05/25/19,12:15 PM,01:15 PM,FREE,BUSY
+40,05/25/19,07:15 PM,08:15 PM,Yankees at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,05/25/19,05/25/19,10:15 PM,11:15 PM,False,True,05/25/19,06:15 PM,07:15 PM,FREE,BUSY
+41,05/26/19,01:15 PM,02:15 PM,Yankees at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,05/26/19,05/26/19,04:15 PM,05:15 PM,False,True,05/26/19,12:15 PM,01:15 PM,FREE,BUSY
+42,06/04/19,07:15 PM,08:15 PM,Red Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/04/19,06/04/19,10:15 PM,11:15 PM,False,True,06/04/19,06:15 PM,07:15 PM,FREE,BUSY
+43,06/05/19,07:15 PM,08:15 PM,Red Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/05/19,06/05/19,10:15 PM,11:15 PM,False,True,06/05/19,06:15 PM,07:15 PM,FREE,BUSY
+44,06/06/19,12:15 PM,01:15 PM,Red Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,06/06/19,06/06/19,03:15 PM,04:15 PM,False,True,06/06/19,11:15 AM,12:15 PM,FREE,BUSY
+45,06/07/19,07:15 PM,08:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/07/19,06/07/19,10:15 PM,11:15 PM,False,True,06/07/19,06:15 PM,07:15 PM,FREE,BUSY
+46,06/08/19,01:15 PM,02:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,06/08/19,06/08/19,04:15 PM,05:15 PM,False,True,06/08/19,12:15 PM,01:15 PM,FREE,BUSY
+47,06/09/19,01:15 PM,02:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,06/09/19,06/09/19,04:15 PM,05:15 PM,False,True,06/09/19,12:15 PM,01:15 PM,FREE,BUSY
+48,06/11/19,07:15 PM,08:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/11/19,06/11/19,10:15 PM,11:15 PM,False,True,06/11/19,06:15 PM,07:15 PM,FREE,BUSY
+49,06/12/19,07:15 PM,08:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,06/12/19,06/12/19,10:15 PM,11:15 PM,False,True,06/12/19,06:15 PM,07:15 PM,FREE,BUSY
+50,06/13/19,07:05 PM,08:05 PM,Tigers at Royals,TD Ameritrade Park - Omaha,Local TV: ESPN ----- Local Radio: KCSP 610,06/13/19,06/13/19,10:05 PM,11:05 PM,False,True,06/13/19,06:05 PM,07:05 PM,FREE,BUSY
+51,06/20/19,07:15 PM,08:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/20/19,06/20/19,10:15 PM,11:15 PM,False,True,06/20/19,06:15 PM,07:15 PM,FREE,BUSY
+52,06/21/19,07:15 PM,08:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/21/19,06/21/19,10:15 PM,11:15 PM,False,True,06/21/19,06:15 PM,07:15 PM,FREE,BUSY
+53,06/22/19,01:15 PM,02:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/22/19,06/22/19,04:15 PM,05:15 PM,False,True,06/22/19,12:15 PM,01:15 PM,FREE,BUSY
+54,06/23/19,01:15 PM,02:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,06/23/19,06/23/19,04:15 PM,05:15 PM,False,True,06/23/19,12:15 PM,01:15 PM,FREE,BUSY
+55,07/02/19,07:15 PM,08:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/02/19,07/02/19,10:15 PM,11:15 PM,False,True,07/02/19,06:15 PM,07:15 PM,FREE,BUSY
+56,07/03/19,07:15 PM,08:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/03/19,07/03/19,10:15 PM,11:15 PM,False,True,07/03/19,06:15 PM,07:15 PM,FREE,BUSY
+57,07/04/19,12:15 PM,01:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610- KYYS-1250 AM,07/04/19,07/04/19,03:15 PM,04:15 PM,False,True,07/04/19,11:15 AM,12:15 PM,FREE,BUSY
+58,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+59,07/12/19,07:15 PM,08:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/12/19,07/12/19,10:15 PM,11:15 PM,False,True,07/12/19,06:15 PM,07:15 PM,FREE,BUSY
+60,07/13/19,06:15 PM,07:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/13/19,07/13/19,09:15 PM,10:15 PM,False,True,07/13/19,05:15 PM,06:15 PM,FREE,BUSY
+61,07/14/19,01:15 PM,02:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,07/14/19,07/14/19,04:15 PM,05:15 PM,False,True,07/14/19,12:15 PM,01:15 PM,FREE,BUSY
+62,07/15/19,07:15 PM,08:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/15/19,07/15/19,10:15 PM,11:15 PM,False,True,07/15/19,06:15 PM,07:15 PM,FREE,BUSY
+63,07/16/19,07:15 PM,08:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/16/19,07/16/19,10:15 PM,11:15 PM,False,True,07/16/19,06:15 PM,07:15 PM,FREE,BUSY
+64,07/17/19,07:15 PM,08:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/17/19,07/17/19,10:15 PM,11:15 PM,False,True,07/17/19,06:15 PM,07:15 PM,FREE,BUSY
+65,07/18/19,12:15 PM,01:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610,07/18/19,07/18/19,03:15 PM,04:15 PM,False,True,07/18/19,11:15 AM,12:15 PM,FREE,BUSY
+66,07/25/19,07:15 PM,08:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/25/19,07/25/19,10:15 PM,11:15 PM,False,True,07/25/19,06:15 PM,07:15 PM,FREE,BUSY
+67,07/26/19,07:15 PM,08:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/26/19,07/26/19,10:15 PM,11:15 PM,False,True,07/26/19,06:15 PM,07:15 PM,FREE,BUSY
+68,07/27/19,06:15 PM,07:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/27/19,07/27/19,09:15 PM,10:15 PM,False,True,07/27/19,05:15 PM,06:15 PM,FREE,BUSY
+69,07/28/19,01:15 PM,02:15 PM,Indians at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,07/28/19,07/28/19,04:15 PM,05:15 PM,False,True,07/28/19,12:15 PM,01:15 PM,FREE,BUSY
+70,07/29/19,07:15 PM,08:15 PM,Blue Jays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/29/19,07/29/19,10:15 PM,11:15 PM,False,True,07/29/19,06:15 PM,07:15 PM,FREE,BUSY
+71,07/30/19,07:15 PM,08:15 PM,Blue Jays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/30/19,07/30/19,10:15 PM,11:15 PM,False,True,07/30/19,06:15 PM,07:15 PM,FREE,BUSY
+72,07/31/19,12:15 PM,01:15 PM,Blue Jays at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,07/31/19,07/31/19,03:15 PM,04:15 PM,False,True,07/31/19,11:15 AM,12:15 PM,FREE,BUSY
+73,08/13/19,07:15 PM,08:15 PM,Cardinals at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/13/19,08/13/19,10:15 PM,11:15 PM,False,True,08/13/19,06:15 PM,07:15 PM,FREE,BUSY
+74,08/14/19,07:15 PM,08:15 PM,Cardinals at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/14/19,08/14/19,10:15 PM,11:15 PM,False,True,08/14/19,06:15 PM,07:15 PM,FREE,BUSY
+75,08/16/19,07:15 PM,08:15 PM,Mets at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/16/19,08/16/19,10:15 PM,11:15 PM,False,True,08/16/19,06:15 PM,07:15 PM,FREE,BUSY
+76,08/17/19,06:15 PM,07:15 PM,Mets at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/17/19,08/17/19,09:15 PM,10:15 PM,False,True,08/17/19,05:15 PM,06:15 PM,FREE,BUSY
+77,08/18/19,01:15 PM,02:15 PM,Mets at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,08/18/19,08/18/19,04:15 PM,05:15 PM,False,True,08/18/19,12:15 PM,01:15 PM,FREE,BUSY
+78,08/26/19,07:15 PM,08:15 PM,Athletics at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/26/19,08/26/19,10:15 PM,11:15 PM,False,True,08/26/19,06:15 PM,07:15 PM,FREE,BUSY
+79,08/27/19,07:15 PM,08:15 PM,Athletics at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/27/19,08/27/19,10:15 PM,11:15 PM,False,True,08/27/19,06:15 PM,07:15 PM,FREE,BUSY
+80,08/28/19,07:15 PM,08:15 PM,Athletics at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/28/19,08/28/19,10:15 PM,11:15 PM,False,True,08/28/19,06:15 PM,07:15 PM,FREE,BUSY
+81,08/29/19,12:15 PM,01:15 PM,Athletics at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC- MLBN (out-of-market only) ----- Local Radio: KCSP 610,08/29/19,08/29/19,03:15 PM,04:15 PM,False,True,08/29/19,11:15 AM,12:15 PM,FREE,BUSY
+82,08/30/19,07:15 PM,08:15 PM,Orioles at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/30/19,08/30/19,10:15 PM,11:15 PM,False,True,08/30/19,06:15 PM,07:15 PM,FREE,BUSY
+83,08/31/19,06:15 PM,07:15 PM,Orioles at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,08/31/19,08/31/19,09:15 PM,10:15 PM,False,True,08/31/19,05:15 PM,06:15 PM,FREE,BUSY
+84,09/01/19,01:15 PM,02:15 PM,Orioles at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/01/19,09/01/19,04:15 PM,05:15 PM,False,True,09/01/19,12:15 PM,01:15 PM,FREE,BUSY
+85,09/03/19,07:15 PM,08:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/03/19,09/03/19,10:15 PM,11:15 PM,False,True,09/03/19,06:15 PM,07:15 PM,FREE,BUSY
+86,09/04/19,07:15 PM,08:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/04/19,09/04/19,10:15 PM,11:15 PM,False,True,09/04/19,06:15 PM,07:15 PM,FREE,BUSY
+87,09/05/19,12:15 PM,01:15 PM,Tigers at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,09/05/19,09/05/19,03:15 PM,04:15 PM,False,True,09/05/19,11:15 AM,12:15 PM,FREE,BUSY
+88,09/13/19,07:15 PM,08:15 PM,Astros at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/13/19,09/13/19,10:15 PM,11:15 PM,False,True,09/13/19,06:15 PM,07:15 PM,FREE,BUSY
+89,09/14/19,06:15 PM,07:15 PM,Astros at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/14/19,09/14/19,09:15 PM,10:15 PM,False,True,09/14/19,05:15 PM,06:15 PM,FREE,BUSY
+90,09/15/19,01:15 PM,02:15 PM,Astros at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,09/15/19,09/15/19,04:15 PM,05:15 PM,False,True,09/15/19,12:15 PM,01:15 PM,FREE,BUSY
+91,09/24/19,07:15 PM,08:15 PM,Braves at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/24/19,09/24/19,10:15 PM,11:15 PM,False,True,09/24/19,06:15 PM,07:15 PM,FREE,BUSY
+92,09/25/19,07:15 PM,08:15 PM,Braves at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/25/19,09/25/19,10:15 PM,11:15 PM,False,True,09/25/19,06:15 PM,07:15 PM,FREE,BUSY
+93,09/27/19,07:15 PM,08:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/27/19,09/27/19,10:15 PM,11:15 PM,False,True,09/27/19,06:15 PM,07:15 PM,FREE,BUSY
+94,09/28/19,01:15 PM,02:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610,09/28/19,09/28/19,04:15 PM,05:15 PM,False,True,09/28/19,12:15 PM,01:15 PM,FREE,BUSY
+95,09/29/19,02:15 PM,03:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,Local TV: FSKC ----- Local Radio: KCSP 610- KYYS-1250 AM,09/29/19,09/29/19,05:15 PM,06:15 PM,False,True,09/29/19,01:15 PM,02:15 PM,FREE,BUSY
+96,02/23/20,02:05 PM,03:05 PM,Indians at Royals,Surprise Stadium - Surprise,,02/23/20,02/23/20,05:05 PM,06:05 PM,False,True,02/23/20,01:05 PM,02:05 PM,FREE,BUSY
+97,02/24/20,02:05 PM,03:05 PM,Padres at Royals,Surprise Stadium - Surprise,,02/24/20,02/24/20,05:05 PM,06:05 PM,False,True,02/24/20,01:05 PM,02:05 PM,FREE,BUSY
+98,02/26/20,02:05 PM,03:05 PM,White Sox at Royals,Surprise Stadium - Surprise,,02/26/20,02/26/20,05:05 PM,06:05 PM,False,True,02/26/20,01:05 PM,02:05 PM,FREE,BUSY
+99,02/28/20,02:05 PM,03:05 PM,Giants at Royals,Surprise Stadium - Surprise,,02/28/20,02/28/20,05:05 PM,06:05 PM,False,True,02/28/20,01:05 PM,02:05 PM,FREE,BUSY
+100,03/01/20,02:05 PM,03:05 PM,Athletics at Royals,Surprise Stadium - Surprise,,03/01/20,03/01/20,05:05 PM,06:05 PM,False,True,03/01/20,01:05 PM,02:05 PM,FREE,BUSY
+101,03/03/20,07:05 PM,08:05 PM,D-backs at Royals,Surprise Stadium - Surprise,,03/03/20,03/03/20,10:05 PM,11:05 PM,False,True,03/03/20,06:05 PM,07:05 PM,FREE,BUSY
+102,03/06/20,02:05 PM,03:05 PM,Angels at Royals,Surprise Stadium - Surprise,,03/06/20,03/06/20,05:05 PM,06:05 PM,False,True,03/06/20,01:05 PM,02:05 PM,FREE,BUSY
+103,03/07/20,02:05 PM,03:05 PM,Reds at Royals,Surprise Stadium - Surprise,,03/07/20,03/07/20,05:05 PM,06:05 PM,False,True,03/07/20,01:05 PM,02:05 PM,FREE,BUSY
+104,03/10/20,03:05 PM,04:05 PM,Brewers at Royals,Surprise Stadium - Surprise,,03/10/20,03/10/20,06:05 PM,07:05 PM,False,True,03/10/20,02:05 PM,03:05 PM,FREE,BUSY
+105,03/12/20,03:05 PM,04:05 PM,Mariners at Royals,Surprise Stadium - Surprise,,03/12/20,03/12/20,06:05 PM,07:05 PM,False,True,03/12/20,02:05 PM,03:05 PM,FREE,BUSY
+106,03/14/20,03:05 PM,04:05 PM,Rockies at Royals,Surprise Stadium - Surprise,,03/14/20,03/14/20,06:05 PM,07:05 PM,False,True,03/14/20,02:05 PM,03:05 PM,FREE,BUSY
+107,03/17/20,08:05 PM,09:05 PM,Dodgers at Royals,Surprise Stadium - Surprise,,03/17/20,03/18/20,11:05 PM,12:05 AM,False,True,03/17/20,07:05 PM,08:05 PM,FREE,BUSY
+108,03/18/20,03:05 PM,04:05 PM,Cubs at Royals,Surprise Stadium - Surprise,,03/18/20,03/18/20,06:05 PM,07:05 PM,False,True,03/18/20,02:05 PM,03:05 PM,FREE,BUSY
+109,04/02/20,,,Mariners at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/02/20,04/02/20,,,False,True,04/02/20,,,FREE,BUSY
+110,04/04/20,,,Mariners at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/04/20,04/04/20,,,False,True,04/04/20,,,FREE,BUSY
+111,04/05/20,,,Mariners at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/05/20,04/05/20,,,False,True,04/05/20,,,FREE,BUSY
+112,04/06/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/06/20,04/06/20,,,False,True,04/06/20,,,FREE,BUSY
+113,04/07/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/07/20,04/07/20,,,False,True,04/07/20,,,FREE,BUSY
+114,04/08/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/08/20,04/08/20,,,False,True,04/08/20,,,FREE,BUSY
+115,04/13/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/13/20,04/13/20,,,False,True,04/13/20,,,FREE,BUSY
+116,04/14/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/14/20,04/14/20,,,False,True,04/14/20,,,FREE,BUSY
+117,04/15/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/15/20,04/15/20,,,False,True,04/15/20,,,FREE,BUSY
+118,04/17/20,,,Orioles at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/17/20,04/17/20,,,False,True,04/17/20,,,FREE,BUSY
+119,04/18/20,,,Orioles at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/18/20,04/18/20,,,False,True,04/18/20,,,FREE,BUSY
+120,04/19/20,,,Orioles at Royals - Time TBD,Kauffman Stadium - Kansas City,,04/19/20,04/19/20,,,False,True,04/19/20,,,FREE,BUSY
+121,05/01/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/01/20,05/01/20,,,False,True,05/01/20,,,FREE,BUSY
+122,05/02/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/02/20,05/02/20,,,False,True,05/02/20,,,FREE,BUSY
+123,05/03/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/03/20,05/03/20,,,False,True,05/03/20,,,FREE,BUSY
+124,05/04/20,,,Astros at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/04/20,05/04/20,,,False,True,05/04/20,,,FREE,BUSY
+125,05/05/20,,,Astros at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/05/20,05/05/20,,,False,True,05/05/20,,,FREE,BUSY
+126,05/06/20,,,Astros at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/06/20,05/06/20,,,False,True,05/06/20,,,FREE,BUSY
+127,05/15/20,,,Dodgers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/15/20,05/15/20,,,False,True,05/15/20,,,FREE,BUSY
+128,05/16/20,,,Dodgers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/16/20,05/16/20,,,False,True,05/16/20,,,FREE,BUSY
+129,05/17/20,,,Dodgers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/17/20,05/17/20,,,False,True,05/17/20,,,FREE,BUSY
+130,05/18/20,,,Angels at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/18/20,05/18/20,,,False,True,05/18/20,,,FREE,BUSY
+131,05/19/20,,,Angels at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/19/20,05/19/20,,,False,True,05/19/20,,,FREE,BUSY
+132,05/20/20,,,Angels at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/20/20,05/20/20,,,False,True,05/20/20,,,FREE,BUSY
+133,05/21/20,,,Angels at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/21/20,05/21/20,,,False,True,05/21/20,,,FREE,BUSY
+134,05/22/20,,,Rangers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/22/20,05/22/20,,,False,True,05/22/20,,,FREE,BUSY
+135,05/23/20,,,Rangers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/23/20,05/23/20,,,False,True,05/23/20,,,FREE,BUSY
+136,05/24/20,,,Rangers at Royals - Time TBD,Kauffman Stadium - Kansas City,,05/24/20,05/24/20,,,False,True,05/24/20,,,FREE,BUSY
+137,06/02/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/02/20,06/02/20,,,False,True,06/02/20,,,FREE,BUSY
+138,06/03/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/03/20,06/03/20,,,False,True,06/03/20,,,FREE,BUSY
+139,06/04/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/04/20,06/04/20,,,False,True,06/04/20,,,FREE,BUSY
+140,06/05/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/05/20,06/05/20,,,False,True,06/05/20,,,FREE,BUSY
+141,06/06/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/06/20,06/06/20,,,False,True,06/06/20,,,FREE,BUSY
+142,06/07/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/07/20,06/07/20,,,False,True,06/07/20,,,FREE,BUSY
+143,06/12/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/12/20,06/12/20,,,False,True,06/12/20,,,FREE,BUSY
+144,06/13/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/13/20,06/13/20,,,False,True,06/13/20,,,FREE,BUSY
+145,06/14/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/14/20,06/14/20,,,False,True,06/14/20,,,FREE,BUSY
+146,06/26/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/26/20,06/26/20,,,False,True,06/26/20,,,FREE,BUSY
+147,06/27/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/27/20,06/27/20,,,False,True,06/27/20,,,FREE,BUSY
+148,06/28/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/28/20,06/28/20,,,False,True,06/28/20,,,FREE,BUSY
+149,06/30/20,,,D-backs at Royals - Time TBD,Kauffman Stadium - Kansas City,,06/30/20,06/30/20,,,False,True,06/30/20,,,FREE,BUSY
+150,07/01/20,,,D-backs at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/01/20,07/01/20,,,False,True,07/01/20,,,FREE,BUSY
+151,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+152,07/17/20,,,Red Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/17/20,07/17/20,,,False,True,07/17/20,,,FREE,BUSY
+153,07/18/20,,,Red Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/18/20,07/18/20,,,False,True,07/18/20,,,FREE,BUSY
+154,07/19/20,,,Red Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/19/20,07/19/20,,,False,True,07/19/20,,,FREE,BUSY
+155,07/20/20,,,Rays at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/20/20,07/20/20,,,False,True,07/20/20,,,FREE,BUSY
+156,07/21/20,,,Rays at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/21/20,07/21/20,,,False,True,07/21/20,,,FREE,BUSY
+157,07/22/20,,,Rays at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/22/20,07/22/20,,,False,True,07/22/20,,,FREE,BUSY
+158,07/24/20,,,Padres at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/24/20,07/24/20,,,False,True,07/24/20,,,FREE,BUSY
+159,07/25/20,,,Padres at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/25/20,07/25/20,,,False,True,07/25/20,,,FREE,BUSY
+160,07/26/20,,,Padres at Royals - Time TBD,Kauffman Stadium - Kansas City,,07/26/20,07/26/20,,,False,True,07/26/20,,,FREE,BUSY
+161,08/04/20,,,Cardinals at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/04/20,08/04/20,,,False,True,08/04/20,,,FREE,BUSY
+162,08/05/20,,,Cardinals at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/05/20,08/05/20,,,False,True,08/05/20,,,FREE,BUSY
+163,08/06/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/06/20,08/06/20,,,False,True,08/06/20,,,FREE,BUSY
+164,08/07/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/07/20,08/07/20,,,False,True,08/07/20,,,FREE,BUSY
+165,08/08/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/08/20,08/08/20,,,False,True,08/08/20,,,FREE,BUSY
+166,08/09/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/09/20,08/09/20,,,False,True,08/09/20,,,FREE,BUSY
+167,08/10/20,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/10/20,08/10/20,,,False,True,08/10/20,,,FREE,BUSY
+168,08/11/20,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/11/20,08/11/20,,,False,True,08/11/20,,,FREE,BUSY
+169,08/12/20,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/12/20,08/12/20,,,False,True,08/12/20,,,FREE,BUSY
+170,08/20/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/20/20,08/20/20,,,False,True,08/20/20,,,FREE,BUSY
+171,08/21/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/21/20,08/21/20,,,False,True,08/21/20,,,FREE,BUSY
+172,08/22/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/22/20,08/22/20,,,False,True,08/22/20,,,FREE,BUSY
+173,08/23/20,,,Indians at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/23/20,08/23/20,,,False,True,08/23/20,,,FREE,BUSY
+174,08/24/20,,,Blue Jays at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/24/20,08/24/20,,,False,True,08/24/20,,,FREE,BUSY
+175,08/25/20,,,Blue Jays at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/25/20,08/25/20,,,False,True,08/25/20,,,FREE,BUSY
+176,08/26/20,,,Blue Jays at Royals - Time TBD,Kauffman Stadium - Kansas City,,08/26/20,08/26/20,,,False,True,08/26/20,,,FREE,BUSY
+177,09/07/20,,,Athletics at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/07/20,09/07/20,,,False,True,09/07/20,,,FREE,BUSY
+178,09/08/20,,,Athletics at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/08/20,09/08/20,,,False,True,09/08/20,,,FREE,BUSY
+179,09/09/20,,,Athletics at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/09/20,09/09/20,,,False,True,09/09/20,,,FREE,BUSY
+180,09/10/20,,,Athletics at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/10/20,09/10/20,,,False,True,09/10/20,,,FREE,BUSY
+181,09/11/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/11/20,09/11/20,,,False,True,09/11/20,,,FREE,BUSY
+182,09/12/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/12/20,09/12/20,,,False,True,09/12/20,,,FREE,BUSY
+183,09/13/20,,,White Sox at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/13/20,09/13/20,,,False,True,09/13/20,,,FREE,BUSY
+184,09/21/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/21/20,09/21/20,,,False,True,09/21/20,,,FREE,BUSY
+185,09/22/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/22/20,09/22/20,,,False,True,09/22/20,,,FREE,BUSY
+186,09/23/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/23/20,09/23/20,,,False,True,09/23/20,,,FREE,BUSY
+187,09/24/20,,,Tigers at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/24/20,09/24/20,,,False,True,09/24/20,,,FREE,BUSY
+188,09/25/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/25/20,09/25/20,,,False,True,09/25/20,,,FREE,BUSY
+189,09/26/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/26/20,09/26/20,,,False,True,09/26/20,,,FREE,BUSY
+190,09/27/20,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,,09/27/20,09/27/20,,,False,True,09/27/20,,,FREE,BUSY

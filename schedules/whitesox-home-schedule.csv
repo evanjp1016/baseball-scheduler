@@ -1,0 +1,192 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/23/19,02:05 PM,03:05 PM,Dodgers at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com ----- Local Radio: WGN 720,02/23/19,02/23/19,05:05 PM,06:05 PM,False,True,02/23/19,01:05 PM,02:05 PM,FREE,BUSY
+1,02/26/19,02:05 PM,03:05 PM,Royals at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com,02/26/19,02/26/19,05:05 PM,06:05 PM,False,True,02/26/19,01:05 PM,02:05 PM,FREE,BUSY
+2,02/27/19,02:05 PM,03:05 PM,Reds at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com,02/27/19,02/27/19,05:05 PM,06:05 PM,False,True,02/27/19,01:05 PM,02:05 PM,FREE,BUSY
+3,03/02/19,02:05 PM,03:05 PM,Rockies at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com,03/02/19,03/02/19,05:05 PM,06:05 PM,False,True,03/02/19,01:05 PM,02:05 PM,FREE,BUSY
+4,03/04/19,02:05 PM,03:05 PM,Angels at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com ----- Local Radio: WGN 720,03/04/19,03/04/19,05:05 PM,06:05 PM,False,True,03/04/19,01:05 PM,02:05 PM,FREE,BUSY
+5,03/05/19,02:05 PM,03:05 PM,Padres at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com,03/05/19,03/05/19,05:05 PM,06:05 PM,False,True,03/05/19,01:05 PM,02:05 PM,FREE,BUSY
+6,03/07/19,02:05 PM,03:05 PM,Brewers at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com ----- Local Radio: WGN 720,03/07/19,03/07/19,05:05 PM,06:05 PM,False,True,03/07/19,01:05 PM,02:05 PM,FREE,BUSY
+7,03/10/19,03:05 PM,04:05 PM,Athletics at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com ----- Local Radio: WGN 720,03/10/19,03/10/19,06:05 PM,07:05 PM,False,True,03/10/19,02:05 PM,03:05 PM,FREE,BUSY
+8,03/15/19,03:05 PM,04:05 PM,Cubs at White Sox,Camelback Ranch - Glendale,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720,03/15/19,03/15/19,06:05 PM,07:05 PM,False,True,03/15/19,02:05 PM,03:05 PM,FREE,BUSY
+9,03/16/19,03:05 PM,04:05 PM,Dodgers at White Sox,Camelback Ranch - Glendale,Local TV: NBC Sports Chicago,03/16/19,03/16/19,06:05 PM,07:05 PM,False,True,03/16/19,02:05 PM,03:05 PM,FREE,BUSY
+10,03/18/19,03:05 PM,04:05 PM,Giants at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com ----- Local Radio: WGN 720,03/18/19,03/18/19,06:05 PM,07:05 PM,False,True,03/18/19,02:05 PM,03:05 PM,FREE,BUSY
+11,03/20/19,03:05 PM,04:05 PM,D-backs at White Sox,Camelback Ranch - Glendale,Local TV: NBC Sports Chicago,03/20/19,03/20/19,06:05 PM,07:05 PM,False,True,03/20/19,02:05 PM,03:05 PM,FREE,BUSY
+12,03/21/19,03:05 PM,04:05 PM,Rangers at White Sox,Camelback Ranch - Glendale,Local TV: MLB.com,03/21/19,03/21/19,06:05 PM,07:05 PM,False,True,03/21/19,02:05 PM,03:05 PM,FREE,BUSY
+13,03/24/19,02:05 PM,03:05 PM,Indians at White Sox,Camelback Ranch - Glendale,Local TV: NBC Sports Chicago ----- Local Radio: WGN 720,03/24/19,03/24/19,05:05 PM,06:05 PM,False,True,03/24/19,01:05 PM,02:05 PM,FREE,BUSY
+14,04/05/19,01:10 PM,02:10 PM,Mariners at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,04/05/19,04/05/19,04:10 PM,05:10 PM,False,True,04/05/19,12:10 PM,01:10 PM,FREE,BUSY
+15,04/06/19,01:10 PM,02:10 PM,Mariners at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,04/06/19,04/06/19,04:10 PM,05:10 PM,False,True,04/06/19,12:10 PM,01:10 PM,FREE,BUSY
+16,04/07/19,01:10 PM,02:10 PM,Mariners at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,04/07/19,04/07/19,04:10 PM,05:10 PM,False,True,04/07/19,12:10 PM,01:10 PM,FREE,BUSY
+17,04/08/19,01:10 PM,02:10 PM,Rays at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,04/08/19,04/08/19,04:10 PM,05:10 PM,False,True,04/08/19,12:10 PM,01:10 PM,FREE,BUSY
+18,04/09/19,01:10 PM,02:10 PM,Rays at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/09/19,04/09/19,04:10 PM,05:10 PM,False,True,04/09/19,12:10 PM,01:10 PM,FREE,BUSY
+19,04/10/19,01:10 PM,02:10 PM,Rays at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/10/19,04/10/19,04:10 PM,05:10 PM,False,True,04/10/19,12:10 PM,01:10 PM,FREE,BUSY
+20,04/15/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/15/19,04/15/19,10:10 PM,11:10 PM,False,True,04/15/19,06:10 PM,07:10 PM,FREE,BUSY
+21,04/16/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,04/16/19,04/16/19,10:10 PM,11:10 PM,False,True,04/16/19,06:10 PM,07:10 PM,FREE,BUSY
+22,04/17/19,01:10 PM,02:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/17/19,04/17/19,04:10 PM,05:10 PM,False,True,04/17/19,12:10 PM,01:10 PM,FREE,BUSY
+23,04/26/19,07:10 PM,08:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/26/19,04/26/19,10:10 PM,11:10 PM,False,True,04/26/19,06:10 PM,07:10 PM,FREE,BUSY
+24,04/28/19,01:10 PM,02:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/28/19,04/28/19,04:10 PM,05:10 PM,False,True,04/28/19,12:10 PM,01:10 PM,FREE,BUSY
+25,04/29/19,07:10 PM,08:10 PM,Orioles at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,04/29/19,04/29/19,10:10 PM,11:10 PM,False,True,04/29/19,06:10 PM,07:10 PM,FREE,BUSY
+26,05/01/19,03:10 PM,04:10 PM,Orioles at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,05/01/19,05/01/19,06:10 PM,07:10 PM,False,True,05/01/19,02:10 PM,03:10 PM,FREE,BUSY
+27,05/01/19,,,Orioles at White Sox - Time TBD,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/01/19,05/01/19,,,False,True,05/01/19,,,FREE,BUSY
+28,05/02/19,07:10 PM,08:10 PM,Red Sox at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,05/02/19,05/02/19,10:10 PM,11:10 PM,False,True,05/02/19,06:10 PM,07:10 PM,FREE,BUSY
+29,05/03/19,07:10 PM,08:10 PM,Red Sox at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/03/19,05/03/19,10:10 PM,11:10 PM,False,True,05/03/19,06:10 PM,07:10 PM,FREE,BUSY
+30,05/04/19,06:10 PM,07:10 PM,Red Sox at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/04/19,05/04/19,09:10 PM,10:10 PM,False,True,05/04/19,05:10 PM,06:10 PM,FREE,BUSY
+31,05/05/19,01:10 PM,02:10 PM,Red Sox at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/05/19,05/05/19,04:10 PM,05:10 PM,False,True,05/05/19,12:10 PM,01:10 PM,FREE,BUSY
+32,05/13/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/13/19,05/13/19,10:10 PM,11:10 PM,False,True,05/13/19,06:10 PM,07:10 PM,FREE,BUSY
+33,05/14/19,01:10 PM,02:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,05/14/19,05/14/19,04:10 PM,05:10 PM,False,True,05/14/19,12:10 PM,01:10 PM,FREE,BUSY
+34,05/16/19,07:10 PM,08:10 PM,Blue Jays at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,05/16/19,05/16/19,10:10 PM,11:10 PM,False,True,05/16/19,06:10 PM,07:10 PM,FREE,BUSY
+35,05/17/19,07:10 PM,08:10 PM,Blue Jays at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/17/19,05/17/19,10:10 PM,11:10 PM,False,True,05/17/19,06:10 PM,07:10 PM,FREE,BUSY
+36,05/18/19,01:10 PM,02:10 PM,Blue Jays at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,05/18/19,05/18/19,04:10 PM,05:10 PM,False,True,05/18/19,12:10 PM,01:10 PM,FREE,BUSY
+37,05/19/19,01:10 PM,02:10 PM,Blue Jays at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,05/19/19,05/19/19,04:10 PM,05:10 PM,False,True,05/19/19,12:10 PM,01:10 PM,FREE,BUSY
+38,05/27/19,01:10 PM,02:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/27/19,05/27/19,04:10 PM,05:10 PM,False,True,05/27/19,12:10 PM,01:10 PM,FREE,BUSY
+39,05/28/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,05/28/19,05/28/19,10:10 PM,11:10 PM,False,True,05/28/19,06:10 PM,07:10 PM,FREE,BUSY
+40,05/29/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,05/29/19,05/29/19,10:10 PM,11:10 PM,False,True,05/29/19,06:10 PM,07:10 PM,FREE,BUSY
+41,05/30/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,05/30/19,05/30/19,10:10 PM,11:10 PM,False,True,05/30/19,06:10 PM,07:10 PM,FREE,BUSY
+42,05/31/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,05/31/19,05/31/19,10:10 PM,11:10 PM,False,True,05/31/19,06:10 PM,07:10 PM,FREE,BUSY
+43,06/01/19,01:10 PM,02:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/01/19,06/01/19,04:10 PM,05:10 PM,False,True,06/01/19,12:10 PM,01:10 PM,FREE,BUSY
+44,06/02/19,01:10 PM,02:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/02/19,06/02/19,04:10 PM,05:10 PM,False,True,06/02/19,12:10 PM,01:10 PM,FREE,BUSY
+45,06/10/19,07:10 PM,08:10 PM,Nationals at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,06/10/19,06/10/19,10:10 PM,11:10 PM,False,True,06/10/19,06:10 PM,07:10 PM,FREE,BUSY
+46,06/11/19,07:10 PM,08:10 PM,Nationals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/11/19,06/11/19,10:10 PM,11:10 PM,False,True,06/11/19,06:10 PM,07:10 PM,FREE,BUSY
+47,06/13/19,07:10 PM,08:10 PM,Yankees at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/13/19,06/13/19,10:10 PM,11:10 PM,False,True,06/13/19,06:10 PM,07:10 PM,FREE,BUSY
+48,06/14/19,07:10 PM,08:10 PM,Yankees at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/14/19,06/14/19,10:10 PM,11:10 PM,False,True,06/14/19,06:10 PM,07:10 PM,FREE,BUSY
+49,06/15/19,06:10 PM,07:10 PM,Yankees at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,06/15/19,06/15/19,09:10 PM,10:10 PM,False,True,06/15/19,05:10 PM,06:10 PM,FREE,BUSY
+50,06/16/19,01:10 PM,02:10 PM,Yankees at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/16/19,06/16/19,04:10 PM,05:10 PM,False,True,06/16/19,12:10 PM,01:10 PM,FREE,BUSY
+51,06/28/19,07:10 PM,08:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/28/19,06/28/19,10:10 PM,11:10 PM,False,True,06/28/19,06:10 PM,07:10 PM,FREE,BUSY
+52,06/29/19,03:12 PM,04:12 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,06/29/19,06/29/19,06:12 PM,07:12 PM,False,True,06/29/19,02:12 PM,03:12 PM,FREE,BUSY
+53,06/30/19,01:10 PM,02:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,06/30/19,06/30/19,04:10 PM,05:10 PM,False,True,06/30/19,12:10 PM,01:10 PM,FREE,BUSY
+54,07/03/19,01:10 PM,02:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,07/03/19,07/03/19,04:10 PM,05:10 PM,False,True,07/03/19,12:10 PM,01:10 PM,FREE,BUSY
+55,07/03/19,07:10 PM,08:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,07/03/19,07/03/19,10:10 PM,11:10 PM,False,True,07/03/19,06:10 PM,07:10 PM,FREE,BUSY
+56,07/04/19,01:10 PM,02:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,07/04/19,07/04/19,04:10 PM,05:10 PM,False,True,07/04/19,12:10 PM,01:10 PM,FREE,BUSY
+57,07/06/19,06:15 PM,07:15 PM,Cubs at White Sox,Guaranteed Rate Field - Chicago,Local TV: FOX ----- Local Radio: WGN 720- WRTO 1200,07/06/19,07/06/19,09:15 PM,10:15 PM,False,True,07/06/19,05:15 PM,06:15 PM,FREE,BUSY
+58,07/07/19,01:10 PM,02:10 PM,Cubs at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,07/07/19,07/07/19,04:10 PM,05:10 PM,False,True,07/07/19,12:10 PM,01:10 PM,FREE,BUSY
+59,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+60,07/22/19,07:10 PM,08:10 PM,Marlins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,07/22/19,07/22/19,10:10 PM,11:10 PM,False,True,07/22/19,06:10 PM,07:10 PM,FREE,BUSY
+61,07/23/19,07:10 PM,08:10 PM,Marlins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,07/23/19,07/23/19,10:10 PM,11:10 PM,False,True,07/23/19,06:10 PM,07:10 PM,FREE,BUSY
+62,07/24/19,07:10 PM,08:10 PM,Marlins at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,07/24/19,07/24/19,10:10 PM,11:10 PM,False,True,07/24/19,06:10 PM,07:10 PM,FREE,BUSY
+63,07/25/19,07:10 PM,08:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,07/25/19,07/25/19,10:10 PM,11:10 PM,False,True,07/25/19,06:10 PM,07:10 PM,FREE,BUSY
+64,07/26/19,07:10 PM,08:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,07/26/19,07/26/19,10:10 PM,11:10 PM,False,True,07/26/19,06:10 PM,07:10 PM,FREE,BUSY
+65,07/27/19,06:10 PM,07:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,07/27/19,07/27/19,09:10 PM,10:10 PM,False,True,07/27/19,05:10 PM,06:10 PM,FREE,BUSY
+66,07/28/19,01:10 PM,02:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,07/28/19,07/28/19,04:10 PM,05:10 PM,False,True,07/28/19,12:10 PM,01:10 PM,FREE,BUSY
+67,07/30/19,07:10 PM,08:10 PM,Mets at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,07/30/19,07/30/19,10:10 PM,11:10 PM,False,True,07/30/19,06:10 PM,07:10 PM,FREE,BUSY
+68,07/31/19,07:10 PM,08:10 PM,Mets at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,07/31/19,07/31/19,10:10 PM,11:10 PM,False,True,07/31/19,06:10 PM,07:10 PM,FREE,BUSY
+69,08/01/19,01:10 PM,02:10 PM,Mets at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/01/19,08/01/19,04:10 PM,05:10 PM,False,True,08/01/19,12:10 PM,01:10 PM,FREE,BUSY
+70,08/09/19,02:10 PM,03:10 PM,Athletics at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,08/09/19,08/09/19,05:10 PM,06:10 PM,False,True,08/09/19,01:10 PM,02:10 PM,FREE,BUSY
+71,08/10/19,06:10 PM,07:10 PM,Athletics at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/10/19,08/10/19,09:10 PM,10:10 PM,False,True,08/10/19,05:10 PM,06:10 PM,FREE,BUSY
+72,08/11/19,01:10 PM,02:10 PM,Athletics at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,08/11/19,08/11/19,04:10 PM,05:10 PM,False,True,08/11/19,12:10 PM,01:10 PM,FREE,BUSY
+73,08/13/19,03:40 PM,04:40 PM,Astros at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,08/13/19,08/13/19,06:40 PM,07:40 PM,False,True,08/13/19,02:40 PM,03:40 PM,FREE,BUSY
+74,08/13/19,,,Astros at White Sox - Time TBD,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,08/13/19,08/13/19,,,False,True,08/13/19,,,FREE,BUSY
+75,08/14/19,01:10 PM,02:10 PM,Astros at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,08/14/19,08/14/19,04:10 PM,05:10 PM,False,True,08/14/19,12:10 PM,01:10 PM,FREE,BUSY
+76,08/22/19,07:10 PM,08:10 PM,Rangers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/22/19,08/22/19,10:10 PM,11:10 PM,False,True,08/22/19,06:10 PM,07:10 PM,FREE,BUSY
+77,08/23/19,07:10 PM,08:10 PM,Rangers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/23/19,08/23/19,10:10 PM,11:10 PM,False,True,08/23/19,06:10 PM,07:10 PM,FREE,BUSY
+78,08/24/19,06:10 PM,07:10 PM,Rangers at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,08/24/19,08/24/19,09:10 PM,10:10 PM,False,True,08/24/19,05:10 PM,06:10 PM,FREE,BUSY
+79,08/25/19,01:10 PM,02:10 PM,Rangers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/25/19,08/25/19,04:10 PM,05:10 PM,False,True,08/25/19,12:10 PM,01:10 PM,FREE,BUSY
+80,08/27/19,07:10 PM,08:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,08/27/19,08/27/19,10:10 PM,11:10 PM,False,True,08/27/19,06:10 PM,07:10 PM,FREE,BUSY
+81,08/28/19,07:10 PM,08:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- MLBN (out-of-market only) ----- Local Radio: WGN 720- WRTO 1200,08/28/19,08/28/19,10:10 PM,11:10 PM,False,True,08/28/19,06:10 PM,07:10 PM,FREE,BUSY
+82,08/29/19,01:10 PM,02:10 PM,Twins at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,08/29/19,08/29/19,04:10 PM,05:10 PM,False,True,08/29/19,12:10 PM,01:10 PM,FREE,BUSY
+83,09/06/19,07:10 PM,08:10 PM,Angels at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,09/06/19,09/06/19,10:10 PM,11:10 PM,False,True,09/06/19,06:10 PM,07:10 PM,FREE,BUSY
+84,09/07/19,06:10 PM,07:10 PM,Angels at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/07/19,09/07/19,09:10 PM,10:10 PM,False,True,09/07/19,05:10 PM,06:10 PM,FREE,BUSY
+85,09/08/19,01:10 PM,02:10 PM,Angels at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,09/08/19,09/08/19,04:10 PM,05:10 PM,False,True,09/08/19,12:10 PM,01:10 PM,FREE,BUSY
+86,09/10/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/10/19,09/10/19,10:10 PM,11:10 PM,False,True,09/10/19,06:10 PM,07:10 PM,FREE,BUSY
+87,09/11/19,07:10 PM,08:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/11/19,09/11/19,10:10 PM,11:10 PM,False,True,09/11/19,06:10 PM,07:10 PM,FREE,BUSY
+88,09/12/19,01:10 PM,02:10 PM,Royals at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,09/12/19,09/12/19,04:10 PM,05:10 PM,False,True,09/12/19,12:10 PM,01:10 PM,FREE,BUSY
+89,09/24/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: WGN- ESPN ----- Local Radio: WGN 720- WRTO 1200,09/24/19,09/24/19,10:10 PM,11:10 PM,False,True,09/24/19,06:10 PM,07:10 PM,FREE,BUSY
+90,09/25/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/25/19,09/25/19,10:10 PM,11:10 PM,False,True,09/25/19,06:10 PM,07:10 PM,FREE,BUSY
+91,09/26/19,07:10 PM,08:10 PM,Indians at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH+ ----- Local Radio: WGN 720- WRTO 1200,09/26/19,09/26/19,10:10 PM,11:10 PM,False,True,09/26/19,06:10 PM,07:10 PM,FREE,BUSY
+92,09/28/19,02:40 PM,03:40 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/28/19,09/28/19,05:40 PM,06:40 PM,False,True,09/28/19,01:40 PM,02:40 PM,FREE,BUSY
+93,09/28/19,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,Local TV: WGN ----- Local Radio: WGN 720- WRTO 1200,09/28/19,09/28/19,,,False,True,09/28/19,,,FREE,BUSY
+94,09/29/19,02:10 PM,03:10 PM,Tigers at White Sox,Guaranteed Rate Field - Chicago,Local TV: NBCSCH ----- Local Radio: WGN 720- WRTO 1200,09/29/19,09/29/19,05:10 PM,06:10 PM,False,True,09/29/19,01:10 PM,02:10 PM,FREE,BUSY
+95,02/22/20,02:05 PM,03:05 PM,Angels at White Sox,Camelback Ranch - Glendale,,02/22/20,02/22/20,05:05 PM,06:05 PM,False,True,02/22/20,01:05 PM,02:05 PM,FREE,BUSY
+96,02/25/20,02:05 PM,03:05 PM,Giants at White Sox,Camelback Ranch - Glendale,,02/25/20,02/25/20,05:05 PM,06:05 PM,False,True,02/25/20,01:05 PM,02:05 PM,FREE,BUSY
+97,02/27/20,02:05 PM,03:05 PM,Mariners at White Sox,Camelback Ranch - Glendale,,02/27/20,02/27/20,05:05 PM,06:05 PM,False,True,02/27/20,01:05 PM,02:05 PM,FREE,BUSY
+98,02/28/20,02:05 PM,03:05 PM,Indians at White Sox,Camelback Ranch - Glendale,,02/28/20,02/28/20,05:05 PM,06:05 PM,False,True,02/28/20,01:05 PM,02:05 PM,FREE,BUSY
+99,03/02/20,02:05 PM,03:05 PM,Padres at White Sox,Camelback Ranch - Glendale,,03/02/20,03/02/20,05:05 PM,06:05 PM,False,True,03/02/20,01:05 PM,02:05 PM,FREE,BUSY
+100,03/03/20,02:05 PM,03:05 PM,Athletics at White Sox,Camelback Ranch - Glendale,,03/03/20,03/03/20,05:05 PM,06:05 PM,False,True,03/03/20,01:05 PM,02:05 PM,FREE,BUSY
+101,03/05/20,02:05 PM,03:05 PM,Rockies at White Sox,Camelback Ranch - Glendale,,03/05/20,03/05/20,05:05 PM,06:05 PM,False,True,03/05/20,01:05 PM,02:05 PM,FREE,BUSY
+102,03/08/20,03:05 PM,04:05 PM,Royals at White Sox,Camelback Ranch - Glendale,,03/08/20,03/08/20,06:05 PM,07:05 PM,False,True,03/08/20,02:05 PM,03:05 PM,FREE,BUSY
+103,03/09/20,03:05 PM,04:05 PM,Reds at White Sox,Camelback Ranch - Glendale,,03/09/20,03/09/20,06:05 PM,07:05 PM,False,True,03/09/20,02:05 PM,03:05 PM,FREE,BUSY
+104,03/13/20,03:05 PM,04:05 PM,Cubs at White Sox,Camelback Ranch - Glendale,,03/13/20,03/13/20,06:05 PM,07:05 PM,False,True,03/13/20,02:05 PM,03:05 PM,FREE,BUSY
+105,03/14/20,03:05 PM,04:05 PM,Dodgers at White Sox,Camelback Ranch - Glendale,,03/14/20,03/14/20,06:05 PM,07:05 PM,False,True,03/14/20,02:05 PM,03:05 PM,FREE,BUSY
+106,03/17/20,03:05 PM,04:05 PM,Brewers at White Sox,Camelback Ranch - Glendale,,03/17/20,03/17/20,06:05 PM,07:05 PM,False,True,03/17/20,02:05 PM,03:05 PM,FREE,BUSY
+107,03/19/20,08:05 PM,09:05 PM,Indians at White Sox,Camelback Ranch - Glendale,,03/19/20,03/20/20,11:05 PM,12:05 AM,False,True,03/19/20,07:05 PM,08:05 PM,FREE,BUSY
+108,03/22/20,02:05 PM,03:05 PM,D-backs at White Sox,Camelback Ranch - Glendale,,03/22/20,03/22/20,05:05 PM,06:05 PM,False,True,03/22/20,01:05 PM,02:05 PM,FREE,BUSY
+109,03/26/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,03/26/20,03/26/20,,,False,True,03/26/20,,,FREE,BUSY
+110,03/28/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,03/28/20,03/28/20,,,False,True,03/28/20,,,FREE,BUSY
+111,03/29/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,03/29/20,03/29/20,,,False,True,03/29/20,,,FREE,BUSY
+112,04/06/20,,,Mariners at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/06/20,04/06/20,,,False,True,04/06/20,,,FREE,BUSY
+113,04/07/20,,,Mariners at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/07/20,04/07/20,,,False,True,04/07/20,,,FREE,BUSY
+114,04/08/20,,,Mariners at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/08/20,04/08/20,,,False,True,04/08/20,,,FREE,BUSY
+115,04/10/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/10/20,04/10/20,,,False,True,04/10/20,,,FREE,BUSY
+116,04/11/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/11/20,04/11/20,,,False,True,04/11/20,,,FREE,BUSY
+117,04/12/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/12/20,04/12/20,,,False,True,04/12/20,,,FREE,BUSY
+118,04/16/20,,,Rangers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/16/20,04/16/20,,,False,True,04/16/20,,,FREE,BUSY
+119,04/17/20,,,Rangers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/17/20,04/17/20,,,False,True,04/17/20,,,FREE,BUSY
+120,04/18/20,,,Rangers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/18/20,04/18/20,,,False,True,04/18/20,,,FREE,BUSY
+121,04/19/20,,,Rangers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/19/20,04/19/20,,,False,True,04/19/20,,,FREE,BUSY
+122,04/20/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/20/20,04/20/20,,,False,True,04/20/20,,,FREE,BUSY
+123,04/21/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/21/20,04/21/20,,,False,True,04/21/20,,,FREE,BUSY
+124,04/22/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,04/22/20,04/22/20,,,False,True,04/22/20,,,FREE,BUSY
+125,05/01/20,,,Orioles at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/01/20,05/01/20,,,False,True,05/01/20,,,FREE,BUSY
+126,05/02/20,,,Orioles at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/02/20,05/02/20,,,False,True,05/02/20,,,FREE,BUSY
+127,05/03/20,,,Orioles at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/03/20,05/03/20,,,False,True,05/03/20,,,FREE,BUSY
+128,05/05/20,,,Rays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/05/20,05/05/20,,,False,True,05/05/20,,,FREE,BUSY
+129,05/06/20,,,Rays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/06/20,05/06/20,,,False,True,05/06/20,,,FREE,BUSY
+130,05/07/20,,,Rays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/07/20,05/07/20,,,False,True,05/07/20,,,FREE,BUSY
+131,05/14/20,,,Blue Jays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/14/20,05/14/20,,,False,True,05/14/20,,,FREE,BUSY
+132,05/15/20,,,Blue Jays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/15/20,05/15/20,,,False,True,05/15/20,,,FREE,BUSY
+133,05/16/20,,,Blue Jays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/16/20,05/16/20,,,False,True,05/16/20,,,FREE,BUSY
+134,05/17/20,,,Blue Jays at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/17/20,05/17/20,,,False,True,05/17/20,,,FREE,BUSY
+135,05/19/20,,,Rockies at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/19/20,05/19/20,,,False,True,05/19/20,,,FREE,BUSY
+136,05/20/20,,,Rockies at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/20/20,05/20/20,,,False,True,05/20/20,,,FREE,BUSY
+137,05/29/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/29/20,05/29/20,,,False,True,05/29/20,,,FREE,BUSY
+138,05/30/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/30/20,05/30/20,,,False,True,05/30/20,,,FREE,BUSY
+139,05/31/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,05/31/20,05/31/20,,,False,True,05/31/20,,,FREE,BUSY
+140,06/05/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/05/20,06/05/20,,,False,True,06/05/20,,,FREE,BUSY
+141,06/06/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/06/20,06/06/20,,,False,True,06/06/20,,,FREE,BUSY
+142,06/07/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/07/20,06/07/20,,,False,True,06/07/20,,,FREE,BUSY
+143,06/09/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/09/20,06/09/20,,,False,True,06/09/20,,,FREE,BUSY
+144,06/10/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/10/20,06/10/20,,,False,True,06/10/20,,,FREE,BUSY
+145,06/11/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/11/20,06/11/20,,,False,True,06/11/20,,,FREE,BUSY
+146,06/22/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/22/20,06/22/20,,,False,True,06/22/20,,,FREE,BUSY
+147,06/23/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/23/20,06/23/20,,,False,True,06/23/20,,,FREE,BUSY
+148,06/24/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/24/20,06/24/20,,,False,True,06/24/20,,,FREE,BUSY
+149,06/25/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/25/20,06/25/20,,,False,True,06/25/20,,,FREE,BUSY
+150,06/26/20,,,Athletics at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/26/20,06/26/20,,,False,True,06/26/20,,,FREE,BUSY
+151,06/27/20,,,Athletics at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/27/20,06/27/20,,,False,True,06/27/20,,,FREE,BUSY
+152,06/28/20,,,Athletics at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,06/28/20,06/28/20,,,False,True,06/28/20,,,FREE,BUSY
+153,07/07/20,,,Cubs at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/07/20,07/07/20,,,False,True,07/07/20,,,FREE,BUSY
+154,07/08/20,,,Cubs at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/08/20,07/08/20,,,False,True,07/08/20,,,FREE,BUSY
+155,07/10/20,,,D-backs at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/10/20,07/10/20,,,False,True,07/10/20,,,FREE,BUSY
+156,07/11/20,,,D-backs at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/11/20,07/11/20,,,False,True,07/11/20,,,FREE,BUSY
+157,07/12/20,,,D-backs at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/12/20,07/12/20,,,False,True,07/12/20,,,FREE,BUSY
+158,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+159,07/23/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/23/20,07/23/20,,,False,True,07/23/20,,,FREE,BUSY
+160,07/24/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/24/20,07/24/20,,,False,True,07/24/20,,,FREE,BUSY
+161,07/25/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/25/20,07/25/20,,,False,True,07/25/20,,,FREE,BUSY
+162,07/26/20,,,Twins at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/26/20,07/26/20,,,False,True,07/26/20,,,FREE,BUSY
+163,07/27/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/27/20,07/27/20,,,False,True,07/27/20,,,FREE,BUSY
+164,07/28/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/28/20,07/28/20,,,False,True,07/28/20,,,FREE,BUSY
+165,07/29/20,,,Tigers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,07/29/20,07/29/20,,,False,True,07/29/20,,,FREE,BUSY
+166,08/07/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/07/20,08/07/20,,,False,True,08/07/20,,,FREE,BUSY
+167,08/08/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/08/20,08/08/20,,,False,True,08/08/20,,,FREE,BUSY
+168,08/09/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/09/20,08/09/20,,,False,True,08/09/20,,,FREE,BUSY
+169,08/10/20,,,Angels at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/10/20,08/10/20,,,False,True,08/10/20,,,FREE,BUSY
+170,08/11/20,,,Angels at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/11/20,08/11/20,,,False,True,08/11/20,,,FREE,BUSY
+171,08/12/20,,,Angels at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/12/20,08/12/20,,,False,True,08/12/20,,,FREE,BUSY
+172,08/13/20,06:10 PM,07:10 PM,Yankees at White Sox,Field of Dreams - Dyersville,Local TV: FOX,08/13/20,08/13/20,09:10 PM,10:10 PM,False,True,08/13/20,05:10 PM,06:10 PM,FREE,BUSY
+173,08/15/20,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/15/20,08/15/20,,,False,True,08/15/20,,,FREE,BUSY
+174,08/16/20,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/16/20,08/16/20,,,False,True,08/16/20,,,FREE,BUSY
+175,08/25/20,,,Red Sox at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/25/20,08/25/20,,,False,True,08/25/20,,,FREE,BUSY
+176,08/26/20,,,Red Sox at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/26/20,08/26/20,,,False,True,08/26/20,,,FREE,BUSY
+177,08/27/20,,,Red Sox at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/27/20,08/27/20,,,False,True,08/27/20,,,FREE,BUSY
+178,08/28/20,,,Astros at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/28/20,08/28/20,,,False,True,08/28/20,,,FREE,BUSY
+179,08/29/20,,,Astros at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/29/20,08/29/20,,,False,True,08/29/20,,,FREE,BUSY
+180,08/30/20,,,Astros at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,08/30/20,08/30/20,,,False,True,08/30/20,,,FREE,BUSY
+181,09/08/20,,,Dodgers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/08/20,09/08/20,,,False,True,09/08/20,,,FREE,BUSY
+182,09/09/20,,,Dodgers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/09/20,09/09/20,,,False,True,09/09/20,,,FREE,BUSY
+183,09/10/20,,,Dodgers at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/10/20,09/10/20,,,False,True,09/10/20,,,FREE,BUSY
+184,09/17/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/17/20,09/17/20,,,False,True,09/17/20,,,FREE,BUSY
+185,09/18/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/18/20,09/18/20,,,False,True,09/18/20,,,FREE,BUSY
+186,09/19/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/19/20,09/19/20,,,False,True,09/19/20,,,FREE,BUSY
+187,09/20/20,,,Royals at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/20/20,09/20/20,,,False,True,09/20/20,,,FREE,BUSY
+188,09/21/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/21/20,09/21/20,,,False,True,09/21/20,,,FREE,BUSY
+189,09/22/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/22/20,09/22/20,,,False,True,09/22/20,,,FREE,BUSY
+190,09/23/20,,,Indians at White Sox - Time TBD,Guaranteed Rate Field - Chicago,,09/23/20,09/23/20,,,False,True,09/23/20,,,FREE,BUSY

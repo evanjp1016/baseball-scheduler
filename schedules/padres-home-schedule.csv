@@ -1,0 +1,192 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/24/19,12:10 PM,03:10 PM,White Sox at Padres,Peoria Stadium - Peoria,Local Radio: KWFN 97.3,02/24/19,02/24/19,03:10 PM,06:10 PM,False,True,02/24/19,11:10 AM,02:10 PM,FREE,BUSY
+1,02/27/19,12:10 PM,03:10 PM,D-backs at Padres,Peoria Stadium - Peoria,Local Radio: MLB.com,02/27/19,02/27/19,03:10 PM,06:10 PM,False,True,02/27/19,11:10 AM,02:10 PM,FREE,BUSY
+2,03/02/19,12:10 PM,03:10 PM,Giants at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/02/19,03/02/19,03:10 PM,06:10 PM,False,True,03/02/19,11:10 AM,02:10 PM,FREE,BUSY
+3,03/04/19,12:10 PM,03:10 PM,Indians at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/04/19,03/04/19,03:10 PM,06:10 PM,False,True,03/04/19,11:10 AM,02:10 PM,FREE,BUSY
+4,03/05/19,12:10 PM,03:10 PM,Mariners at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/05/19,03/05/19,03:10 PM,06:10 PM,False,True,03/05/19,11:10 AM,02:10 PM,FREE,BUSY
+5,03/07/19,12:10 PM,03:10 PM,Rangers at Padres,Peoria Stadium - Peoria,Local TV: FSSD,03/07/19,03/07/19,03:10 PM,06:10 PM,False,True,03/07/19,11:10 AM,02:10 PM,FREE,BUSY
+6,03/09/19,05:40 PM,08:40 PM,Reds at Padres,Peoria Stadium - Peoria,Local TV: FSSD,03/09/19,03/09/19,08:40 PM,11:40 PM,False,True,03/09/19,04:40 PM,07:40 PM,FREE,BUSY
+7,03/14/19,06:40 PM,09:40 PM,Dodgers at Padres,Peoria Stadium - Peoria,Local Radio: MLB.com,03/14/19,03/15/19,09:40 PM,12:40 AM,False,True,03/14/19,05:40 PM,08:40 PM,FREE,BUSY
+8,03/16/19,01:10 PM,04:10 PM,Royals at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/16/19,03/16/19,04:10 PM,07:10 PM,False,True,03/16/19,12:10 PM,03:10 PM,FREE,BUSY
+9,03/17/19,01:10 PM,04:10 PM,Angels at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/17/19,03/17/19,04:10 PM,07:10 PM,False,True,03/17/19,12:10 PM,03:10 PM,FREE,BUSY
+10,03/20/19,01:10 PM,04:10 PM,Brewers at Padres,Peoria Stadium - Peoria,Local TV: FSSD,03/20/19,03/20/19,04:10 PM,07:10 PM,False,True,03/20/19,12:10 PM,03:10 PM,FREE,BUSY
+11,03/23/19,01:10 PM,04:10 PM,Angels at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/23/19,03/23/19,04:10 PM,07:10 PM,False,True,03/23/19,12:10 PM,03:10 PM,FREE,BUSY
+12,03/24/19,12:10 PM,03:10 PM,Cubs at Padres,Peoria Stadium - Peoria,Local TV: FSSD ----- Local Radio: KWFN 97.3,03/24/19,03/24/19,03:10 PM,06:10 PM,False,True,03/24/19,11:10 AM,02:10 PM,FREE,BUSY
+13,03/28/19,01:10 PM,04:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,03/28/19,03/28/19,04:10 PM,07:10 PM,False,True,03/28/19,12:10 PM,03:10 PM,FREE,BUSY
+14,03/29/19,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,03/29/19,03/30/19,10:10 PM,01:10 AM,False,True,03/29/19,06:10 PM,09:10 PM,FREE,BUSY
+15,03/30/19,05:40 PM,08:40 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FS1- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,03/30/19,03/30/19,08:40 PM,11:40 PM,False,True,03/30/19,04:40 PM,07:40 PM,FREE,BUSY
+16,03/31/19,01:10 PM,04:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,03/31/19,03/31/19,04:10 PM,07:10 PM,False,True,03/31/19,12:10 PM,03:10 PM,FREE,BUSY
+17,04/01/19,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD ----- Local Radio: KWFN 97.3- XEMO 860,04/01/19,04/02/19,10:10 PM,01:10 AM,False,True,04/01/19,06:10 PM,09:10 PM,FREE,BUSY
+18,04/02/19,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/02/19,04/03/19,10:10 PM,01:10 AM,False,True,04/02/19,06:10 PM,09:10 PM,FREE,BUSY
+19,04/03/19,12:40 PM,03:40 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/03/19,04/03/19,03:40 PM,06:40 PM,False,True,04/03/19,11:40 AM,02:40 PM,FREE,BUSY
+20,04/15/19,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/15/19,04/16/19,10:10 PM,01:10 AM,False,True,04/15/19,06:10 PM,09:10 PM,FREE,BUSY
+21,04/16/19,06:10 PM,09:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/16/19,04/17/19,09:10 PM,12:10 AM,False,True,04/16/19,05:10 PM,08:10 PM,FREE,BUSY
+22,04/18/19,07:10 PM,10:10 PM,Reds at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/18/19,04/19/19,10:10 PM,01:10 AM,False,True,04/18/19,06:10 PM,09:10 PM,FREE,BUSY
+23,04/19/19,07:10 PM,10:10 PM,Reds at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/19/19,04/20/19,10:10 PM,01:10 AM,False,True,04/19/19,06:10 PM,09:10 PM,FREE,BUSY
+24,04/20/19,05:40 PM,08:40 PM,Reds at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/20/19,04/20/19,08:40 PM,11:40 PM,False,True,04/20/19,04:40 PM,07:40 PM,FREE,BUSY
+25,04/21/19,01:10 PM,04:10 PM,Reds at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/21/19,04/21/19,04:10 PM,07:10 PM,False,True,04/21/19,12:10 PM,03:10 PM,FREE,BUSY
+26,04/23/19,07:10 PM,10:10 PM,Mariners at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/23/19,04/24/19,10:10 PM,01:10 AM,False,True,04/23/19,06:10 PM,09:10 PM,FREE,BUSY
+27,04/24/19,12:40 PM,03:40 PM,Mariners at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,04/24/19,04/24/19,03:40 PM,06:40 PM,False,True,04/24/19,11:40 AM,02:40 PM,FREE,BUSY
+28,05/03/19,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/03/19,05/04/19,10:10 PM,01:10 AM,False,True,05/03/19,06:10 PM,09:10 PM,FREE,BUSY
+29,05/04/19,05:40 PM,08:40 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/04/19,05/04/19,08:40 PM,11:40 PM,False,True,05/04/19,04:40 PM,07:40 PM,FREE,BUSY
+30,05/05/19,01:10 PM,04:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/05/19,05/05/19,04:10 PM,07:10 PM,False,True,05/05/19,12:10 PM,03:10 PM,FREE,BUSY
+31,05/06/19,07:10 PM,10:10 PM,Mets at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/06/19,05/07/19,10:10 PM,01:10 AM,False,True,05/06/19,06:10 PM,09:10 PM,FREE,BUSY
+32,05/07/19,07:10 PM,10:10 PM,Mets at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/07/19,05/08/19,10:10 PM,01:10 AM,False,True,05/07/19,06:10 PM,09:10 PM,FREE,BUSY
+33,05/08/19,12:40 PM,03:40 PM,Mets at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/08/19,05/08/19,03:40 PM,06:40 PM,False,True,05/08/19,11:40 AM,02:40 PM,FREE,BUSY
+34,05/16/19,07:10 PM,10:10 PM,Pirates at Padres,Petco Park - San Diego,Local TV: FSSD- MLBN (out-of-market only)- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/16/19,05/17/19,10:10 PM,01:10 AM,False,True,05/16/19,06:10 PM,09:10 PM,FREE,BUSY
+35,05/17/19,07:10 PM,10:10 PM,Pirates at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/17/19,05/18/19,10:10 PM,01:10 AM,False,True,05/17/19,06:10 PM,09:10 PM,FREE,BUSY
+36,05/18/19,05:40 PM,08:40 PM,Pirates at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/18/19,05/18/19,08:40 PM,11:40 PM,False,True,05/18/19,04:40 PM,07:40 PM,FREE,BUSY
+37,05/19/19,01:10 PM,04:10 PM,Pirates at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/19/19,05/19/19,04:10 PM,07:10 PM,False,True,05/19/19,12:10 PM,03:10 PM,FREE,BUSY
+38,05/20/19,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/20/19,05/21/19,10:10 PM,01:10 AM,False,True,05/20/19,06:10 PM,09:10 PM,FREE,BUSY
+39,05/21/19,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/21/19,05/22/19,10:10 PM,01:10 AM,False,True,05/21/19,06:10 PM,09:10 PM,FREE,BUSY
+40,05/22/19,12:40 PM,03:40 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/22/19,05/22/19,03:40 PM,06:40 PM,False,True,05/22/19,11:40 AM,02:40 PM,FREE,BUSY
+41,05/31/19,07:10 PM,10:10 PM,Marlins at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,05/31/19,06/01/19,10:10 PM,01:10 AM,False,True,05/31/19,06:10 PM,09:10 PM,FREE,BUSY
+42,06/01/19,07:10 PM,10:10 PM,Marlins at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/01/19,06/02/19,10:10 PM,01:10 AM,False,True,06/01/19,06:10 PM,09:10 PM,FREE,BUSY
+43,06/02/19,03:10 PM,06:10 PM,Marlins at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/02/19,06/02/19,06:10 PM,09:10 PM,False,True,06/02/19,02:10 PM,05:10 PM,FREE,BUSY
+44,06/03/19,07:10 PM,10:10 PM,Phillies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/03/19,06/04/19,10:10 PM,01:10 AM,False,True,06/03/19,06:10 PM,09:10 PM,FREE,BUSY
+45,06/04/19,07:10 PM,10:10 PM,Phillies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/04/19,06/05/19,10:10 PM,01:10 AM,False,True,06/04/19,06:10 PM,09:10 PM,FREE,BUSY
+46,06/05/19,12:40 PM,03:40 PM,Phillies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/05/19,06/05/19,03:40 PM,06:40 PM,False,True,06/05/19,11:40 AM,02:40 PM,FREE,BUSY
+47,06/06/19,07:10 PM,10:10 PM,Nationals at Padres,Petco Park - San Diego,Local TV: FSSD- MLBN (out-of-market only)- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/06/19,06/07/19,10:10 PM,01:10 AM,False,True,06/06/19,06:10 PM,09:10 PM,FREE,BUSY
+48,06/07/19,07:10 PM,10:10 PM,Nationals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/07/19,06/08/19,10:10 PM,01:10 AM,False,True,06/07/19,06:10 PM,09:10 PM,FREE,BUSY
+49,06/08/19,07:10 PM,10:10 PM,Nationals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/08/19,06/09/19,10:10 PM,01:10 AM,False,True,06/08/19,06:10 PM,09:10 PM,FREE,BUSY
+50,06/09/19,01:10 PM,04:10 PM,Nationals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/09/19,06/09/19,04:10 PM,07:10 PM,False,True,06/09/19,12:10 PM,03:10 PM,FREE,BUSY
+51,06/17/19,07:10 PM,10:10 PM,Brewers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/17/19,06/18/19,10:10 PM,01:10 AM,False,True,06/17/19,06:10 PM,09:10 PM,FREE,BUSY
+52,06/18/19,07:10 PM,10:10 PM,Brewers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/18/19,06/19/19,10:10 PM,01:10 AM,False,True,06/18/19,06:10 PM,09:10 PM,FREE,BUSY
+53,06/19/19,12:40 PM,03:40 PM,Brewers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/19/19,06/19/19,03:40 PM,06:40 PM,False,True,06/19/19,11:40 AM,02:40 PM,FREE,BUSY
+54,06/28/19,07:10 PM,10:10 PM,Cardinals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/28/19,06/29/19,10:10 PM,01:10 AM,False,True,06/28/19,06:10 PM,09:10 PM,FREE,BUSY
+55,06/29/19,07:10 PM,10:10 PM,Cardinals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/29/19,06/30/19,10:10 PM,01:10 AM,False,True,06/29/19,06:10 PM,09:10 PM,FREE,BUSY
+56,06/30/19,01:10 PM,04:10 PM,Cardinals at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,06/30/19,06/30/19,04:10 PM,07:10 PM,False,True,06/30/19,12:10 PM,03:10 PM,FREE,BUSY
+57,07/01/19,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,07/01/19,07/02/19,10:10 PM,01:10 AM,False,True,07/01/19,06:10 PM,09:10 PM,FREE,BUSY
+58,07/02/19,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/02/19,07/03/19,10:10 PM,01:10 AM,False,True,07/02/19,06:10 PM,09:10 PM,FREE,BUSY
+59,07/03/19,06:10 PM,09:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/03/19,07/04/19,09:10 PM,12:10 AM,False,True,07/03/19,05:10 PM,08:10 PM,FREE,BUSY
+60,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+61,07/12/19,07:10 PM,10:10 PM,Braves at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,07/12/19,07/13/19,10:10 PM,01:10 AM,False,True,07/12/19,06:10 PM,09:10 PM,FREE,BUSY
+62,07/13/19,05:40 PM,08:40 PM,Braves at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/13/19,07/13/19,08:40 PM,11:40 PM,False,True,07/13/19,04:40 PM,07:40 PM,FREE,BUSY
+63,07/14/19,01:10 PM,04:10 PM,Braves at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/14/19,07/14/19,04:10 PM,07:10 PM,False,True,07/14/19,12:10 PM,03:10 PM,FREE,BUSY
+64,07/26/19,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/26/19,07/27/19,10:10 PM,01:10 AM,False,True,07/26/19,06:10 PM,09:10 PM,FREE,BUSY
+65,07/27/19,05:40 PM,08:40 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/27/19,07/27/19,08:40 PM,11:40 PM,False,True,07/27/19,04:40 PM,07:40 PM,FREE,BUSY
+66,07/28/19,01:10 PM,04:10 PM,Giants at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/28/19,07/28/19,04:10 PM,07:10 PM,False,True,07/28/19,12:10 PM,03:10 PM,FREE,BUSY
+67,07/29/19,07:10 PM,10:10 PM,Orioles at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,07/29/19,07/30/19,10:10 PM,01:10 AM,False,True,07/29/19,06:10 PM,09:10 PM,FREE,BUSY
+68,07/30/19,12:40 PM,03:40 PM,Orioles at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,07/30/19,07/30/19,03:40 PM,06:40 PM,False,True,07/30/19,11:40 AM,02:40 PM,FREE,BUSY
+69,08/08/19,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/08/19,08/09/19,10:10 PM,01:10 AM,False,True,08/08/19,06:10 PM,09:10 PM,FREE,BUSY
+70,08/09/19,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/09/19,08/10/19,10:10 PM,01:10 AM,False,True,08/09/19,06:10 PM,09:10 PM,FREE,BUSY
+71,08/10/19,05:40 PM,08:40 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- FS1 ----- Local Radio: KWFN 97.3- XEMO 860,08/10/19,08/10/19,08:40 PM,11:40 PM,False,True,08/10/19,04:40 PM,07:40 PM,FREE,BUSY
+72,08/11/19,12:40 PM,03:40 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/11/19,08/11/19,03:40 PM,06:40 PM,False,True,08/11/19,11:40 AM,02:40 PM,FREE,BUSY
+73,08/12/19,07:10 PM,10:10 PM,Rays at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,08/12/19,08/13/19,10:10 PM,01:10 AM,False,True,08/12/19,06:10 PM,09:10 PM,FREE,BUSY
+74,08/13/19,07:10 PM,10:10 PM,Rays at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/13/19,08/14/19,10:10 PM,01:10 AM,False,True,08/13/19,06:10 PM,09:10 PM,FREE,BUSY
+75,08/14/19,12:40 PM,03:40 PM,Rays at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,08/14/19,08/14/19,03:40 PM,06:40 PM,False,True,08/14/19,11:40 AM,02:40 PM,FREE,BUSY
+76,08/23/19,07:10 PM,10:10 PM,Red Sox at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/23/19,08/24/19,10:10 PM,01:10 AM,False,True,08/23/19,06:10 PM,09:10 PM,FREE,BUSY
+77,08/24/19,05:40 PM,08:40 PM,Red Sox at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/24/19,08/24/19,08:40 PM,11:40 PM,False,True,08/24/19,04:40 PM,07:40 PM,FREE,BUSY
+78,08/25/19,01:10 PM,04:10 PM,Red Sox at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/25/19,08/25/19,04:10 PM,07:10 PM,False,True,08/25/19,12:10 PM,03:10 PM,FREE,BUSY
+79,08/26/19,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/26/19,08/27/19,10:10 PM,01:10 AM,False,True,08/26/19,06:10 PM,09:10 PM,FREE,BUSY
+80,08/27/19,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/27/19,08/28/19,10:10 PM,01:10 AM,False,True,08/27/19,06:10 PM,09:10 PM,FREE,BUSY
+81,08/28/19,06:10 PM,09:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,08/28/19,08/29/19,09:10 PM,12:10 AM,False,True,08/28/19,05:10 PM,08:10 PM,FREE,BUSY
+82,09/06/19,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/06/19,09/07/19,10:10 PM,01:10 AM,False,True,09/06/19,06:10 PM,09:10 PM,FREE,BUSY
+83,09/07/19,05:40 PM,08:40 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego- MLBN (out-of-market only) ----- Local Radio: KWFN 97.3- XEMO 860,09/07/19,09/07/19,08:40 PM,11:40 PM,False,True,09/07/19,04:40 PM,07:40 PM,FREE,BUSY
+84,09/08/19,01:10 PM,04:10 PM,Rockies at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/08/19,09/08/19,04:10 PM,07:10 PM,False,True,09/08/19,12:10 PM,03:10 PM,FREE,BUSY
+85,09/09/19,07:10 PM,10:10 PM,Cubs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/09/19,09/10/19,10:10 PM,01:10 AM,False,True,09/09/19,06:10 PM,09:10 PM,FREE,BUSY
+86,09/10/19,07:10 PM,10:10 PM,Cubs at Padres,Petco Park - San Diego,Local TV: FSSD- MLBN (out-of-market only)- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/10/19,09/11/19,10:10 PM,01:10 AM,False,True,09/10/19,06:10 PM,09:10 PM,FREE,BUSY
+87,09/11/19,07:10 PM,10:10 PM,Cubs at Padres,Petco Park - San Diego,Local TV: ESPN- FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/11/19,09/12/19,10:10 PM,01:10 AM,False,True,09/11/19,06:10 PM,09:10 PM,FREE,BUSY
+88,09/12/19,12:40 PM,03:40 PM,Cubs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/12/19,09/12/19,03:40 PM,06:40 PM,False,True,09/12/19,11:40 AM,02:40 PM,FREE,BUSY
+89,09/20/19,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/20/19,09/21/19,10:10 PM,01:10 AM,False,True,09/20/19,06:10 PM,09:10 PM,FREE,BUSY
+90,09/21/19,05:40 PM,08:40 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/21/19,09/21/19,08:40 PM,11:40 PM,False,True,09/21/19,04:40 PM,07:40 PM,FREE,BUSY
+91,09/22/19,01:10 PM,04:10 PM,D-backs at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/22/19,09/22/19,04:10 PM,07:10 PM,False,True,09/22/19,12:10 PM,03:10 PM,FREE,BUSY
+92,09/24/19,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/24/19,09/25/19,10:10 PM,01:10 AM,False,True,09/24/19,06:10 PM,09:10 PM,FREE,BUSY
+93,09/25/19,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/25/19,09/26/19,10:10 PM,01:10 AM,False,True,09/25/19,06:10 PM,09:10 PM,FREE,BUSY
+94,09/26/19,12:40 PM,03:40 PM,Dodgers at Padres,Petco Park - San Diego,Local TV: FSSD- FOX Deportes San Diego ----- Local Radio: KWFN 97.3- XEMO 860,09/26/19,09/26/19,03:40 PM,06:40 PM,False,True,09/26/19,11:40 AM,02:40 PM,FREE,BUSY
+95,02/22/20,12:10 PM,03:10 PM,Mariners at Padres,Peoria Stadium - Peoria,,02/22/20,02/22/20,03:10 PM,06:10 PM,False,True,02/22/20,11:10 AM,02:10 PM,FREE,BUSY
+96,02/25/20,12:10 PM,03:10 PM,Athletics at Padres,Peoria Stadium - Peoria,,02/25/20,02/25/20,03:10 PM,06:10 PM,False,True,02/25/20,11:10 AM,02:10 PM,FREE,BUSY
+97,02/26/20,12:10 PM,03:10 PM,Indians at Padres,Peoria Stadium - Peoria,,02/26/20,02/26/20,03:10 PM,06:10 PM,False,True,02/26/20,11:10 AM,02:10 PM,FREE,BUSY
+98,02/28/20,05:40 PM,08:40 PM,Cubs at Padres,Peoria Stadium - Peoria,,02/28/20,02/28/20,08:40 PM,11:40 PM,False,True,02/28/20,04:40 PM,07:40 PM,FREE,BUSY
+99,03/01/20,12:10 PM,03:10 PM,Giants at Padres,Peoria Stadium - Peoria,,03/01/20,03/01/20,03:10 PM,06:10 PM,False,True,03/01/20,11:10 AM,02:10 PM,FREE,BUSY
+100,03/03/20,12:10 PM,03:10 PM,Brewers at Padres,Peoria Stadium - Peoria,,03/03/20,03/03/20,03:10 PM,06:10 PM,False,True,03/03/20,11:10 AM,02:10 PM,FREE,BUSY
+101,03/04/20,12:10 PM,03:10 PM,Royals at Padres,Peoria Stadium - Peoria,,03/04/20,03/04/20,03:10 PM,06:10 PM,False,True,03/04/20,11:10 AM,02:10 PM,FREE,BUSY
+102,03/08/20,01:10 PM,04:10 PM,White Sox at Padres,Peoria Stadium - Peoria,,03/08/20,03/08/20,04:10 PM,07:10 PM,False,True,03/08/20,12:10 PM,03:10 PM,FREE,BUSY
+103,03/09/20,01:10 PM,04:10 PM,Dodgers at Padres,Peoria Stadium - Peoria,,03/09/20,03/09/20,04:10 PM,07:10 PM,False,True,03/09/20,12:10 PM,03:10 PM,FREE,BUSY
+104,03/11/20,06:40 PM,09:40 PM,Mariners at Padres,Peoria Stadium - Peoria,,03/11/20,03/12/20,09:40 PM,12:40 AM,False,True,03/11/20,05:40 PM,08:40 PM,FREE,BUSY
+105,03/14/20,01:10 PM,04:10 PM,D-backs at Padres,Peoria Stadium - Peoria,,03/14/20,03/14/20,04:10 PM,07:10 PM,False,True,03/14/20,12:10 PM,03:10 PM,FREE,BUSY
+106,03/16/20,01:10 PM,04:10 PM,Angels at Padres,Peoria Stadium - Peoria,,03/16/20,03/16/20,04:10 PM,07:10 PM,False,True,03/16/20,12:10 PM,03:10 PM,FREE,BUSY
+107,03/18/20,06:40 PM,09:40 PM,Reds at Padres,Peoria Stadium - Peoria,,03/18/20,03/19/20,09:40 PM,12:40 AM,False,True,03/18/20,05:40 PM,08:40 PM,FREE,BUSY
+108,03/21/20,01:10 PM,04:10 PM,Rockies at Padres,Peoria Stadium - Peoria,,03/21/20,03/21/20,04:10 PM,07:10 PM,False,True,03/21/20,12:10 PM,03:10 PM,FREE,BUSY
+109,03/26/20,01:10 PM,04:10 PM,Rockies at Padres,Petco Park - San Diego,,03/26/20,03/26/20,04:10 PM,07:10 PM,False,True,03/26/20,12:10 PM,03:10 PM,FREE,BUSY
+110,03/27/20,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,,03/27/20,03/28/20,10:10 PM,01:10 AM,False,True,03/27/20,06:10 PM,09:10 PM,FREE,BUSY
+111,03/28/20,05:40 PM,08:40 PM,Rockies at Padres,Petco Park - San Diego,,03/28/20,03/28/20,08:40 PM,11:40 PM,False,True,03/28/20,04:40 PM,07:40 PM,FREE,BUSY
+112,03/29/20,01:10 PM,04:10 PM,Rockies at Padres,Petco Park - San Diego,,03/29/20,03/29/20,04:10 PM,07:10 PM,False,True,03/29/20,12:10 PM,03:10 PM,FREE,BUSY
+113,03/30/20,07:10 PM,10:10 PM,Braves at Padres,Petco Park - San Diego,,03/30/20,03/31/20,10:10 PM,01:10 AM,False,True,03/30/20,06:10 PM,09:10 PM,FREE,BUSY
+114,03/31/20,07:10 PM,10:10 PM,Braves at Padres,Petco Park - San Diego,,03/31/20,04/01/20,10:10 PM,01:10 AM,False,True,03/31/20,06:10 PM,09:10 PM,FREE,BUSY
+115,04/01/20,12:40 PM,03:40 PM,Braves at Padres,Petco Park - San Diego,,04/01/20,04/01/20,03:40 PM,06:40 PM,False,True,04/01/20,11:40 AM,02:40 PM,FREE,BUSY
+116,04/10/20,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,,04/10/20,04/11/20,10:10 PM,01:10 AM,False,True,04/10/20,06:10 PM,09:10 PM,FREE,BUSY
+117,04/11/20,05:40 PM,08:40 PM,Giants at Padres,Petco Park - San Diego,,04/11/20,04/11/20,08:40 PM,11:40 PM,False,True,04/11/20,04:40 PM,07:40 PM,FREE,BUSY
+118,04/12/20,01:10 PM,04:10 PM,Giants at Padres,Petco Park - San Diego,,04/12/20,04/12/20,04:10 PM,07:10 PM,False,True,04/12/20,12:10 PM,03:10 PM,FREE,BUSY
+119,04/14/20,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,,04/14/20,04/15/20,10:10 PM,01:10 AM,False,True,04/14/20,06:10 PM,09:10 PM,FREE,BUSY
+120,04/15/20,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,,04/15/20,04/16/20,10:10 PM,01:10 AM,False,True,04/15/20,06:10 PM,09:10 PM,FREE,BUSY
+121,04/16/20,12:40 PM,03:40 PM,Rockies at Padres,Petco Park - San Diego,,04/16/20,04/16/20,03:40 PM,06:40 PM,False,True,04/16/20,11:40 AM,02:40 PM,FREE,BUSY
+122,04/27/20,07:10 PM,10:10 PM,Cardinals at Padres,Petco Park - San Diego,,04/27/20,04/28/20,10:10 PM,01:10 AM,False,True,04/27/20,06:10 PM,09:10 PM,FREE,BUSY
+123,04/28/20,07:10 PM,10:10 PM,Cardinals at Padres,Petco Park - San Diego,,04/28/20,04/29/20,10:10 PM,01:10 AM,False,True,04/28/20,06:10 PM,09:10 PM,FREE,BUSY
+124,04/29/20,07:10 PM,10:10 PM,Cardinals at Padres,Petco Park - San Diego,,04/29/20,04/30/20,10:10 PM,01:10 AM,False,True,04/29/20,06:10 PM,09:10 PM,FREE,BUSY
+125,04/30/20,12:40 PM,03:40 PM,Cardinals at Padres,Petco Park - San Diego,,04/30/20,04/30/20,03:40 PM,06:40 PM,False,True,04/30/20,11:40 AM,02:40 PM,FREE,BUSY
+126,05/01/20,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,,05/01/20,05/02/20,10:10 PM,01:10 AM,False,True,05/01/20,06:10 PM,09:10 PM,FREE,BUSY
+127,05/02/20,05:40 PM,08:40 PM,Dodgers at Padres,Petco Park - San Diego,,05/02/20,05/02/20,08:40 PM,11:40 PM,False,True,05/02/20,04:40 PM,07:40 PM,FREE,BUSY
+128,05/03/20,01:10 PM,04:10 PM,Dodgers at Padres,Petco Park - San Diego,,05/03/20,05/03/20,04:10 PM,07:10 PM,False,True,05/03/20,12:10 PM,03:10 PM,FREE,BUSY
+129,05/11/20,07:10 PM,10:10 PM,White Sox at Padres,Petco Park - San Diego,,05/11/20,05/12/20,10:10 PM,01:10 AM,False,True,05/11/20,06:10 PM,09:10 PM,FREE,BUSY
+130,05/12/20,07:10 PM,10:10 PM,White Sox at Padres,Petco Park - San Diego,,05/12/20,05/13/20,10:10 PM,01:10 AM,False,True,05/12/20,06:10 PM,09:10 PM,FREE,BUSY
+131,05/13/20,12:40 PM,03:40 PM,White Sox at Padres,Petco Park - San Diego,,05/13/20,05/13/20,03:40 PM,06:40 PM,False,True,05/13/20,11:40 AM,02:40 PM,FREE,BUSY
+132,05/14/20,07:10 PM,10:10 PM,Cubs at Padres,Petco Park - San Diego,,05/14/20,05/15/20,10:10 PM,01:10 AM,False,True,05/14/20,06:10 PM,09:10 PM,FREE,BUSY
+133,05/15/20,07:10 PM,10:10 PM,Cubs at Padres,Petco Park - San Diego,,05/15/20,05/16/20,10:10 PM,01:10 AM,False,True,05/15/20,06:10 PM,09:10 PM,FREE,BUSY
+134,05/16/20,05:40 PM,08:40 PM,Cubs at Padres,Petco Park - San Diego,,05/16/20,05/16/20,08:40 PM,11:40 PM,False,True,05/16/20,04:40 PM,07:40 PM,FREE,BUSY
+135,05/17/20,01:10 PM,04:10 PM,Cubs at Padres,Petco Park - San Diego,,05/17/20,05/17/20,04:10 PM,07:10 PM,False,True,05/17/20,12:10 PM,03:10 PM,FREE,BUSY
+136,05/26/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,05/26/20,05/27/20,10:10 PM,01:10 AM,False,True,05/26/20,06:10 PM,09:10 PM,FREE,BUSY
+137,05/27/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,05/27/20,05/28/20,10:10 PM,01:10 AM,False,True,05/27/20,06:10 PM,09:10 PM,FREE,BUSY
+138,05/28/20,06:10 PM,09:10 PM,D-backs at Padres,Petco Park - San Diego,,05/28/20,05/29/20,09:10 PM,12:10 AM,False,True,05/28/20,05:10 PM,08:10 PM,FREE,BUSY
+139,05/29/20,07:10 PM,10:10 PM,Marlins at Padres,Petco Park - San Diego,,05/29/20,05/30/20,10:10 PM,01:10 AM,False,True,05/29/20,06:10 PM,09:10 PM,FREE,BUSY
+140,05/30/20,,,Marlins at Padres - Time TBD,Petco Park - San Diego,,05/30/20,05/30/20,,,False,True,05/30/20,,,FREE,BUSY
+141,05/31/20,03:10 PM,06:10 PM,Marlins at Padres,Petco Park - San Diego,,05/31/20,05/31/20,06:10 PM,09:10 PM,False,True,05/31/20,02:10 PM,05:10 PM,FREE,BUSY
+142,06/12/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,06/12/20,06/13/20,10:10 PM,01:10 AM,False,True,06/12/20,06:10 PM,09:10 PM,FREE,BUSY
+143,06/13/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,06/13/20,06/14/20,10:10 PM,01:10 AM,False,True,06/13/20,06:10 PM,09:10 PM,FREE,BUSY
+144,06/14/20,01:10 PM,04:10 PM,D-backs at Padres,Petco Park - San Diego,,06/14/20,06/14/20,04:10 PM,07:10 PM,False,True,06/14/20,12:10 PM,03:10 PM,FREE,BUSY
+145,06/16/20,07:10 PM,10:10 PM,Reds at Padres,Petco Park - San Diego,,06/16/20,06/17/20,10:10 PM,01:10 AM,False,True,06/16/20,06:10 PM,09:10 PM,FREE,BUSY
+146,06/17/20,07:10 PM,10:10 PM,Reds at Padres,Petco Park - San Diego,,06/17/20,06/18/20,10:10 PM,01:10 AM,False,True,06/17/20,06:10 PM,09:10 PM,FREE,BUSY
+147,06/18/20,12:40 PM,03:40 PM,Reds at Padres,Petco Park - San Diego,,06/18/20,06/18/20,03:40 PM,06:40 PM,False,True,06/18/20,11:40 AM,02:40 PM,FREE,BUSY
+148,06/23/20,07:10 PM,10:10 PM,Indians at Padres,Petco Park - San Diego,,06/23/20,06/24/20,10:10 PM,01:10 AM,False,True,06/23/20,06:10 PM,09:10 PM,FREE,BUSY
+149,06/24/20,12:40 PM,03:40 PM,Indians at Padres,Petco Park - San Diego,,06/24/20,06/24/20,03:40 PM,06:40 PM,False,True,06/24/20,11:40 AM,02:40 PM,FREE,BUSY
+150,06/26/20,07:10 PM,10:10 PM,Mets at Padres,Petco Park - San Diego,,06/26/20,06/27/20,10:10 PM,01:10 AM,False,True,06/26/20,06:10 PM,09:10 PM,FREE,BUSY
+151,06/27/20,07:10 PM,10:10 PM,Mets at Padres,Petco Park - San Diego,,06/27/20,06/28/20,10:10 PM,01:10 AM,False,True,06/27/20,06:10 PM,09:10 PM,FREE,BUSY
+152,06/28/20,01:10 PM,04:10 PM,Mets at Padres,Petco Park - San Diego,,06/28/20,06/28/20,04:10 PM,07:10 PM,False,True,06/28/20,12:10 PM,03:10 PM,FREE,BUSY
+153,07/07/20,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,,07/07/20,07/08/20,10:10 PM,01:10 AM,False,True,07/07/20,06:10 PM,09:10 PM,FREE,BUSY
+154,07/08/20,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,,07/08/20,07/09/20,10:10 PM,01:10 AM,False,True,07/08/20,06:10 PM,09:10 PM,FREE,BUSY
+155,07/09/20,06:10 PM,09:10 PM,Dodgers at Padres,Petco Park - San Diego,,07/09/20,07/10/20,09:10 PM,12:10 AM,False,True,07/09/20,05:10 PM,08:10 PM,FREE,BUSY
+156,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+157,07/17/20,07:10 PM,10:10 PM,Brewers at Padres,Petco Park - San Diego,,07/17/20,07/18/20,10:10 PM,01:10 AM,False,True,07/17/20,06:10 PM,09:10 PM,FREE,BUSY
+158,07/18/20,05:40 PM,08:40 PM,Brewers at Padres,Petco Park - San Diego,,07/18/20,07/18/20,08:40 PM,11:40 PM,False,True,07/18/20,04:40 PM,07:40 PM,FREE,BUSY
+159,07/19/20,01:10 PM,04:10 PM,Brewers at Padres,Petco Park - San Diego,,07/19/20,07/19/20,04:10 PM,07:10 PM,False,True,07/19/20,12:10 PM,03:10 PM,FREE,BUSY
+160,07/27/20,07:10 PM,10:10 PM,Pirates at Padres,Petco Park - San Diego,,07/27/20,07/28/20,10:10 PM,01:10 AM,False,True,07/27/20,06:10 PM,09:10 PM,FREE,BUSY
+161,07/28/20,07:10 PM,10:10 PM,Pirates at Padres,Petco Park - San Diego,,07/28/20,07/29/20,10:10 PM,01:10 AM,False,True,07/28/20,06:10 PM,09:10 PM,FREE,BUSY
+162,07/29/20,12:40 PM,03:40 PM,Pirates at Padres,Petco Park - San Diego,,07/29/20,07/29/20,03:40 PM,06:40 PM,False,True,07/29/20,11:40 AM,02:40 PM,FREE,BUSY
+163,07/30/20,07:10 PM,10:10 PM,Phillies at Padres,Petco Park - San Diego,,07/30/20,07/31/20,10:10 PM,01:10 AM,False,True,07/30/20,06:10 PM,09:10 PM,FREE,BUSY
+164,07/31/20,07:10 PM,10:10 PM,Phillies at Padres,Petco Park - San Diego,,07/31/20,08/01/20,10:10 PM,01:10 AM,False,True,07/31/20,06:10 PM,09:10 PM,FREE,BUSY
+165,08/01/20,05:40 PM,08:40 PM,Phillies at Padres,Petco Park - San Diego,,08/01/20,08/01/20,08:40 PM,11:40 PM,False,True,08/01/20,04:40 PM,07:40 PM,FREE,BUSY
+166,08/02/20,01:10 PM,04:10 PM,Phillies at Padres,Petco Park - San Diego,,08/02/20,08/02/20,04:10 PM,07:10 PM,False,True,08/02/20,12:10 PM,03:10 PM,FREE,BUSY
+167,08/07/20,07:10 PM,10:10 PM,Rockies at Padres,Petco Park - San Diego,,08/07/20,08/08/20,10:10 PM,01:10 AM,False,True,08/07/20,06:10 PM,09:10 PM,FREE,BUSY
+168,08/08/20,05:40 PM,08:40 PM,Rockies at Padres,Petco Park - San Diego,,08/08/20,08/08/20,08:40 PM,11:40 PM,False,True,08/08/20,04:40 PM,07:40 PM,FREE,BUSY
+169,08/09/20,01:10 PM,04:10 PM,Rockies at Padres,Petco Park - San Diego,,08/09/20,08/09/20,04:10 PM,07:10 PM,False,True,08/09/20,12:10 PM,03:10 PM,FREE,BUSY
+170,08/18/20,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,,08/18/20,08/19/20,10:10 PM,01:10 AM,False,True,08/18/20,06:10 PM,09:10 PM,FREE,BUSY
+171,08/19/20,06:10 PM,09:10 PM,Giants at Padres,Petco Park - San Diego,,08/19/20,08/20/20,09:10 PM,12:10 AM,False,True,08/19/20,05:10 PM,08:10 PM,FREE,BUSY
+172,08/21/20,07:10 PM,10:10 PM,Nationals at Padres,Petco Park - San Diego,,08/21/20,08/22/20,10:10 PM,01:10 AM,False,True,08/21/20,06:10 PM,09:10 PM,FREE,BUSY
+173,08/22/20,05:40 PM,08:40 PM,Nationals at Padres,Petco Park - San Diego,,08/22/20,08/22/20,08:40 PM,11:40 PM,False,True,08/22/20,04:40 PM,07:40 PM,FREE,BUSY
+174,08/23/20,01:10 PM,04:10 PM,Nationals at Padres,Petco Park - San Diego,,08/23/20,08/23/20,04:10 PM,07:10 PM,False,True,08/23/20,12:10 PM,03:10 PM,FREE,BUSY
+175,09/01/20,07:10 PM,10:10 PM,Mariners at Padres,Petco Park - San Diego,,09/01/20,09/02/20,10:10 PM,01:10 AM,False,True,09/01/20,06:10 PM,09:10 PM,FREE,BUSY
+176,09/02/20,06:10 PM,09:10 PM,Mariners at Padres,Petco Park - San Diego,,09/02/20,09/03/20,09:10 PM,12:10 AM,False,True,09/02/20,05:10 PM,08:10 PM,FREE,BUSY
+177,09/03/20,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,,09/03/20,09/04/20,10:10 PM,01:10 AM,False,True,09/03/20,06:10 PM,09:10 PM,FREE,BUSY
+178,09/04/20,07:10 PM,10:10 PM,Giants at Padres,Petco Park - San Diego,,09/04/20,09/05/20,10:10 PM,01:10 AM,False,True,09/04/20,06:10 PM,09:10 PM,FREE,BUSY
+179,09/05/20,05:40 PM,08:40 PM,Giants at Padres,Petco Park - San Diego,,09/05/20,09/05/20,08:40 PM,11:40 PM,False,True,09/05/20,04:40 PM,07:40 PM,FREE,BUSY
+180,09/06/20,01:10 PM,04:10 PM,Giants at Padres,Petco Park - San Diego,,09/06/20,09/06/20,04:10 PM,07:10 PM,False,True,09/06/20,12:10 PM,03:10 PM,FREE,BUSY
+181,09/07/20,12:40 PM,03:40 PM,D-backs at Padres,Petco Park - San Diego,,09/07/20,09/07/20,03:40 PM,06:40 PM,False,True,09/07/20,11:40 AM,02:40 PM,FREE,BUSY
+182,09/08/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,09/08/20,09/09/20,10:10 PM,01:10 AM,False,True,09/08/20,06:10 PM,09:10 PM,FREE,BUSY
+183,09/09/20,07:10 PM,10:10 PM,D-backs at Padres,Petco Park - San Diego,,09/09/20,09/10/20,10:10 PM,01:10 AM,False,True,09/09/20,06:10 PM,09:10 PM,FREE,BUSY
+184,09/10/20,06:10 PM,09:10 PM,D-backs at Padres,Petco Park - San Diego,,09/10/20,09/11/20,09:10 PM,12:10 AM,False,True,09/10/20,05:10 PM,08:10 PM,FREE,BUSY
+185,09/22/20,07:10 PM,10:10 PM,Twins at Padres,Petco Park - San Diego,,09/22/20,09/23/20,10:10 PM,01:10 AM,False,True,09/22/20,06:10 PM,09:10 PM,FREE,BUSY
+186,09/23/20,07:10 PM,10:10 PM,Twins at Padres,Petco Park - San Diego,,09/23/20,09/24/20,10:10 PM,01:10 AM,False,True,09/23/20,06:10 PM,09:10 PM,FREE,BUSY
+187,09/24/20,12:40 PM,03:40 PM,Twins at Padres,Petco Park - San Diego,,09/24/20,09/24/20,03:40 PM,06:40 PM,False,True,09/24/20,11:40 AM,02:40 PM,FREE,BUSY
+188,09/25/20,07:10 PM,10:10 PM,Dodgers at Padres,Petco Park - San Diego,,09/25/20,09/26/20,10:10 PM,01:10 AM,False,True,09/25/20,06:10 PM,09:10 PM,FREE,BUSY
+189,09/26/20,05:40 PM,08:40 PM,Dodgers at Padres,Petco Park - San Diego,,09/26/20,09/26/20,08:40 PM,11:40 PM,False,True,09/26/20,04:40 PM,07:40 PM,FREE,BUSY
+190,09/27/20,12:10 PM,03:10 PM,Dodgers at Padres,Petco Park - San Diego,,09/27/20,09/27/20,03:10 PM,06:10 PM,False,True,09/27/20,11:10 AM,02:10 PM,FREE,BUSY

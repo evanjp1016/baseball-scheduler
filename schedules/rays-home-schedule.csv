@@ -1,0 +1,201 @@
+,START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+0,02/22/19,01:05 PM,01:05 PM,Phillies at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: MLB.com,02/22/19,02/22/19,04:05 PM,04:05 PM,False,True,02/22/19,12:05 PM,12:05 PM,FREE,BUSY
+1,02/24/19,01:05 PM,01:05 PM,Yankees at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM,02/24/19,02/24/19,04:05 PM,04:05 PM,False,True,02/24/19,12:05 PM,12:05 PM,FREE,BUSY
+2,02/25/19,01:05 PM,01:05 PM,Marlins at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,02/25/19,02/25/19,04:05 PM,04:05 PM,False,True,02/25/19,12:05 PM,12:05 PM,FREE,BUSY
+3,02/27/19,01:05 PM,01:05 PM,Red Sox at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,02/27/19,02/27/19,04:05 PM,04:05 PM,False,True,02/27/19,12:05 PM,12:05 PM,FREE,BUSY
+4,02/28/19,06:35 PM,06:35 PM,Twins at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: WDAE 620 AM /95.3 FM,02/28/19,02/28/19,09:35 PM,09:35 PM,False,True,02/28/19,05:35 PM,05:35 PM,FREE,BUSY
+5,03/02/19,01:05 PM,01:05 PM,Phillies at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,03/02/19,03/02/19,04:05 PM,04:05 PM,False,True,03/02/19,12:05 PM,12:05 PM,FREE,BUSY
+6,03/05/19,06:05 PM,06:05 PM,USF Bulls at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: WDAE 620 AM /95.3 FM,03/05/19,03/05/19,09:05 PM,09:05 PM,False,True,03/05/19,05:05 PM,05:05 PM,FREE,BUSY
+7,03/06/19,01:05 PM,01:05 PM,Orioles at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,03/06/19,03/06/19,04:05 PM,04:05 PM,False,True,03/06/19,12:05 PM,12:05 PM,FREE,BUSY
+8,03/07/19,01:05 PM,01:05 PM,Blue Jays at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: MLB.com,03/07/19,03/07/19,04:05 PM,04:05 PM,False,True,03/07/19,12:05 PM,12:05 PM,FREE,BUSY
+9,03/09/19,01:05 PM,01:05 PM,Orioles at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,03/09/19,03/09/19,04:05 PM,04:05 PM,False,True,03/09/19,12:05 PM,12:05 PM,FREE,BUSY
+10,03/10/19,01:05 PM,01:05 PM,Red Sox at Rays,Charlotte Sports Park - Port Charlotte,Local TV: MLBN ----- Local Radio: WDAE 620 AM /95.3 FM,03/10/19,03/10/19,04:05 PM,04:05 PM,False,True,03/10/19,12:05 PM,12:05 PM,FREE,BUSY
+11,03/14/19,01:05 PM,01:05 PM,Phillies at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: MLB.com,03/14/19,03/14/19,04:05 PM,04:05 PM,False,True,03/14/19,12:05 PM,12:05 PM,FREE,BUSY
+12,03/15/19,01:05 PM,01:05 PM,Tigers at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,03/15/19,03/15/19,04:05 PM,04:05 PM,False,True,03/15/19,12:05 PM,12:05 PM,FREE,BUSY
+13,03/18/19,01:05 PM,01:05 PM,Pirates at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: MLB.com,03/18/19,03/18/19,04:05 PM,04:05 PM,False,True,03/18/19,12:05 PM,12:05 PM,FREE,BUSY
+14,03/21/19,01:05 PM,01:05 PM,Braves at Rays,Charlotte Sports Park - Port Charlotte,Local Radio: MLB.com,03/21/19,03/21/19,04:05 PM,04:05 PM,False,True,03/21/19,12:05 PM,12:05 PM,FREE,BUSY
+15,03/22/19,01:05 PM,01:05 PM,Pirates at Rays,Charlotte Sports Park - Port Charlotte,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,03/22/19,03/22/19,04:05 PM,04:05 PM,False,True,03/22/19,12:05 PM,12:05 PM,FREE,BUSY
+16,03/26/19,12:35 PM,12:35 PM,Tigers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: MLB.com,03/26/19,03/26/19,03:35 PM,03:35 PM,False,True,03/26/19,11:35 AM,11:35 AM,FREE,BUSY
+17,03/28/19,04:00 PM,04:00 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,03/28/19,03/28/19,07:00 PM,07:00 PM,False,True,03/28/19,03:00 PM,03:00 PM,FREE,BUSY
+18,03/29/19,07:10 PM,07:10 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,03/29/19,03/29/19,10:10 PM,10:10 PM,False,True,03/29/19,06:10 PM,06:10 PM,FREE,BUSY
+19,03/30/19,06:10 PM,06:10 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760- WGES 680,03/30/19,03/30/19,09:10 PM,09:10 PM,False,True,03/30/19,05:10 PM,05:10 PM,FREE,BUSY
+20,03/31/19,01:10 PM,01:10 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,03/31/19,03/31/19,04:10 PM,04:10 PM,False,True,03/31/19,12:10 PM,12:10 PM,FREE,BUSY
+21,04/01/19,07:10 PM,07:10 PM,Rockies at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/01/19,04/01/19,10:10 PM,10:10 PM,False,True,04/01/19,06:10 PM,06:10 PM,FREE,BUSY
+22,04/02/19,07:10 PM,07:10 PM,Rockies at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/02/19,04/02/19,10:10 PM,10:10 PM,False,True,04/02/19,06:10 PM,06:10 PM,FREE,BUSY
+23,04/03/19,01:10 PM,01:10 PM,Rockies at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,04/03/19,04/03/19,04:10 PM,04:10 PM,False,True,04/03/19,12:10 PM,12:10 PM,FREE,BUSY
+24,04/16/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/16/19,04/16/19,10:10 PM,10:10 PM,False,True,04/16/19,06:10 PM,06:10 PM,FREE,BUSY
+25,04/17/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/17/19,04/17/19,10:10 PM,10:10 PM,False,True,04/17/19,06:10 PM,06:10 PM,FREE,BUSY
+26,04/18/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/18/19,04/18/19,10:10 PM,10:10 PM,False,True,04/18/19,06:10 PM,06:10 PM,FREE,BUSY
+27,04/19/19,07:10 PM,07:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/19/19,04/19/19,10:10 PM,10:10 PM,False,True,04/19/19,06:10 PM,06:10 PM,FREE,BUSY
+28,04/20/19,06:10 PM,06:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,04/20/19,04/20/19,09:10 PM,09:10 PM,False,True,04/20/19,05:10 PM,05:10 PM,FREE,BUSY
+29,04/21/19,02:10 PM,02:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,04/21/19,04/21/19,05:10 PM,05:10 PM,False,True,04/21/19,01:10 PM,01:10 PM,FREE,BUSY
+30,04/22/19,07:10 PM,07:10 PM,Royals at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/22/19,04/22/19,10:10 PM,10:10 PM,False,True,04/22/19,06:10 PM,06:10 PM,FREE,BUSY
+31,04/23/19,07:10 PM,07:10 PM,Royals at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,04/23/19,04/23/19,10:10 PM,10:10 PM,False,True,04/23/19,06:10 PM,06:10 PM,FREE,BUSY
+32,04/24/19,01:10 PM,01:10 PM,Royals at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,04/24/19,04/24/19,04:10 PM,04:10 PM,False,True,04/24/19,12:10 PM,12:10 PM,FREE,BUSY
+33,05/06/19,07:10 PM,07:10 PM,D-backs at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/06/19,05/06/19,10:10 PM,10:10 PM,False,True,05/06/19,06:10 PM,06:10 PM,FREE,BUSY
+34,05/07/19,07:10 PM,07:10 PM,D-backs at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/07/19,05/07/19,10:10 PM,10:10 PM,False,True,05/07/19,06:10 PM,06:10 PM,FREE,BUSY
+35,05/08/19,01:10 PM,01:10 PM,D-backs at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,05/08/19,05/08/19,04:10 PM,04:10 PM,False,True,05/08/19,12:10 PM,12:10 PM,FREE,BUSY
+36,05/10/19,07:10 PM,07:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/10/19,05/10/19,10:10 PM,10:10 PM,False,True,05/10/19,06:10 PM,06:10 PM,FREE,BUSY
+37,05/11/19,06:10 PM,06:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,05/11/19,05/11/19,09:10 PM,09:10 PM,False,True,05/11/19,05:10 PM,05:10 PM,FREE,BUSY
+38,05/12/19,01:10 PM,01:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,05/12/19,05/12/19,04:10 PM,04:10 PM,False,True,05/12/19,12:10 PM,12:10 PM,FREE,BUSY
+39,05/21/19,07:10 PM,07:10 PM,Dodgers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/21/19,05/21/19,10:10 PM,10:10 PM,False,True,05/21/19,06:10 PM,06:10 PM,FREE,BUSY
+40,05/22/19,07:10 PM,07:10 PM,Dodgers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/22/19,05/22/19,10:10 PM,10:10 PM,False,True,05/22/19,06:10 PM,06:10 PM,FREE,BUSY
+41,05/27/19,01:10 PM,01:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,05/27/19,05/27/19,04:10 PM,04:10 PM,False,True,05/27/19,12:10 PM,12:10 PM,FREE,BUSY
+42,05/28/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/28/19,05/28/19,10:10 PM,10:10 PM,False,True,05/28/19,06:10 PM,06:10 PM,FREE,BUSY
+43,05/29/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/29/19,05/29/19,10:10 PM,10:10 PM,False,True,05/29/19,06:10 PM,06:10 PM,FREE,BUSY
+44,05/30/19,07:10 PM,07:10 PM,Twins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/30/19,05/30/19,10:10 PM,10:10 PM,False,True,05/30/19,06:10 PM,06:10 PM,FREE,BUSY
+45,05/31/19,07:10 PM,07:10 PM,Twins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,05/31/19,05/31/19,10:10 PM,10:10 PM,False,True,05/31/19,06:10 PM,06:10 PM,FREE,BUSY
+46,06/01/19,01:10 PM,01:10 PM,Twins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/01/19,06/01/19,04:10 PM,04:10 PM,False,True,06/01/19,12:10 PM,12:10 PM,FREE,BUSY
+47,06/02/19,01:10 PM,01:10 PM,Twins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/02/19,06/02/19,04:10 PM,04:10 PM,False,True,06/02/19,12:10 PM,12:10 PM,FREE,BUSY
+48,06/10/19,07:10 PM,07:10 PM,Athletics at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,06/10/19,06/10/19,10:10 PM,10:10 PM,False,True,06/10/19,06:10 PM,06:10 PM,FREE,BUSY
+49,06/11/19,07:10 PM,07:10 PM,Athletics at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,06/11/19,06/11/19,10:10 PM,10:10 PM,False,True,06/11/19,06:10 PM,06:10 PM,FREE,BUSY
+50,06/12/19,12:10 PM,12:10 PM,Athletics at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM,06/12/19,06/12/19,03:10 PM,03:10 PM,False,True,06/12/19,11:10 AM,11:10 AM,FREE,BUSY
+51,06/13/19,07:10 PM,07:10 PM,Angels at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,06/13/19,06/13/19,10:10 PM,10:10 PM,False,True,06/13/19,06:10 PM,06:10 PM,FREE,BUSY
+52,06/14/19,07:10 PM,07:10 PM,Angels at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,06/14/19,06/14/19,10:10 PM,10:10 PM,False,True,06/14/19,06:10 PM,06:10 PM,FREE,BUSY
+53,06/15/19,01:10 PM,01:10 PM,Angels at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/15/19,06/15/19,04:10 PM,04:10 PM,False,True,06/15/19,12:10 PM,12:10 PM,FREE,BUSY
+54,06/16/19,01:10 PM,01:10 PM,Angels at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/16/19,06/16/19,04:10 PM,04:10 PM,False,True,06/16/19,12:10 PM,12:10 PM,FREE,BUSY
+55,06/28/19,07:10 PM,07:10 PM,Rangers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,06/28/19,06/28/19,10:10 PM,10:10 PM,False,True,06/28/19,06:10 PM,06:10 PM,FREE,BUSY
+56,06/29/19,04:10 PM,04:10 PM,Rangers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/29/19,06/29/19,07:10 PM,07:10 PM,False,True,06/29/19,03:10 PM,03:10 PM,FREE,BUSY
+57,06/30/19,01:10 PM,01:10 PM,Rangers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,06/30/19,06/30/19,04:10 PM,04:10 PM,False,True,06/30/19,12:10 PM,12:10 PM,FREE,BUSY
+58,07/01/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/01/19,07/01/19,10:10 PM,10:10 PM,False,True,07/01/19,06:10 PM,06:10 PM,FREE,BUSY
+59,07/02/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/02/19,07/02/19,10:10 PM,10:10 PM,False,True,07/02/19,06:10 PM,06:10 PM,FREE,BUSY
+60,07/03/19,07:10 PM,07:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/03/19,07/03/19,10:10 PM,10:10 PM,False,True,07/03/19,06:10 PM,06:10 PM,FREE,BUSY
+61,07/04/19,05:10 PM,05:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,07/04/19,07/04/19,08:10 PM,08:10 PM,False,True,07/04/19,04:10 PM,04:10 PM,FREE,BUSY
+62,07/05/19,07:10 PM,07:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/05/19,07/05/19,10:10 PM,10:10 PM,False,True,07/05/19,06:10 PM,06:10 PM,FREE,BUSY
+63,07/06/19,04:10 PM,04:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,07/06/19,07/06/19,07:10 PM,07:10 PM,False,True,07/06/19,03:10 PM,03:10 PM,FREE,BUSY
+64,07/07/19,01:10 PM,01:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- TBS ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,07/07/19,07/07/19,04:10 PM,04:10 PM,False,True,07/07/19,12:10 PM,12:10 PM,FREE,BUSY
+65,07/09/19,07:30 PM,07:30 PM,NL All-Stars at AL All-Stars,Progressive Field - Cleveland,,07/09/19,07/09/19,10:30 PM,10:30 PM,False,True,07/09/19,06:30 PM,06:30 PM,FREE,BUSY
+66,07/19/19,07:10 PM,07:10 PM,White Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/19/19,07/19/19,10:10 PM,10:10 PM,False,True,07/19/19,06:10 PM,06:10 PM,FREE,BUSY
+67,07/20/19,06:10 PM,06:10 PM,White Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,07/20/19,07/20/19,09:10 PM,09:10 PM,False,True,07/20/19,05:10 PM,05:10 PM,FREE,BUSY
+68,07/21/19,01:10 PM,01:10 PM,White Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,07/21/19,07/21/19,04:10 PM,04:10 PM,False,True,07/21/19,12:10 PM,12:10 PM,FREE,BUSY
+69,07/22/19,07:10 PM,07:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- ESPN ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/22/19,07/22/19,10:10 PM,10:10 PM,False,True,07/22/19,06:10 PM,06:10 PM,FREE,BUSY
+70,07/23/19,07:10 PM,07:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,07/23/19,07/23/19,10:10 PM,10:10 PM,False,True,07/23/19,06:10 PM,06:10 PM,FREE,BUSY
+71,07/24/19,12:10 PM,12:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM,07/24/19,07/24/19,03:10 PM,03:10 PM,False,True,07/24/19,11:10 AM,11:10 AM,FREE,BUSY
+72,08/03/19,06:10 PM,06:10 PM,Marlins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,08/03/19,08/03/19,09:10 PM,09:10 PM,False,True,08/03/19,05:10 PM,05:10 PM,FREE,BUSY
+73,08/04/19,01:10 PM,01:10 PM,Marlins at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,08/04/19,08/04/19,04:10 PM,04:10 PM,False,True,08/04/19,12:10 PM,12:10 PM,FREE,BUSY
+74,08/05/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/05/19,08/05/19,10:10 PM,10:10 PM,False,True,08/05/19,06:10 PM,06:10 PM,FREE,BUSY
+75,08/06/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/06/19,08/06/19,10:10 PM,10:10 PM,False,True,08/06/19,06:10 PM,06:10 PM,FREE,BUSY
+76,08/07/19,01:10 PM,01:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,08/07/19,08/07/19,04:10 PM,04:10 PM,False,True,08/07/19,12:10 PM,12:10 PM,FREE,BUSY
+77,08/16/19,07:10 PM,07:10 PM,Tigers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/16/19,08/16/19,10:10 PM,10:10 PM,False,True,08/16/19,06:10 PM,06:10 PM,FREE,BUSY
+78,08/17/19,06:10 PM,06:10 PM,Tigers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,08/17/19,08/17/19,09:10 PM,09:10 PM,False,True,08/17/19,05:10 PM,05:10 PM,FREE,BUSY
+79,08/18/19,01:10 PM,01:10 PM,Tigers at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,08/18/19,08/18/19,04:10 PM,04:10 PM,False,True,08/18/19,12:10 PM,12:10 PM,FREE,BUSY
+80,08/19/19,07:10 PM,07:10 PM,Mariners at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/19/19,08/19/19,10:10 PM,10:10 PM,False,True,08/19/19,06:10 PM,06:10 PM,FREE,BUSY
+81,08/20/19,07:10 PM,07:10 PM,Mariners at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/20/19,08/20/19,10:10 PM,10:10 PM,False,True,08/20/19,06:10 PM,06:10 PM,FREE,BUSY
+82,08/21/19,01:10 PM,01:10 PM,Mariners at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM,08/21/19,08/21/19,04:10 PM,04:10 PM,False,True,08/21/19,12:10 PM,12:10 PM,FREE,BUSY
+83,08/30/19,07:10 PM,07:10 PM,Indians at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,08/30/19,08/30/19,10:10 PM,10:10 PM,False,True,08/30/19,06:10 PM,06:10 PM,FREE,BUSY
+84,08/31/19,06:10 PM,06:10 PM,Indians at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,08/31/19,08/31/19,09:10 PM,09:10 PM,False,True,08/31/19,05:10 PM,05:10 PM,FREE,BUSY
+85,09/01/19,01:10 PM,01:10 PM,Indians at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,09/01/19,09/01/19,04:10 PM,04:10 PM,False,True,09/01/19,12:10 PM,12:10 PM,FREE,BUSY
+86,09/02/19,01:10 PM,01:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM,09/02/19,09/02/19,04:10 PM,04:10 PM,False,True,09/02/19,12:10 PM,12:10 PM,FREE,BUSY
+87,09/03/19,03:10 PM,03:10 PM,Orioles at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/03/19,09/03/19,06:10 PM,06:10 PM,False,True,09/03/19,02:10 PM,02:10 PM,FREE,BUSY
+88,09/03/19,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/03/19,09/03/19,,,False,True,09/03/19,,,FREE,BUSY
+89,09/05/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: YouTube ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/05/19,09/05/19,10:10 PM,10:10 PM,False,True,09/05/19,06:10 PM,06:10 PM,FREE,BUSY
+90,09/06/19,07:10 PM,07:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/06/19,09/06/19,10:10 PM,10:10 PM,False,True,09/06/19,06:10 PM,06:10 PM,FREE,BUSY
+91,09/07/19,06:10 PM,06:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,09/07/19,09/07/19,09:10 PM,09:10 PM,False,True,09/07/19,05:10 PM,05:10 PM,FREE,BUSY
+92,09/08/19,01:10 PM,01:10 PM,Blue Jays at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,09/08/19,09/08/19,04:10 PM,04:10 PM,False,True,09/08/19,12:10 PM,12:10 PM,FREE,BUSY
+93,09/20/19,07:10 PM,07:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/20/19,09/20/19,10:10 PM,10:10 PM,False,True,09/20/19,06:10 PM,06:10 PM,FREE,BUSY
+94,09/21/19,06:10 PM,06:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,09/21/19,09/21/19,09:10 PM,09:10 PM,False,True,09/21/19,05:10 PM,05:10 PM,FREE,BUSY
+95,09/22/19,01:10 PM,01:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WLCC 760,09/22/19,09/22/19,04:10 PM,04:10 PM,False,True,09/22/19,12:10 PM,12:10 PM,FREE,BUSY
+96,09/23/19,07:10 PM,07:10 PM,Red Sox at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- MLBN (out-of-market only) ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/23/19,09/23/19,10:10 PM,10:10 PM,False,True,09/23/19,06:10 PM,06:10 PM,FREE,BUSY
+97,09/24/19,07:10 PM,07:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/24/19,09/24/19,10:10 PM,10:10 PM,False,True,09/24/19,06:10 PM,06:10 PM,FREE,BUSY
+98,09/25/19,07:10 PM,07:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,Local TV: Fox Sports Sun- ESPN ----- Local Radio: WDAE 620 AM /95.3 FM- WGES 680,09/25/19,09/25/19,10:10 PM,10:10 PM,False,True,09/25/19,06:10 PM,06:10 PM,FREE,BUSY
+99,10/07/19,01:05 PM,01:05 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: MLBN- MLBN-INT ----- Local Radio: WDAE 620 AM /95.3 FM- ESPN Radio- WGES 680,10/07/19,10/07/19,04:05 PM,04:05 PM,False,True,10/07/19,12:05 PM,12:05 PM,FREE,BUSY
+100,10/08/19,07:07 PM,07:07 PM,Astros at Rays,Tropicana Field - St. Petersburg,Local TV: FS1- FS1-INT ----- Local Radio: WDAE 620 AM /95.3 FM- ESPN Radio- WGES 680,10/08/19,10/08/19,10:07 PM,10:07 PM,False,True,10/08/19,06:07 PM,06:07 PM,FREE,BUSY
+101,02/23/20,01:05 PM,01:05 PM,Yankees at Rays,Charlotte Sports Park - Port Charlotte,,02/23/20,02/23/20,04:05 PM,04:05 PM,False,True,02/23/20,12:05 PM,12:05 PM,FREE,BUSY
+102,02/24/20,01:05 PM,01:05 PM,Red Sox at Rays,Charlotte Sports Park - Port Charlotte,,02/24/20,02/24/20,04:05 PM,04:05 PM,False,True,02/24/20,12:05 PM,12:05 PM,FREE,BUSY
+103,02/26/20,01:05 PM,01:05 PM,Twins at Rays,Charlotte Sports Park - Port Charlotte,,02/26/20,02/26/20,04:05 PM,04:05 PM,False,True,02/26/20,12:05 PM,12:05 PM,FREE,BUSY
+104,02/27/20,01:05 PM,01:05 PM,Tigers at Rays,Charlotte Sports Park - Port Charlotte,,02/27/20,02/27/20,04:05 PM,04:05 PM,False,True,02/27/20,12:05 PM,12:05 PM,FREE,BUSY
+105,02/29/20,06:05 PM,06:05 PM,Braves at Rays,Charlotte Sports Park - Port Charlotte,,02/29/20,02/29/20,09:05 PM,09:05 PM,False,True,02/29/20,05:05 PM,05:05 PM,FREE,BUSY
+106,03/01/20,01:05 PM,01:05 PM,Twins at Rays,Charlotte Sports Park - Port Charlotte,,03/01/20,03/01/20,04:05 PM,04:05 PM,False,True,03/01/20,12:05 PM,12:05 PM,FREE,BUSY
+107,03/04/20,01:05 PM,01:05 PM,Blue Jays at Rays,Charlotte Sports Park - Port Charlotte,,03/04/20,03/04/20,04:05 PM,04:05 PM,False,True,03/04/20,12:05 PM,12:05 PM,FREE,BUSY
+108,03/05/20,01:05 PM,01:05 PM,Pirates at Rays,Charlotte Sports Park - Port Charlotte,,03/05/20,03/05/20,04:05 PM,04:05 PM,False,True,03/05/20,12:05 PM,12:05 PM,FREE,BUSY
+109,03/07/20,01:05 PM,01:05 PM,Orioles at Rays,Charlotte Sports Park - Port Charlotte,,03/07/20,03/07/20,04:05 PM,04:05 PM,False,True,03/07/20,12:05 PM,12:05 PM,FREE,BUSY
+110,03/08/20,01:05 PM,01:05 PM,Pirates at Rays,Charlotte Sports Park - Port Charlotte,,03/08/20,03/08/20,04:05 PM,04:05 PM,False,True,03/08/20,12:05 PM,12:05 PM,FREE,BUSY
+111,03/11/20,06:35 PM,06:35 PM,Red Sox at Rays,Charlotte Sports Park - Port Charlotte,,03/11/20,03/11/20,09:35 PM,09:35 PM,False,True,03/11/20,05:35 PM,05:35 PM,FREE,BUSY
+112,03/12/20,01:05 PM,01:05 PM,Phillies at Rays,Charlotte Sports Park - Port Charlotte,,03/12/20,03/12/20,04:05 PM,04:05 PM,False,True,03/12/20,12:05 PM,12:05 PM,FREE,BUSY
+113,03/15/20,01:05 PM,01:05 PM,Orioles at Rays,Charlotte Sports Park - Port Charlotte,,03/15/20,03/15/20,04:05 PM,04:05 PM,False,True,03/15/20,12:05 PM,12:05 PM,FREE,BUSY
+114,03/16/20,01:05 PM,01:05 PM,Braves at Rays,Charlotte Sports Park - Port Charlotte,,03/16/20,03/16/20,04:05 PM,04:05 PM,False,True,03/16/20,12:05 PM,12:05 PM,FREE,BUSY
+115,03/19/20,01:05 PM,01:05 PM,Blue Jays at Rays,Charlotte Sports Park - Port Charlotte,,03/19/20,03/19/20,04:05 PM,04:05 PM,False,True,03/19/20,12:05 PM,12:05 PM,FREE,BUSY
+116,03/20/20,01:05 PM,01:05 PM,Nationals at Rays,Charlotte Sports Park - Port Charlotte,,03/20/20,03/20/20,04:05 PM,04:05 PM,False,True,03/20/20,12:05 PM,12:05 PM,FREE,BUSY
+117,03/24/20,12:35 PM,12:35 PM,Rays Futures at Rays,Tropicana Field - St. Petersburg,,03/24/20,03/24/20,03:35 PM,03:35 PM,False,True,03/24/20,11:35 AM,11:35 AM,FREE,BUSY
+118,03/26/20,,,Pirates at Rays - Time TBD,Tropicana Field - St. Petersburg,,03/26/20,03/26/20,,,False,True,03/26/20,,,FREE,BUSY
+119,03/28/20,,,Pirates at Rays - Time TBD,Tropicana Field - St. Petersburg,,03/28/20,03/28/20,,,False,True,03/28/20,,,FREE,BUSY
+120,03/29/20,,,Pirates at Rays - Time TBD,Tropicana Field - St. Petersburg,,03/29/20,03/29/20,,,False,True,03/29/20,,,FREE,BUSY
+121,03/30/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,03/30/20,03/30/20,,,False,True,03/30/20,,,FREE,BUSY
+122,03/31/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,03/31/20,03/31/20,,,False,True,03/31/20,,,FREE,BUSY
+123,04/01/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/01/20,04/01/20,,,False,True,04/01/20,,,FREE,BUSY
+124,04/13/20,,,Astros at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/13/20,04/13/20,,,False,True,04/13/20,,,FREE,BUSY
+125,04/14/20,,,Astros at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/14/20,04/14/20,,,False,True,04/14/20,,,FREE,BUSY
+126,04/15/20,,,Astros at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/15/20,04/15/20,,,False,True,04/15/20,,,FREE,BUSY
+127,04/17/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/17/20,04/17/20,,,False,True,04/17/20,,,FREE,BUSY
+128,04/18/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/18/20,04/18/20,,,False,True,04/18/20,,,FREE,BUSY
+129,04/19/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/19/20,04/19/20,,,False,True,04/19/20,,,FREE,BUSY
+130,04/24/20,,,Royals at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/24/20,04/24/20,,,False,True,04/24/20,,,FREE,BUSY
+131,04/25/20,,,Royals at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/25/20,04/25/20,,,False,True,04/25/20,,,FREE,BUSY
+132,04/26/20,,,Royals at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/26/20,04/26/20,,,False,True,04/26/20,,,FREE,BUSY
+133,04/27/20,,,Indians at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/27/20,04/27/20,,,False,True,04/27/20,,,FREE,BUSY
+134,04/28/20,,,Indians at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/28/20,04/28/20,,,False,True,04/28/20,,,FREE,BUSY
+135,04/29/20,,,Indians at Rays - Time TBD,Tropicana Field - St. Petersburg,,04/29/20,04/29/20,,,False,True,04/29/20,,,FREE,BUSY
+136,05/08/20,,,Rangers at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/08/20,05/08/20,,,False,True,05/08/20,,,FREE,BUSY
+137,05/09/20,,,Rangers at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/09/20,05/09/20,,,False,True,05/09/20,,,FREE,BUSY
+138,05/10/20,,,Rangers at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/10/20,05/10/20,,,False,True,05/10/20,,,FREE,BUSY
+139,05/11/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/11/20,05/11/20,,,False,True,05/11/20,,,FREE,BUSY
+140,05/12/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/12/20,05/12/20,,,False,True,05/12/20,,,FREE,BUSY
+141,05/13/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/13/20,05/13/20,,,False,True,05/13/20,,,FREE,BUSY
+142,05/14/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/14/20,05/14/20,,,False,True,05/14/20,,,FREE,BUSY
+143,05/15/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/15/20,05/15/20,,,False,True,05/15/20,,,FREE,BUSY
+144,05/16/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/16/20,05/16/20,,,False,True,05/16/20,,,FREE,BUSY
+145,05/17/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/17/20,05/17/20,,,False,True,05/17/20,,,FREE,BUSY
+146,05/26/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/26/20,05/26/20,,,False,True,05/26/20,,,FREE,BUSY
+147,05/27/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/27/20,05/27/20,,,False,True,05/27/20,,,FREE,BUSY
+148,05/28/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/28/20,05/28/20,,,False,True,05/28/20,,,FREE,BUSY
+149,05/30/20,,,Brewers at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/30/20,05/30/20,,,False,True,05/30/20,,,FREE,BUSY
+150,05/31/20,,,Brewers at Rays - Time TBD,Tropicana Field - St. Petersburg,,05/31/20,05/31/20,,,False,True,05/31/20,,,FREE,BUSY
+151,06/09/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/09/20,06/09/20,,,False,True,06/09/20,,,FREE,BUSY
+152,06/10/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/10/20,06/10/20,,,False,True,06/10/20,,,FREE,BUSY
+153,06/11/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/11/20,06/11/20,,,False,True,06/11/20,,,FREE,BUSY
+154,06/12/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/12/20,06/12/20,,,False,True,06/12/20,,,FREE,BUSY
+155,06/13/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/13/20,06/13/20,,,False,True,06/13/20,,,FREE,BUSY
+156,06/14/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/14/20,06/14/20,,,False,True,06/14/20,,,FREE,BUSY
+157,06/23/20,,,Athletics at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/23/20,06/23/20,,,False,True,06/23/20,,,FREE,BUSY
+158,06/24/20,,,Athletics at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/24/20,06/24/20,,,False,True,06/24/20,,,FREE,BUSY
+159,06/25/20,,,Athletics at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/25/20,06/25/20,,,False,True,06/25/20,,,FREE,BUSY
+160,06/26/20,,,Mariners at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/26/20,06/26/20,,,False,True,06/26/20,,,FREE,BUSY
+161,06/27/20,,,Mariners at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/27/20,06/27/20,,,False,True,06/27/20,,,FREE,BUSY
+162,06/28/20,,,Mariners at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/28/20,06/28/20,,,False,True,06/28/20,,,FREE,BUSY
+163,06/29/20,,,Angels at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/29/20,06/29/20,,,False,True,06/29/20,,,FREE,BUSY
+164,06/30/20,,,Angels at Rays - Time TBD,Tropicana Field - St. Petersburg,,06/30/20,06/30/20,,,False,True,06/30/20,,,FREE,BUSY
+165,07/01/20,,,Angels at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/01/20,07/01/20,,,False,True,07/01/20,,,FREE,BUSY
+166,07/02/20,,,Angels at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/02/20,07/02/20,,,False,True,07/02/20,,,FREE,BUSY
+167,07/10/20,,,Cardinals at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/10/20,07/10/20,,,False,True,07/10/20,,,FREE,BUSY
+168,07/11/20,,,Cardinals at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/11/20,07/11/20,,,False,True,07/11/20,,,FREE,BUSY
+169,07/12/20,,,Cardinals at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/12/20,07/12/20,,,False,True,07/12/20,,,FREE,BUSY
+170,07/14/20,,,AL All-Stars at NL All-Stars - Time TBD,Dodger Stadium - Los Angeles,,07/14/20,07/14/20,,,False,True,07/14/20,,,FREE,BUSY
+171,07/24/20,,,Tigers at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/24/20,07/24/20,,,False,True,07/24/20,,,FREE,BUSY
+172,07/25/20,,,Tigers at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/25/20,07/25/20,,,False,True,07/25/20,,,FREE,BUSY
+173,07/26/20,,,Tigers at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/26/20,07/26/20,,,False,True,07/26/20,,,FREE,BUSY
+174,07/28/20,,,Marlins at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/28/20,07/28/20,,,False,True,07/28/20,,,FREE,BUSY
+175,07/29/20,,,Marlins at Rays - Time TBD,Tropicana Field - St. Petersburg,,07/29/20,07/29/20,,,False,True,07/29/20,,,FREE,BUSY
+176,08/07/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/07/20,08/07/20,,,False,True,08/07/20,,,FREE,BUSY
+177,08/08/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/08/20,08/08/20,,,False,True,08/08/20,,,FREE,BUSY
+178,08/09/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/09/20,08/09/20,,,False,True,08/09/20,,,FREE,BUSY
+179,08/10/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/10/20,08/10/20,,,False,True,08/10/20,,,FREE,BUSY
+180,08/11/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/11/20,08/11/20,,,False,True,08/11/20,,,FREE,BUSY
+181,08/12/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/12/20,08/12/20,,,False,True,08/12/20,,,FREE,BUSY
+182,08/13/20,,,Blue Jays at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/13/20,08/13/20,,,False,True,08/13/20,,,FREE,BUSY
+183,08/14/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/14/20,08/14/20,,,False,True,08/14/20,,,FREE,BUSY
+184,08/15/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/15/20,08/15/20,,,False,True,08/15/20,,,FREE,BUSY
+185,08/16/20,,,Orioles at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/16/20,08/16/20,,,False,True,08/16/20,,,FREE,BUSY
+186,08/28/20,,,Twins at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/28/20,08/28/20,,,False,True,08/28/20,,,FREE,BUSY
+187,08/29/20,,,Twins at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/29/20,08/29/20,,,False,True,08/29/20,,,FREE,BUSY
+188,08/30/20,,,Twins at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/30/20,08/30/20,,,False,True,08/30/20,,,FREE,BUSY
+189,08/31/20,,,White Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,08/31/20,08/31/20,,,False,True,08/31/20,,,FREE,BUSY
+190,09/01/20,,,White Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/01/20,09/01/20,,,False,True,09/01/20,,,FREE,BUSY
+191,09/02/20,,,White Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/02/20,09/02/20,,,False,True,09/02/20,,,FREE,BUSY
+192,09/03/20,,,White Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/03/20,09/03/20,,,False,True,09/03/20,,,FREE,BUSY
+193,09/14/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/14/20,09/14/20,,,False,True,09/14/20,,,FREE,BUSY
+194,09/15/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/15/20,09/15/20,,,False,True,09/15/20,,,FREE,BUSY
+195,09/16/20,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/16/20,09/16/20,,,False,True,09/16/20,,,FREE,BUSY
+196,09/17/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/17/20,09/17/20,,,False,True,09/17/20,,,FREE,BUSY
+197,09/18/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/18/20,09/18/20,,,False,True,09/18/20,,,FREE,BUSY
+198,09/19/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/19/20,09/19/20,,,False,True,09/19/20,,,FREE,BUSY
+199,09/20/20,,,Red Sox at Rays - Time TBD,Tropicana Field - St. Petersburg,,09/20/20,09/20/20,,,False,True,09/20/20,,,FREE,BUSY
